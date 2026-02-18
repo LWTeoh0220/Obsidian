@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⚙",
-      "LiCpu",
-      "LiCoins",
-      "LiTerminalSquare",
-      "LiSigma"
+      "LiBookTemplate",
+      "LiTimerReset",
+      "LiBrain",
+      "LiFactory",
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,14 @@
   "A02_COM_SCI": "LiTerminalSquare",
   "A03_FIN": "LiCoins",
   "B01_AI, FINTECH": "LiCpu",
-  "B02_IEOR, OPTIM": "⚙"
+  "B02_IEOR, OPTIM": "LiTimerReset",
+  "B03_MARKET_WATCH": "LiTrendingUpDown",
+  "C01_PROJECTS": "LiFlag",
+  "C02_UNIVERSITY": "LiUniversity",
+  "C03_LANGUAGE": "LiLanguages",
+  "D01_READING": "LiBookOpen",
+  "D02_INBOX": "LiInbox",
+  "D03_OTHERS": "LiRepeat2",
+  "X_ASSETS": "LiAlbum",
+  "X_TEMPLATES": "LiBookTemplate"
 }
