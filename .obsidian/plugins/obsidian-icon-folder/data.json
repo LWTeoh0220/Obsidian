@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBoxes",
+      "🧰",
       "LiBookTemplate",
       "LiTimerReset",
-      "LiBrain",
-      "LiFactory",
-      "LiAlbum"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "D02_INBOX": "LiInbox",
   "D03_OTHERS": "LiRepeat2",
   "X_ASSETS": "LiAlbum",
-  "X_TEMPLATES": "LiBookTemplate"
+  "X_TEMPLATES": "LiBookTemplate",
+  "A04_TECH_TOOLS": "LiBoxes"
 }

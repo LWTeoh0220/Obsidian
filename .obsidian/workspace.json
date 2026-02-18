@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "A04_TECH_TOOLS/Markdown_Guide/Markdown 文本格式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Markdown 文本格式"
             }
           }
         ]
@@ -187,9 +187,13 @@
   },
   "active": "d642f9001601ef09",
   "lastOpenFiles": [
+    "README.md",
+    "A04_TECH_TOOLS/Markdown_Guide/Markdown 文本格式.md",
+    "A04_TECH_TOOLS/Markdown_Guide",
+    "A04_TECH_TOOLS/Software_Learning",
+    "A04_TECH_TOOLS",
     "X_TEMPLATES/Template_公式與代碼.md",
     "X_TEMPLATES/Template_程式設計.md",
-    "README.md",
     "X_TEMPLATES/Template_市場.md",
     "2026-02-18.md",
     "Untitled.base",
@@ -202,9 +206,6 @@
     "C02_UNIVERSITY/General Education Courses",
     "C01_PROJECTS/Individual Development Plans",
     "C01_PROJECTS/Group Reports",
-    "C01_PROJECTS/Academic Paper",
-    "C01_PROJECTS/Major Projects",
-    "B01_AI, FINTECH/Deep Learning",
     "Untitled.md",
     "90_Templates/Template_程式設計.md",
     "Templates/Template_程式設計.md",
