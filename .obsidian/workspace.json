@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "A04_TECH_TOOLS/Markdown_Guide/Markdown 文本格式.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -187,8 +187,11 @@
   },
   "active": "d642f9001601ef09",
   "lastOpenFiles": [
-    "README.md",
+    "00_Assets/Pasted image 20260219000858.png",
     "A04_TECH_TOOLS/Markdown_Guide/Markdown 文本格式.md",
+    "00_Assets/Pasted image 20260219000903.png",
+    "00_Assets",
+    "README.md",
     "A04_TECH_TOOLS/Markdown_Guide",
     "A04_TECH_TOOLS/Software_Learning",
     "A04_TECH_TOOLS",
@@ -205,7 +208,6 @@
     "C02_UNIVERSITY/Administrative Afairs",
     "C02_UNIVERSITY/General Education Courses",
     "C01_PROJECTS/Individual Development Plans",
-    "C01_PROJECTS/Group Reports",
     "Untitled.md",
     "90_Templates/Template_程式設計.md",
     "Templates/Template_程式設計.md",
