@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X_TEMPLATES/Template_公式與代碼.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template_公式與代碼"
+              "title": "README"
             }
           }
         ]
@@ -185,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158792eceb8f6393",
+  "active": "d642f9001601ef09",
   "lastOpenFiles": [
+    "X_TEMPLATES/Template_公式與代碼.md",
     "X_TEMPLATES/Template_市場.md",
     "X_TEMPLATES/Template_程式設計.md",
     "README.md",
@@ -195,7 +196,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 1.base",
-    "X_TEMPLATES/Template_公式與代碼.md",
     "A01_MATH/Formula_Sheet.md",
     "C02_UNIVERSITY/Semester Planning",
     "C02_UNIVERSITY/Administrative Afairs",
