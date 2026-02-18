@@ -2,5 +2,6 @@
   "templater-obsidian",
   "shiki-highlighter",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-icon-folder"
 ]
