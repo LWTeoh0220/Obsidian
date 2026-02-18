@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/语言分类.md",
+                "file": "A02_COM_SCI/Languages/语言分类.md",
                 "mode": "source",
                 "source": false
               },
@@ -187,17 +187,17 @@
   },
   "active": "d642f9001601ef09",
   "lastOpenFiles": [
-    "A02_COM_SCI/Languages/Markup & Typesetting/Markdown_Guide/Markdown 列表.md",
-    "A02_COM_SCI/Languages/Markup & Typesetting/Markdown_Guide/Markdown 文本格式.md",
-    "A02_COM_SCI/语言分类.md",
-    "A02_COM_SCI/Languages/Markup & Typesetting/Untitled",
+    "A02_COM_SCI/Languages/Markup & Typesetting/Markdown/Markdown 文本格式.md",
+    "A02_COM_SCI/Languages/语言分类.md",
+    "A02_COM_SCI/Languages/Markup & Typesetting/Markdown/Markdown 列表.md",
+    "A02_COM_SCI/Languages/Data Serialization",
     "A02_COM_SCI/Languages/Markup & Typesetting",
     "A02_COM_SCI/Languages",
     "00_Assets/Pasted image 20260219000858.png",
     "00_Assets/Pasted image 20260219000903.png",
     "00_Assets",
     "README.md",
-    "A02_COM_SCI/Languages/Markup & Typesetting/Markdown_Guide",
+    "A02_COM_SCI/Languages/Markup & Typesetting/Markdown",
     "A04_TECH_TOOLS/Software_Learning",
     "A04_TECH_TOOLS",
     "X_TEMPLATES/Template_公式與代碼.md",
