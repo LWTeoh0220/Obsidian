@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "306a11f4876297be",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bdf51e0d538fbb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d642f9001601ef09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X_TEMPLATES/Template_市場.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template_市場"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f911d00f02e25d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4f5cc64a836eaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158792eceb8f6393",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e194d75b1b1520e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad359b2bc4dd08c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e28f9f290538ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74ea086cc336363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e551d5df79d29f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "f77278b9abec0741",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "df6864561d10a591",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91fa46f53418657e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ad3d8c70babe7d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "158792eceb8f6393",
+  "lastOpenFiles": [
+    "X_TEMPLATES/Template_程式設計.md",
+    "README.md",
+    "2026-02-18.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 1.base",
+    "X_TEMPLATES/Template_公式與代碼.md",
+    "X_TEMPLATES/Template_市場.md",
+    "A01_MATH/Formula_Sheet.md",
+    "C02_UNIVERSITY/Semester Planning",
+    "C02_UNIVERSITY/Administrative Afairs",
+    "C02_UNIVERSITY/General Education Courses",
+    "C01_PROJECTS/Individual Development Plans",
+    "C01_PROJECTS/Group Reports",
+    "C01_PROJECTS/Academic Paper",
+    "C01_PROJECTS/Major Projects",
+    "B01_AI, FINTECH/Deep Learning",
+    "Untitled.md",
+    "90_Templates/Template_程式設計.md",
+    "Templates/Template_程式設計.md",
+    "Templates/Template_市場.md",
+    "Templates/Template_公式與代碼.md",
+    "90_Templates/Template_市場.md",
+    "90_Templates/Template_公式與代碼.md",
+    "20_Daily_Logs/Untitled.md"
+  ]
+}
