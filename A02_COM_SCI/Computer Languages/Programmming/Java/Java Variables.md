@@ -17,14 +17,20 @@ tags:
 	 4. Boolean
 	
  Reference：
-	1. String
-	2. Array
-	3. Object
+	5. String
+	6. Array
+	7. Object
 
+## 注意事项
+1. 每写完一行都要放；
+2. 大小写很重要
+3. 首字母：int、double、char、boolean小写， String大写
+## Short Cut Key：
+Sout --> System.out.println();
 
-## 💻 程式碼範例
+## 程式碼範例
 ```java
-public class Learn2{
+public class LearnVariables{
 
     public static void main(String []args){
 
@@ -43,7 +49,6 @@ public class Learn2{
         /* boolean */
         boolean isStudent = true;
         System.out.println(isStudent);
-  
   
         /* String */
         String name = "LWTeoh";
