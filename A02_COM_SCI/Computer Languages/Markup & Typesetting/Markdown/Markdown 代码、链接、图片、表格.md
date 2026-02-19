@@ -64,9 +64,3 @@ print(ans(x))
 | 反斜杠 | `\\`   |     显示 \\ 符号           |
 | HTML  | 直接使用 | <code>&lt;div&gt;</code> |
 ```
-
-$\alpha$
-$E = mc^2$
-
-
-
