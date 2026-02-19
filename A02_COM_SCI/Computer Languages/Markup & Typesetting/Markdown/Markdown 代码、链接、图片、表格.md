@@ -22,5 +22,17 @@ print(ans(x))
 
 ---
 ## 链接
-#### 公式：` [链接文字](链接地址 "可选的标题")`
-这是通往Youtube的链接： （https://www.youtube.com/
+#### 公式：` [链接名称](链接地址)`  或  `<链接地址>`
+这是通往Youtube的链接： [YouTube](https://www.youtube.com)
+这是通往Youtube的链接： <https://www.youtube.com>
+
+## 参考链接
+#### 公式： `[链接文字][参考标签]`
+测试 [^1]
+
+
+
+
+
+
+[^1]: www.google.com
