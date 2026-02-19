@@ -14,6 +14,17 @@ tags:
 1. import java.util.Scanner;
 2. Scanner scanner = new Scanner(System.in);
 3. scanner.close();
+>- class外面import
+>- 代码写在步骤二（开启）和步骤三（关闭）之间
+
+| Variable | Step                |
+| :------: | ------------------- |
+|   int    | x = scanner.nextInt |
+#### 注意事项：
+1. 若希望输入时在下一行则用 System.out.**println**();  否则为System.out.print();就可以了
+2. 如果是input String，同时String不是第一个input，就要在String的Sout前面放scanner.nextLine();
+3. nextInt, nextLine, nextDouble 记得I、L、D、B都要大写
+
 
 
 ## 💻 程式碼範例
