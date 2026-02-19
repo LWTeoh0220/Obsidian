@@ -26,13 +26,12 @@ print(ans(x))
 这是通往Youtube的链接： [YouTube](https://www.youtube.com)
 这是通往Youtube的链接： <https://www.youtube.com>
 
-## 参考链接
-#### 公式： `[链接文字][参考标签]`
-测试 [^1]
+
+## 图片
+#### 公式：`![替代文字](图片路径)`
+![猫咪照片](D:\20_Knowledge_Base\X_ASSETS\91.png)
 
 
-
-
-
-
-[^1]: www.google.com
+---
+## 表格
+#### 公式： ` |  表头   | 表头  |`
