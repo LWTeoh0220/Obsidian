@@ -25,8 +25,14 @@ tags:
 1. 每写完一行都要放；
 2. 大小写很重要
 3. 首字母：int、double、char、boolean小写， String大写
+
 ## Short Cut Key：
-Sout --> System.out.println();
+| SCK  | 代码                                          |
+| ---- | ------------------------------------------- |
+| psvm | public static void main(String[] args) {  } |
+| Sout | System.out.println();                       |
+
+
 
 ## 程式碼範例
 ```java
