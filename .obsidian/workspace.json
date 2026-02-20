@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "062a6b0abdf3e629",
+  "active": "dc4a2a79acf67ce9",
   "lastOpenFiles": [
     "A02_COM_SCI/Computer Languages/语言分类.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/03 Markdown 代码、链接、图片、表格.md",
