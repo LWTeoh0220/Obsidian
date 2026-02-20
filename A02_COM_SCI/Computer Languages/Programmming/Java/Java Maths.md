@@ -15,9 +15,19 @@ tags:
 - 可使用 `+=` / `-=` / `*=` / `%=`
 -  x++ 是  `x += 1`  x-- 是 `x -= 1` 
 
-#### math:
+#### Math:
 - **Mathematical Constants** ： PI /  E / TAU
-- 
+
+|     数字      |        公式        |
+| :---------: | :--------------: |
+|    power    | Math.pow(数字, 次数) |
+|  absolute   |   Math.abs(数字)   |
+| square root |  Math.sqrt(数字)   |
+|    四舍五入     |  Math.round(数字)  |
+|    向上取整     |  Math.ceil(数字)   |
+|    向下取整     |  Math.floor(数字)  |
+|             |                  |
+
 
 ## 💻 程式碼範例
 ```java
