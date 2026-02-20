@@ -1,7 +1,7 @@
 ---
 course: Programming
 date: 2026-02-20
-topic:
+topic: Java Print
 tags:
   - Java
   - Printf
@@ -37,12 +37,30 @@ tags:
 
 
 
-
 ## 💻 程式碼範例
 ```java
-public class HelloWorld {
-    public static void main(String []args) {
-       System.out.println("Hello World");
-    }
+package Notes;
+public class LearnPrintf {
+    public static void main(String[] args) {
+
+        String subject = "Calculus";
+        char grade = 'A';
+        int score = 94;
+        double averageScore = 93.234;
+        boolean isPass = true;
+
+        System.out.printf("Calculating your %s score = %d\n", subject, score);
+        System.out.printf("Your %s grade is %c\n", subject, grade);
+        System.out.printf("Your Average score is % .2f\n", averageScore);
+
+  
+
+        if(averageScore >= 60){
+            System.out.println("You pass the exam");
+        }
+        else{
+            System.out.println("Please be harder");
+        }
+    }
 }
 ````
