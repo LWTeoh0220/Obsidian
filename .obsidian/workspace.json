@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Substrings.md",
+                "file": "A02_COM_SCI/Computer Languages/Programmming/学习目标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Java Substrings"
+              "title": "学习目标"
             }
           },
           {
@@ -212,8 +212,10 @@
   },
   "active": "dc4a2a79acf67ce9",
   "lastOpenFiles": [
-    "A02_COM_SCI/Computer Languages/Programmming/Java/Java 笔记.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Substrings.md",
+    "A02_COM_SCI/Computer Languages/Programmming/学习目标.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Untitled",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/Java 笔记.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
@@ -245,13 +247,11 @@
     "00_Assets",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown",
     "A04_TECH_TOOLS/Software_Learning",
-    "A04_TECH_TOOLS",
     "2026-02-18.md",
     "Untitled 1.canvas",
     "A01_MATH/Formula_Sheet.md",
     "Untitled.md",
     "90_Templates/Template_程式設計.md",
-    "Templates/Template_程式設計.md",
-    "Templates/Template_市場.md"
+    "Templates/Template_程式設計.md"
   ]
 }
