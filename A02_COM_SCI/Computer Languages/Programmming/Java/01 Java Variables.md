@@ -25,6 +25,7 @@ tags:
 1. 每写完一行都要放；
 2. 大小写很重要
 3. 首字母：int、double、char、boolean小写， String大写
+4. char的variable要用‘ ，而一般的print要用“ ”
 
 ## Short Cut Key：
 | SCK  | 代码                                          |
