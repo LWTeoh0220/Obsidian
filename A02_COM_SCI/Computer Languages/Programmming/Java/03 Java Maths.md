@@ -1,5 +1,5 @@
 ---
-course:
+course: Programming
 date: 2026-02-20
 topic:
 tags:
@@ -13,22 +13,32 @@ tags:
 ## 💡 核心概念
 #### arithmetic:
 - 可使用 `+=` / `-=` / `*=` / `%=`
--  x++ 是  `x += 1`  x-- 是 `x -= 1` 
+- x++ 是  `x += 1` ,  x-- 是 `x -= 1` 
 
 #### Math:
 - **Mathematical Constants** ： PI /  E / TAU
 
-|     数字      |        公式        |
-| :---------: | :--------------: |
-|    power    | Math.pow(数字, 次数) |
-|  absolute   |   Math.abs(数字)   |
-| square root |  Math.sqrt(数字)   |
-|    四舍五入     |  Math.round(数字)  |
-|    向上取整     |  Math.ceil(数字)   |
-|    向下取整     |  Math.floor(数字)  |
-|             |                  |
+|     数字      |         公式         |
+| :---------: | :----------------: |
+|    power    |  Math.pow(数字, 次数)  |
+|  absolute   |    Math.abs(数字)    |
+| square root |   Math.sqrt(数字)    |
+|    四舍五入     |   Math.round(数字)   |
+|    向上取整     |   Math.ceil(数字)    |
+|    向下取整     |   Math.floor(数字)   |
+|   maximum   | Math.max(n.1, n.2) |
+|   minimum   | Math.min(n.1, n.2) |
 
+#### Random:
+##### 前置作业：
+1. import java.util.Random;
+2. Random random = new Random();
 
+|       数字        |            公式             |
+| :-------------: | :-----------------------: |
+|     两数间的int     | random.nextInt(最小数，最大数+1) |
+|    0-1之间的随机数    |   random.nextDouble();    |
+| 随机返回 true/false |   random.nextBoolean();   |
 ## 💻 程式碼範例
 ```java
 package Notes;
