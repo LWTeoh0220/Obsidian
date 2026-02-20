@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -210,11 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc4a2a79acf67ce9",
+  "active": "062a6b0abdf3e629",
   "lastOpenFiles": [
-    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/Java 笔记.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
