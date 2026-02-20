@@ -5,7 +5,7 @@ topic: if statement
 tags:
   - if_statement
 ---
-# Topic：04 Java if statement
+# Topic：Java if statement
 
 ## 💡 核心概念
 - 公式： 
