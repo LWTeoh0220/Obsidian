@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ternary_operator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,12 +99,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -211,17 +211,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e194d75b1b1520e",
+  "active": "dc4a2a79acf67ce9",
   "lastOpenFiles": [
-    "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Substrings.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/学习目标.md",
     "A02_COM_SCI/Computer Languages/Programmming/Untitled",
     "A02_COM_SCI/Computer Languages/Programmming/Java/Java 笔记.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/语言分类.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/03 Markdown 代码、链接、图片、表格.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",

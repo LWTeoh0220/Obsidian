@@ -5,6 +5,7 @@ topic: if statement
 tags:
   - if_statement
   - ternary_operator
+  - enhanced_switch
 ---
 # Topic：Java if statement
 
@@ -22,6 +23,9 @@ else{
 内容...
 内容...
 }
+
+- ternary operator:
+**variable = (condition) ? ifTrue : ifFalse;**
 
 
 
