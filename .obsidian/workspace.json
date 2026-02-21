@@ -44,6 +44,18 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "30bdce6ad7934948",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "X_ASSETS/Java_Learning_001.png"
+              },
+              "icon": "lucide-image",
+              "title": "Java_Learning_001"
+            }
           }
         ],
         "currentTab": 1
@@ -103,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -213,13 +224,16 @@
   },
   "active": "dc4a2a79acf67ce9",
   "lastOpenFiles": [
+    "X_ASSETS/Java_Learning_001.png",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/Java 笔记.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
+    "X_ASSETS/Java_Learning_001 1.png",
+    "00_Assets/Pasted image 20260221214211.png",
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Substrings.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/学习目标.md",
     "A02_COM_SCI/Computer Languages/Programmming/Untitled",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/Java 笔记.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/语言分类.md",
@@ -252,7 +266,6 @@
     "Untitled 1.canvas",
     "A01_MATH/Formula_Sheet.md",
     "Untitled.md",
-    "90_Templates/Template_程式設計.md",
-    "Templates/Template_程式設計.md"
+    "90_Templates/Template_程式設計.md"
   ]
 }

@@ -6,11 +6,12 @@ tags:
   - if_statement
   - ternary_operator
   - enhanced_switch
+latest update: 02/21/2026
 ---
 # Topic：Java if statement
 
 ## 💡 核心概念
-- 公式： 
+#### 1. if......else if......else : 
 if( 条件){
 内容....
 内容....
@@ -24,11 +25,13 @@ else{
 内容...
 }
 
-- ternary operator:
+#### 2. ternary operator :
 **variable = (condition) ? ifTrue : ifFalse;**
 
 
 
+#### 3. enhanced switch : 
+![][X_ASSETS/Java_Learning_001.png]
 
 ## 💻 程式碼範例
 ```java
@@ -84,6 +87,36 @@ public class LearnIfStatement {
 
         String passOrFail = (score >= 60) ? "Pass" : "Fail";
         System.out.println(passOrFail);
+        
+          
+   
+        /* Enhanced switch */
+        scanner.nextLine();
+        System.out.print("Enter a day: ");
+        String day = scanner.nextLine();
+
+  
+
+        /*
+        switch(day){
+            case "Monday" -> System.out.println("It is a weekday");
+            case "Tuesday" -> System.out.println("It is a weekday");
+            case "Wednesday" -> System.out.println("It is a weekday");
+            case "Thursday" -> System.out.println("It is a weekday");
+            case "Friday" -> System.out.println("It is a weekday");
+            case "Saturday" -> System.out.println("It is a weekend");
+            case "Sunday" -> System.out.println("It is a weekend");
+            default -> System.out.printf("%s is not a day", day);
+        }
+         */
+
+        switch(day){
+            case "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" ->
+                System.out.println("It is a weekday");
+            case "Saturday", "Sunday" ->
+                System.out.println("It is a weekend");
+            default -> System.out.println(day + "is not a day");
+        }
         
         
 		scanner.close();
