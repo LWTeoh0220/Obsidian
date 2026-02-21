@@ -4,6 +4,7 @@ date: 2026-02-20
 topic: if statement
 tags:
   - if_statement
+  - ternary_operator
 ---
 # Topic：Java if statement
 
@@ -21,6 +22,9 @@ else{
 内容...
 内容...
 }
+
+
+
 
 ## 💻 程式碼範例
 ```java
@@ -65,6 +69,18 @@ public class LearnIfStatement {
         else{
             System.out.println("You are a child");
         }
+        
+        
+          
+
+        /* ternary operator  */
+        // variable = (condition) ? ifTrue : ifFalse;
+
+        int score = 55;
+
+        String passOrFail = (score >= 60) ? "Pass" : "Fail";
+        System.out.println(passOrFail);
+        
         
 		scanner.close();
     }

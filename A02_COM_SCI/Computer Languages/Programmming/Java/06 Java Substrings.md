@@ -5,6 +5,7 @@ topic:
 tags:
   - Java
   - String
+  - SubString
 ---
 # Topic：Java Substrings
 
@@ -13,9 +14,62 @@ tags:
 
 ## 💻 程式碼範例
 ```java
-public class HelloWorld {
-    public static void main(String []args) {
-       System.out.println("Hello World");
-    }
+package Notes;
+
+public class LearnString {
+    public static void main(String[] args) {
+    
+        /* String mathod */
+        String name = " LWTeoh L ";
+       
+        int length = name.length();
+        char letter = name.charAt(0);
+        int index = name.indexOf("L");
+        int lastIndex = name.lastIndexOf("L");
+
+        System.out.println(length);
+        System.out.println(letter);
+        System.out.println(index);
+        System.out.println(lastIndex);
+
+  
+        name = name.toLowerCase();
+        System.out.println(name);
+
+        name = name.toUpperCase();
+        System.out.println(name);
+
+        name = name.trim();
+        System.out.println(name);
+
+  
+        name = name.replace("L", "G");
+        System.out.println(name);
+        
+        System.out.println(name.isEmpty());
+        System.out.println("".isEmpty());
+
+        System.out.println(name.contains(" "));
+        System.out.println(name.contains("L"));
+
+  
+
+        System.out.println(name.equals("LWTEOH L"));
+        System.out.println(name.equals("GWTEOH G"));
+        System.out.println(name.equalsIgnoreCase("gwteoh g"));
+
+  
+
+        /* SubString mathod */
+        String email = "t114ab0049@ntut.org.tw";
+        
+        String studentID = email.substring(0,10);
+        String domain1 = email.substring(10);
+        String domain2 = email.substring(email.indexOf("@") +1 );
+
+        System.out.println(studentID);
+        System.out.println(domain1);
+        System.out.println(domain2);
+    }
 }
 ````
