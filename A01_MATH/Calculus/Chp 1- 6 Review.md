@@ -4,17 +4,24 @@ $$  \begin{aligned}
 步骤公式 （1）
 \end{aligned}$$
 
- 
+ ---
+ $$  \begin{aligned} 
+1. \quad &\
+& \text{Let } f\left(\frac{x+1}{1-x}\right) = 2x + 3. \text{ Find } f(x). \\
+
+\text(\frac{x+1}{1-x}) 
 
 
- $$\begin{aligned} 1. \quad &\
+\end{aligned}$$
+
+
+ $$\begin{aligned} 
+ 2. \quad &\
  \lim\limits_{t \to 1} (t^{2010} + t + 1)^3 \\ 
  &= (1^{2021} + 1 +1)^3 \\
  &= 3^3 \\
  &= 27
  \end{aligned}$$
- 
-
 
 
 $$  \begin{aligned} 
