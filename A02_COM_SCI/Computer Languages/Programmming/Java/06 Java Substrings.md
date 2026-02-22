@@ -10,7 +10,17 @@ tags:
 # Topic：Java Substrings
 
 ## 💡 核心概念
--
+
+| 表示           | 公式                   |
+| ------------ | -------------------- |
+| 输出index数量    | x.length();          |
+| 依据index找元素   | x.charAt();          |
+| 依据元素找最前index | x.indexOf("元素");     |
+| 依据元素找最后index | x.lastIndexOf("元素"); |
+|              |                      |
+| 所有元素小写       | x.toLowerCase();     |
+| 所有元素大写       | x.toUpperCase();     |
+|              |                      |
 
 ## 💻 程式碼範例
 ```java

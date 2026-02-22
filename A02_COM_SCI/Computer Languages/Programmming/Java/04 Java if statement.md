@@ -33,6 +33,8 @@ else{
 #### 3. enhanced switch : 
 ![][X_ASSETS/Java_Learning_001.png]
 
+
+
 ## 💻 程式碼範例
 ```java
 package Notes;
