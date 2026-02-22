@@ -29,8 +29,8 @@ tags:
 | 确认是否等于（忽略大小写）       | x.equalsIgnoreCase("String); |
 |                     |                              |
 | SubString           |                              |
-| index 0 到 10        | x.substring(10)              |
-|                     | x.substring()                |
+| index 10 到 最后       | x.substring(10)              |
+| index 2 到 9         | x.substring(2,10)            |
 
 ## 💻 程式碼範例
 ```java
