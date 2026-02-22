@@ -1,0 +1,9 @@
+<style>
+  .math-block > mghtml > .mjx-math {
+    text-align: left !important;
+  }
+  .math-block > mghtml {
+    display: block !important;
+    text-align: left !important;
+  }
+</style>
