@@ -1,9 +1,5 @@
-<style>
-  .math-block > mghtml > .mjx-math {
+.math-block .MathJax {
     text-align: left !important;
-  }
-  .math-block > mghtml {
-    display: block !important;
-    text-align: left !important;
-  }
-</style>
+    display: inline !important;
+    margin-left: 1em !important; /* 可选：留一点左边距更美观 */
+}

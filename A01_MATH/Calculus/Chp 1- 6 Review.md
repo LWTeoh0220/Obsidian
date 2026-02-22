@@ -7,9 +7,14 @@ $$  \begin{aligned}
  ---
  $$  \begin{aligned} 
 1. \quad &\
-& \text{Let } f\left(\frac{x+1}{1-x}\right) = 2x + 3. \text{ Find } f(x). \\
 
-\text(\frac{x+1}{1-x}) 
+
+\text{let }\frac{x+1}{1-x} = y \\
+\Rightarrow x+1= y-xy \\
+\Rightarrow x =\frac{y-1}{y+1}\\
+\because f(\frac{x+1}{1-x}) = 2x +3 \\
+\Rightarrow f(y) = 2(\frac{y-1}{y+1}) + 3 \\
+
 
 
 \end{aligned}$$
