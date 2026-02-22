@@ -4,4 +4,5 @@
 [[03 Java Maths]]
 [[04 Java if statement]]
 [[05 Java Printf]]
-[[06 Java Substrings]]
+[[06 Java Strings]]
+[[07 Java logical operators]]

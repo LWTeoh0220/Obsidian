@@ -7,20 +7,30 @@ tags:
   - String
   - SubString
 ---
-# Topic：Java Substrings
+# Topic：Java Strings
 
 ## 💡 核心概念
 
-| 表示           | 公式                   |
-| ------------ | -------------------- |
-| 输出index数量    | x.length();          |
-| 依据index找元素   | x.charAt();          |
-| 依据元素找最前index | x.indexOf("元素");     |
-| 依据元素找最后index | x.lastIndexOf("元素"); |
-|              |                      |
-| 所有元素小写       | x.toLowerCase();     |
-| 所有元素大写       | x.toUpperCase();     |
-|              |                      |
+| 表示                  | 公式                           |
+| ------------------- | ---------------------------- |
+| 输出index数量           | x.length();                  |
+| 依据index找元素          | x.charAt();                  |
+| 依据元素找最前index        | x.indexOf("元素");             |
+| 依据元素找最后index        | x.lastIndexOf("元素");         |
+|                     |                              |
+| 所有元素小写              | x.toLowerCase();             |
+| 所有元素大写              | x.toUpperCase();             |
+| 去除前后空白格             | x.trim();                    |
+|                     |                              |
+| 替换元素                | x.replace("元素1", "元素2“);     |
+| 确认是否为空 true/false   | x.isEmpty();                 |
+| 确认是否包含元素 true/false | x.contains("元素");            |
+| 确认是否完全等于            | x.equals("String");          |
+| 确认是否等于（忽略大小写）       | x.equalsIgnoreCase("String); |
+|                     |                              |
+| SubString           |                              |
+| index 0 到 10        | x.substring(10)              |
+|                     | x.substring()                |
 
 ## 💻 程式碼範例
 ```java
