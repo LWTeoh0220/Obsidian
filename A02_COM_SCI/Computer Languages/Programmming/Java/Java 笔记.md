@@ -5,4 +5,4 @@
 [[04 Java if statement]]
 [[05 Java Printf]]
 [[06 Java Strings]]
-[[07 Java logical operators]]
+[[07 Java Loops and logical operators]]
