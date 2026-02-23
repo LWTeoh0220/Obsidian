@@ -54,10 +54,34 @@
 | $\oplus$      | \oplus      |
 | $\vee$        | \vee        |
 | $\wedge$      | \wedge      |
-| $\exists$     | \exists     |
-| $\forall$     | \forall     |
 |               |             |
 | $\frac{x}{y}$ | \frac{x}{y} |
 | $\sqrt{x}$    | \sqrt{x}    |
 | $\sqrt[n]{x}$ | \sqrt[n]{x} |
+|               |             |
+
+### 关系
+
+| 符号          | 公式          |
+| ----------- | ----------- |
+| $\exists$   | \exists     |
+| $\forall$   | \forall     |
+|             |             |
+| $=$         | =           |
+| $\equiv$    | \equiv      |
+| $\not=$     | \not=       |
+| $\approx$   | \approx     |
+| $<$         | <           |
+| $\le$       | \le         |
+| $\ll$       | \ll     [L] |
+| $>$         | >           |
+| $\ge$       | \ge         |
+| $\gg$       | \gg         |
+|             |             |
+| $\in$       | \in         |
+| $\subset$   | \subset     |
+| $\subseteq$ | \subseteq   |
+| $\ni$       | \ni         |
+| $\supset$   | \supset     |
+| $\supseteq$ | \supseteq   |
 
