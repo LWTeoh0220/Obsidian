@@ -4,7 +4,7 @@ category:
 tags:
   - Information_Systems
   - Management
-latest update: 2026-02-23
+latest update: <% tp.date.now("YYYY-MM-DD") %>
 status: 🔴 (Developing/Reviewed)
 ---
-# Topic：Global E-business and Collaboration
+# Topic：<% tp.file.title %>

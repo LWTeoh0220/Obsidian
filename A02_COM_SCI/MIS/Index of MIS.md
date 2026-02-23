@@ -6,7 +6,7 @@
 | Week 4  | Ch. 2  | Collaboration, Social Business and Knowledge Management<br>协作系统与知识管理         | [[02 Global E-business and Collaboration \|02]]                      |
 | Week 5  | Ch. 3  | Achieving Competitive Advantage with Information Systems<br>竞争策略、五力分析、价值链    | [[03 Achieving Competitive Advantage with Information Systems \|03]] |
 | Week 6  | Ch.3   | Global Competition & Business Process Management<br>全球化策略、BPM与流程再造           | [[03 Achieving Competitive Advantage with Information Systems \|03]] |
-| Week 7  | Ch. 4  | Ethical, Social, and Political Issues in Information Systems<br>咨询伦理、隐私与法规   |                                                                      |
+| Week 7  | Ch. 4  | Ethical, Social, and Political Issues in Information Systems<br>咨询伦理、隐私与法规   | [[04 Ethical and Social Issues in Information Systems \|04]]         |
 | Week 8  | Ch. 5  | IT Infrastructure and Emerging Technologies<br>IT基础建设、云端与新兴科技                |                                                                      |
 | Week 9  | Mid    | Examination Ch. 1 - Ch. 5                                                    |                                                                      |
 | Week 10 | Ch. 6  | Data Management and Business Intelligence<br>资料库、资料品质与BI                     |                                                                      |

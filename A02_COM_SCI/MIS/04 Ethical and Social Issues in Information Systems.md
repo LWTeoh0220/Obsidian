@@ -7,4 +7,4 @@ tags:
 latest update: 2026-02-23
 status: 🔴 (Developing/Reviewed)
 ---
-# Topic：Global E-business and Collaboration
+# Topic：Ethical and Social Issues in Information Systems

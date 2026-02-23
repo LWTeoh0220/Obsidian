@@ -1,26 +1,23 @@
 ---
-type: Template
-date: 2026-W09
+course: MIS
+category:
 tags:
-  - Templates
+  - Information_Systems
+  - Management
+date: 2026-02-23
+status: 🔴 (Developing/Reviewed)
+latest update: 2026-02-23
 ---
+# Topic：Business Information Systems in Your Career
 
-# 📈 股市/市場週報：2026-02-23
 
-  
+### Learning Objectives
+1. Why are information systems so essential for running and managing a business today
+2. What exactly is an information system? How does it work? What are its people organizational, and technology components?
+3. How will a four-step method for business problem solving help you solve information system-related problems?
+4. What information systems skills and knowledge are essential for business careers?
+5. How will MIS help my career?
 
-## 📊 市場走勢 (S&P 500 / Nasdaq)
 
--
-
-  
-
-## 🤖 科技股/AI 板塊動態
-
--
-
-  
-
-## 💡 本週操作反思/學習
-
--
+### Vocab
+- PC
