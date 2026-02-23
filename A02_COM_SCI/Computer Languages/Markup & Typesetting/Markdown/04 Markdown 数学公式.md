@@ -54,12 +54,12 @@
 | $\prod$                    | \prod                    |
 |                            |                          |
 | $\infty$                   | \infty                   |
-|                            |                          |
-|                            |                          |
-|                            |                          |
-|                            |                          |
-|                            |                          |
-|                            |                          |
+| $\angle$                   | \angle                   |
+| $\triangle$                | \triangle                |
+| $\nabla$                   | \nabla                   |
+| $\checkmark$               | \checkmark               |
+| $\partial$                 | \partial                 |
+| $\dots$                    | \dots                    |
 |                            |                          |
 | $\oplus$                   | \oplus                   |
 | $\vee$                     | \vee                     |
@@ -69,6 +69,15 @@
 | $\dfrac{x}{y}$             | \dfrac{x]{y}             |
 | $\sqrt{x}$                 | \sqrt{x}                 |
 | $\sqrt[n]{x}$              | \sqrt[n]{x}              |
+
+### 箭头
+| 符号                | 公式              |
+| ----------------- | --------------- |
+| $\gets$           | \gets           |
+| $\Leftarrow$      | \Leftarrow      |
+| $\to$             | \to             |
+| $\Rightarrow$     | \Rightarrow     |
+| $\Leftrightarrow$ | \Leftrightarrow |
 
 ### 关系
 
@@ -102,3 +111,14 @@
 | $\frac{\partial^2U}{\partial x^2}$ | \frac{\partial^2U}{\partial x^2} |
 | $\int 2x dx$                       | \int 2x dx                       |
 | $\int_0^1 2x dx$                   | \int_0^1 2x dx                   |
+
+
+### 头顶符号
+| 符号         | 公式       |
+| ---------- | -------- |
+| $\hat{x}$  | \hat{x}  |
+| $\dot{x}$  | \dot{x}  |
+| $\bar{x}$  | \bar{x}  |
+| $\ddot{x}$ | \ddot{x} |
+| $\vec{x}$  | \vec{x}  |
+
