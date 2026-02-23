@@ -31,3 +31,14 @@ latest update: 2026-02-23
 - resources management
 - cloud-based systems
 - precision and efficiency
+
+
+### SIX important business objectives
+1. Operational Excellence
+	improve efficiency to achieve highter profitability
+	
+2. New Products, Services, and Business Models
+3. Customer and Supplier Intimacy (供应商亲密度)
+4. Improved Decision Making 
+5. Competitive Advantage
+6. Survival
