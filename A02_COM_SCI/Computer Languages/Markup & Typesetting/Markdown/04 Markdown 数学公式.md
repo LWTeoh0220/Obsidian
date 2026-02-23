@@ -44,21 +44,24 @@
 | $a^b_{c}$ | a ^ b _ c |
 
 
-| 符号            | 公式          |
-| ------------- | ----------- |
-| $\sum$        | \sum        |
-| $\int$        | \int        |
-| $\oint$       | \oint       |
-| $\prod$       | \prod       |
-|               |             |
-| $\oplus$      | \oplus      |
-| $\vee$        | \vee        |
-| $\wedge$      | \wedge      |
-|               |             |
-| $\frac{x}{y}$ | \frac{x}{y} |
-| $\sqrt{x}$    | \sqrt{x}    |
-| $\sqrt[n]{x}$ | \sqrt[n]{x} |
-|               |             |
+| 符号                         | 公式                       |
+| -------------------------- | ------------------------ |
+| $\sum$                     | \sum                     |
+| $\lim_{x\to\infty}$        | \lim_{x\to\infty}        |
+| $\lim\limits_{x\to\infty}$ | \lim\limits_{x\to\infty} |
+| $\int$                     | \int                     |
+| $\oint$                    | \oint                    |
+| $\prod$                    | \prod                    |
+|                            |                          |
+|                            |                          |
+| $\oplus$                   | \oplus                   |
+| $\vee$                     | \vee                     |
+| $\wedge$                   | \wedge                   |
+|                            |                          |
+| $\frac{x}{y}$              | \frac{x}{y}              |
+| $\dfrac{x}{y}$             | \dfrac{x]{y}             |
+| $\sqrt{x}$                 | \sqrt{x}                 |
+| $\sqrt[n]{x}$              | \sqrt[n]{x}              |
 
 ### 关系
 
