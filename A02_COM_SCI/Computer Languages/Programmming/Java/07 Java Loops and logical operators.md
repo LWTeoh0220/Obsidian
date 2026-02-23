@@ -6,6 +6,7 @@ tags:
   - While_loops
   - For_loops
   - logical_operators
+  - nested_loops
 ---
 # Topic：Java Loops and logical operators
 
@@ -14,9 +15,72 @@ tags:
 
 ## 💻 程式碼範例
 ```java
-public class HelloWorld {
-    public static void main(String []args) {
-       System.out.println("Hello World");
-    }
+package Notes;
+import java.nio.channels.Pipe.SourceChannel;
+import java.rmi.server.SocketSecurityException;
+import java.util.Scanner;
+
+public class LearnLoopsAndLogicalOp {
+    public static void main(String[] args) {
+    
+        Scanner scanner = new Scanner(System.in);
+        
+        String name = "";
+        String response = "";
+
+  
+        /* while loops */
+        
+        // || = or       
+        while(name.isEmpty() || name.equals("name") || name.equals(" ")){
+            System.out.print("Enter your name: ");
+            name = scanner.nextLine();
+        }
+
+        // ! = not
+        while(!response.equals("Q")){
+            System.out.print("Press Q to quit");
+            response = scanner.nextLine();
+        }
+
+
+        int age = 0;
+        // && = and
+        // do...while == run the code inside do...while one time first, after that run the condition of while
+        do{
+            System.out.println("Your age can't be nagative");
+            System.out.print("Enter your age: ");
+            age = scanner.nextInt();
+        }while(age < 0 && age > 150);
+        Sysem.out.printf("You are %d years old\n", age);
+
+  
+        // for(nutralization;condition;step){}
+        System.out.print("Start number: ");
+        int start = scanner.nextInt();
+        System.out.print("Ending number: ");
+        int end = scanner.nextInt();
+        System.out.printf("Which number you want to skip between %d to %d: ", start, end);
+        int skip = scanner.nextInt();
+
+        for(int i = start; i <= end; i++){
+            if(i == skip){
+                continue;
+            }
+            System.out.println(i);
+        }
+
+  
+
+        // nested loops
+        for(int i = 1; i <=3; i++){
+            for(int j = 1; j<=10; j++){
+                System.out.print(j+10*(i-1) + " ");
+            }
+            System.out.println();
+        }
+        
+        scanner.close();
+    }
 }
 ````
