@@ -19,5 +19,10 @@ latest update: 2026-02-23
 5. How will MIS help my career?
 
 
-### Vocab
-- PC
+
+### Focus Point
+- digitilized
+- conveniance
+- rapidly
+- budget control
+- PDC(Project Document Controls)
