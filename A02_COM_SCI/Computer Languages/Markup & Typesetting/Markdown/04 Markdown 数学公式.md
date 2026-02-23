@@ -53,6 +53,13 @@
 | $\oint$                    | \oint                    |
 | $\prod$                    | \prod                    |
 |                            |                          |
+| $\infty$                   | \infty                   |
+|                            |                          |
+|                            |                          |
+|                            |                          |
+|                            |                          |
+|                            |                          |
+|                            |                          |
 |                            |                          |
 | $\oplus$                   | \oplus                   |
 | $\vee$                     | \vee                     |
@@ -88,3 +95,10 @@
 | $\supset$   | \supset     |
 | $\supseteq$ | \supseteq   |
 
+### 微积分
+| 符号                                 | 公式                               |
+| ---------------------------------- | -------------------------------- |
+| $\frac{d}{dx}$                     | \frac{d}{dx}                     |
+| $\frac{\partial^2U}{\partial x^2}$ | \frac{\partial^2U}{\partial x^2} |
+| $\int 2x dx$                       | \int 2x dx                       |
+| $\int_0^1 2x dx$                   | \int_0^1 2x dx                   |
