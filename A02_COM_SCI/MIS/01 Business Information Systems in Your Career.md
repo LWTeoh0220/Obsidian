@@ -36,9 +36,14 @@ latest update: 2026-02-23
 ### SIX important business objectives
 1. Operational Excellence
 	improve efficiency to achieve highter profitability
-	
+	An important tools to achieving efficiency and productivity in business operations
+	changes in business practices and management behavior
 2. New Products, Services, and Business Models
-3. Customer and Supplier Intimacy (供应商亲密度)
+	entire new business models, create new products and services
+	business models: how a company produces, delivers, and sells product to create wealth
+3. Customer and Supplier Intimacy (亲密度)
+	customers generally respond by returning and purchasing more
+	the more a business engages its suppliers, the better the suppliers can provide vital inputs. Lowers costs
 4. Improved Decision Making 
 5. Competitive Advantage
 6. Survival
