@@ -20,9 +20,14 @@ latest update: 2026-02-23
 
 
 
-### Focus Point
+### Key words
 - digitilized
 - conveniance
 - rapidly
 - budget control
+- backup
+- quality and safety
 - PDC(Project Document Controls)
+- resources management
+- cloud-based systems
+- precision and efficiency
