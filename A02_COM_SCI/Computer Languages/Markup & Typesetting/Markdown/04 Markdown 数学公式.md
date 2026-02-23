@@ -4,7 +4,7 @@
 | $\alpha$ | \alpha | A      | A   |
 | $\beta$  | \beta  | B      | B   |
 | $\gamma$ | \gamma |        |     |
-
+$upalpha
 $\frac{x}{y}$
 
 
