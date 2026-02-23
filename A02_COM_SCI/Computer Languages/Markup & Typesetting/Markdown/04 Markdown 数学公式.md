@@ -54,7 +54,10 @@
 | $\oplus$      | \oplus      |
 | $\vee$        | \vee        |
 | $\wedge$      | \wedge      |
+| $\exists$     | \exists     |
+| $\forall$     | \forall     |
 |               |             |
 | $\frac{x}{y}$ | \frac{x}{y} |
-|               |             |
+| $\sqrt{x}$    | \sqrt{x}    |
+| $\sqrt[n]{x}$ | \sqrt[n]{x} |
 
