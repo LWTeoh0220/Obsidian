@@ -67,3 +67,5 @@ IS(Information system):
 > feedback ---- output returned to appropriate people or activities in the organization
 
 
+## information systems literacy （信息系统素养）
+
