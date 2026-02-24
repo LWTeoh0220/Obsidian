@@ -12,3 +12,5 @@
 [[06 Java Strings]]  
 
 [[07 Java Loops and logical operators]]
+
+[[08 Java method]]
