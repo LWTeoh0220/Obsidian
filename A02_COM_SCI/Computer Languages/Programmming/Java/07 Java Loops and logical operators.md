@@ -1,7 +1,7 @@
 ---
 course:
 date: 2026-02-22
-topic:
+topic: Loops
 tags:
   - While_loops
   - For_loops
@@ -11,7 +11,18 @@ tags:
 # Topic：Java Loops and logical operators
 
 ## 💡 核心概念
--
+#### Nested Loops
+| 符号  | 公式   |
+| --- | ---- |
+| or  | \|\| |
+| and | &&   |
+| not | !    |
+
+#### While / Do While
+| 符号         | 公式                                                             | 解释                |
+| ---------- | -------------------------------------------------------------- | ----------------- |
+| While      | while(condition){<br>      step......<br>	  step......<br>};   | 当condition达成<br>就 |
+| Do...While | do{<br>      step......<br>	  step......<br>}while(condition); |                   |
 
 ## 💻 程式碼範例
 ```java
