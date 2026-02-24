@@ -54,3 +54,4 @@ latest update: 2026-02-23
 
 IT(Information technology): hardware and software that a firm needs to use to achieve its business objectives
 
+IS(Information system): set of interrelated
