@@ -64,5 +64,6 @@ IS(Information system):
 > Input  ---- collect row data from organization or external invironment
 > Processing ---- convert raw input into a meaningful form
 > Output ---- transfers the processed information to the people who will used it
-> feedback ---- output returned to appropriate 
+> feedback ---- output returned to appropriate people or activities in the organization
+
 
