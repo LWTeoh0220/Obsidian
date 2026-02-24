@@ -76,4 +76,6 @@ focuses on the why and how behind using technology in a business context
 
 ### People
 
+
+
 ### Technology
