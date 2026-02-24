@@ -60,3 +60,9 @@ IS(Information system):
 > help managers and workers analyze problems, visualize complex subjects, and create new products
 
 
+### Three basic + one activities produce the information
+> Input  ---- collect row data from organization or external invironment
+> Processing ---- convert raw input into a meaningful form
+> Output ---- transfers the processed information to the people who will used it
+> feedback ---- output returned to appropriate 
+
