@@ -50,3 +50,7 @@ latest update: 2026-02-23
 	By using MIS to achieving a copetitive advantage
 6. Survival
 	necessities driven by industry-level changes
+
+
+IT(Information technology): hardware and software that a firm needs to use to achieve its business objectives
+
