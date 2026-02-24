@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -212,12 +211,12 @@
   },
   "active": "dc4a2a79acf67ce9",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/01 财务管理的范围.md",
+    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A03_FIN/Financial Management/Financial Management preview screenshort 2A.png",
     "00_Assets/Pasted image 20260224143722.png",
     "00_Assets/Pasted image 20260224143541.png",
-    "A03_FIN/Financial Management/01 财务管理的范围.md",
-    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/Financial Management preview screenshort.png",
     "00_Assets/Pasted image 20260224141326.png",
     "00_Assets/Pasted image 20260224141315.png",
@@ -249,7 +248,6 @@
     "00_Assets/Pasted image 20260221214211.png",
     "A02_COM_SCI/Computer Languages/Programmming/Untitled",
     "Untitled.canvas",
-    "X_ASSETS/91.png",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Latex",
     "A02_COM_SCI/Computer Languages/Query Languages/websites.sql",
     "A02_COM_SCI/Computer Languages/Query Languages",
