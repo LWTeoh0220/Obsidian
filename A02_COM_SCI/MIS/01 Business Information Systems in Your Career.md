@@ -74,6 +74,7 @@ focuses on the why and how behind using technology in a business context
 - The history and culture of business also affects how the technology is used and how it should be used
 - company structure, history, and company
 
+
 ### People
 
 
