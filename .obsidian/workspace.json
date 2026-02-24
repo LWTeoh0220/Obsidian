@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "03 Achieving Competitive Advantage with Information Systems"
             }
+          },
+          {
+            "id": "ce6a9f53b1ae64d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,13 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc4a2a79acf67ce9",
+  "active": "ce6a9f53b1ae64d0",
   "lastOpenFiles": [
+    "A02_COM_SCI/MIS/03 Achieving Competitive Advantage with Information Systems.md",
+    "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A02_COM_SCI/MIS/Index of MIS.md",
     "A02_COM_SCI/MIS/04 Ethical and Social Issues in Information Systems.md",
-    "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
-    "A02_COM_SCI/MIS/03 Achieving Competitive Advantage with Information Systems.md",
     "X_TEMPLATES/Template_MIS.md",
     "X_TEMPLATES/Template_程式設計.md",
     "2026-02-23.md",

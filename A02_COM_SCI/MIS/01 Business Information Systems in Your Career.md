@@ -45,5 +45,8 @@ latest update: 2026-02-23
 	customers generally respond by returning and purchasing more
 	the more a business engages its suppliers, the better the suppliers can provide vital inputs. Lowers costs
 4. Improved Decision Making 
+	Use real-time data from the marketplace when making dicisions
 5. Competitive Advantage
+	By using MIS to achieving a copetitive advantage
 6. Survival
+	necessities driven by industry-level changes
