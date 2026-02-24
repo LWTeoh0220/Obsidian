@@ -19,10 +19,16 @@ tags:
 | not | !    |
 
 #### While / Do While
-| 符号         | 公式                                                             | 解释                |
-| ---------- | -------------------------------------------------------------- | ----------------- |
-| While      | while(condition){<br>      step......<br>	  step......<br>};   | 当condition达成<br>就 |
-| Do...While | do{<br>      step......<br>	  step......<br>}while(condition); |                   |
+| 符号         | 公式                                                             | 解释                                                     |
+| ---------- | -------------------------------------------------------------- | ------------------------------------------------------ |
+| While      | while(condition){<br>      step......<br>	  step......<br>};   | 先判断条件，再执行循环<br>条件为假，则跳过循环<br>                          |
+| Do...While | do{<br>      step......<br>	  step......<br>}while(condition); | 先执行一次循环体<br>然后再检查条件是否为真<br>无论条件是否满足<br>循环体**至少会被执行一次** |
+
+#### For
+**for(nutralization;condition;step){
+      step......
+      step......
+}**
 
 ## 💻 程式碼範例
 ```java
@@ -59,11 +65,19 @@ public class LearnLoopsAndLogicalOp {
         // && = and
         // do...while == run the code inside do...while one time first, after that run the condition of while
         do{
-            System.out.println("Your age can't be nagative");
-            System.out.print("Enter your age: ");
+            if(age>150){
+                System.out.println("Your age must not higher that 150...... ");
+            }
+            else{
+                System.out.println("Your age can't be nagative");
+            }
+            System.out.print("Please enter your age: ");
             age = scanner.nextInt();
-        }while(age < 0 && age > 150);
-        Sysem.out.printf("You are %d years old\n", age);
+        }while(age < 0 || age > 150);
+
+  
+
+        System.out.printf("You are %d years old\n", age);
 
   
         // for(nutralization;condition;step){}
