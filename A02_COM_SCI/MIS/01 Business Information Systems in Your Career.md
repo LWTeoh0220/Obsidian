@@ -52,6 +52,11 @@ latest update: 2026-02-23
 	necessities driven by industry-level changes
 
 
-IT(Information technology): hardware and software that a firm needs to use to achieve its business objectives
+IT(Information technology): 
+> hardware and software that a firm needs to use to achieve its business objectives
 
-IS(Information system): set of interrelated
+IS(Information system): 
+> set of interrelated that collect, process, store, and distribute information to support decision, coordinating, and control in an organization.
+> help managers and workers analyze problems, visualize complex subjects, and create new products
+
+
