@@ -67,5 +67,13 @@ IS(Information system):
 > feedback ---- output returned to appropriate people or activities in the organization
 
 
-## information systems literacy （信息系统素养）
+## Dimensions of Information Systems
+focuses on the why and how behind using technology in a business context
 
+### Organizations
+- The history and culture of business also affects how the technology is used and how it should be used
+- company structure, history, and company
+
+### People
+
+### Technology
