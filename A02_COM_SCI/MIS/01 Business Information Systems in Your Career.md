@@ -84,5 +84,8 @@ focuses on the why and how behind using technology in a business context
 - IS helping managers develop novel solutions to a broad range of problems
 
 ### Technology
-Computer hardware: physical equipment used for input, processing and output activities in IS
-Computer software
+- Computer hardware: physical equipment used for input, processing and output activities in IS
+- Computer software: 
+
+
+
