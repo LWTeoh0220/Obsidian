@@ -5,7 +5,7 @@ tags:
   - Information_Systems
   - Management
 date: 2026-02-23
-status: 🔴 (Developing/Reviewed)
+status:
 latest update: 2026-02-23
 ---
 # Topic：Business Information Systems in Your Career
