@@ -32,7 +32,6 @@ latest update: 2026-02-23
 - cloud-based systems
 - precision and efficiency
 
-
 ### SIX important business objectives
 1. Operational Excellence
 	improve efficiency to achieve highter profitability

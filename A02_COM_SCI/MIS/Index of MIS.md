@@ -16,3 +16,14 @@
 | Week 14 | Ch. 10 | E-Commerce and Digital Markets<br>电子商务与平台经济                                  |                                                                      |
 | Week 15 | Ch. 11 | Improving Decision Making and Managing Artificial Intelligence<br>DSS 与 AI决策 |                                                                      |
 | Week 16 | Ch. 12 | Information Systems Development and Project Management<br>系统开发与IT投资          |                                                                      |
+
+
+## Learning Objective 
+- Understand Core Concepts
+- Master Competitive Strategies
+- Explore Emerging Technology
+- Solve Business Problems 
+- Develop Ethical Awareness
+
+
+Participation

@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce6a9f53b1ae64d0",
+  "active": "693bf76c225e876b",
   "lastOpenFiles": [
+    "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A02_COM_SCI/MIS/Index of MIS.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
-    "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A02_COM_SCI/MIS/03 Achieving Competitive Advantage with Information Systems.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
     "D01_READING/写作点滴.md",
