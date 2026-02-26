@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -224,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158792eceb8f6393",
+  "active": "693bf76c225e876b",
   "lastOpenFiles": [
     "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
