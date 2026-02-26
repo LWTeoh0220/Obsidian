@@ -43,4 +43,4 @@ case/issue using the following framework:
 - 
 - business impact = how solution improve  xyz
 - critical analysis & future risks 
-
+  
