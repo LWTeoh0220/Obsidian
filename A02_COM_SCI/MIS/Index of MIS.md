@@ -26,4 +26,21 @@
 - Develop Ethical Awareness
 
 
-Participation
+Participation =10%
+Midterm Examination = 30%
+Group Project & Presentation = 30%
+Final Examination = 30%
+
+
+Presentation Topics:
+Spotlight Case "Technoloy......" in Textbook
+20min
+ask Q when not in the week of presentation
+
+Project
+case/issue using the following framework:
+- background
+- 
+- business impact = how solution improve  xyz
+- critical analysis & future risks 
+
