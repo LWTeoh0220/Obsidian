@@ -74,11 +74,13 @@ focuses on the why and how behind using technology in a business context
 - company structure, history, and culture affects how the technology is used and how it should be used
 - business firm organized as a hierarchy or pyramid structure(rising authority and responsibility)
 - experts are employed and trained for different business functions
-- business processes create a logically related tasks and behaviors for accomplishing work
+- **business processes** create a logically related tasks and behaviors for accomplishing work
 - business process include formal rules which guide employees in a variety of procedures; some processes have been written down, but others are informal work practices
+- organization unique **culture**(ways of doing things) has been accepted by most of its members  
 
 ### People
-
+- a business is only as good as the people who work there and run it(一个企业的优劣取决于在那里工作和管理的人员)
+- 
 
 
 ### Technology
