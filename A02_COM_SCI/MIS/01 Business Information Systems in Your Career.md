@@ -71,9 +71,11 @@ IS(Information system):
 focuses on the why and how behind using technology in a business context
 
 ### Organizations
-- The history and culture of business also affects how the technology is used and how it should be used
-- company structure, history, and company
-
+- company structure, history, and culture affects how the technology is used and how it should be used
+- business firm organized as a hierarchy or pyramid structure(rising authority and responsibility)
+- experts are employed and trained for different business functions
+- business processes create a logically related tasks and behaviors for accomplishing work
+- business process include formal rules which guide employees in a variety of procedures; some processes have been written down, but others are informal work practices
 
 ### People
 
