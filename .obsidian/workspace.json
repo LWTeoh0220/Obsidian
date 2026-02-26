@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -227,8 +226,9 @@
   },
   "active": "693bf76c225e876b",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
+    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
+    "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A02_COM_SCI/MIS/Index of MIS.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
@@ -245,7 +245,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
-    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/Financial Management preview screenshort 2A.png",
     "00_Assets/Pasted image 20260224143722.png",
     "00_Assets/Pasted image 20260224143541.png",
