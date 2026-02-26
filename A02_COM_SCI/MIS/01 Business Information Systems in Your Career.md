@@ -80,7 +80,9 @@ focuses on the why and how behind using technology in a business context
 
 ### People
 - a business is only as good as the people who work there and run it(一个企业的优劣取决于在那里工作和管理的人员)
-- 
-
+- employees' skill, adequately training, attitudes
+- IS helping managers develop novel solutions to a broad range of problems
 
 ### Technology
+Computer hardware: physical equipment used for input, processing and output activities in IS
+Computer software
