@@ -14,3 +14,6 @@
 [[07 Java Loops and logical operators]]
 
 [[08 Java method]]
+
+[[09 Java Arrays]]
+

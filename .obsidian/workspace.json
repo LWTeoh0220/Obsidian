@@ -34,19 +34,9 @@
               "icon": "lucide-file",
               "title": "04 认识财务报表 & 自由现金流量分析"
             }
-          },
-          {
-            "id": "6bdb8b732f8650ca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,14 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bdb8b732f8650ca",
+  "active": "693bf76c225e876b",
   "lastOpenFiles": [
-    "2026-02-23.md",
+    "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
+    "Untitled.canvas",
+    "A01_MATH/Calculus/Chp 1- 6 Review.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/Index of Programming_Java.md",
+    "2026-02-23.md",
     "A03_FIN/Financial Management/Financial Management Index.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/SP 財務管理Syllabus.pdf",
-    "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
     "A03_FIN/Financial Management/SP 財務管理Syllabus_大學部(114下).pdf",
@@ -238,7 +231,6 @@
     "00_Assets/Pasted image 20260227184015.png",
     "00_Assets/Pasted image 20260227162301.png",
     "00_Assets/Pasted image 20260227002523.png",
-    "Untitled.canvas",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
     "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A02_COM_SCI/MIS/Index of MIS.md",
@@ -246,7 +238,6 @@
     "A02_COM_SCI/MIS/03 Achieving Competitive Advantage with Information Systems.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/07 Java Loops and logical operators.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/Index of Programming_Java.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
@@ -257,8 +248,6 @@
     "00_Assets/Pasted image 20260224143722.png",
     "A02_COM_SCI/MIS/04 Ethical and Social Issues in Information Systems.md",
     "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
-    "X_TEMPLATES/Template_MIS.md",
-    "X_TEMPLATES/Template_程式設計.md",
     "Untitled 1.canvas"
   ]
 }
