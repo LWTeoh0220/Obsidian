@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/科目时长分配.md",
+                "file": "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "科目时长分配"
+              "title": "03 金融市場與機構 & 市場效率性"
             }
           },
           {
@@ -226,7 +226,10 @@
   },
   "active": "693bf76c225e876b",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
+    "D01_READING/写作点滴.md",
+    "D01_READING/茶花女.pdf",
     "Notion/科目时长分配.md",
     "A03_FIN/Financial Management/Financial Management preview 2nd Week.png",
     "A03_FIN/Financial Management/Financial Management preview 3rd Week.png",
@@ -235,14 +238,11 @@
     "00_Assets/Pasted image 20260227162301.png",
     "00_Assets/Pasted image 20260227002523.png",
     "Untitled.canvas",
-    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
     "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A02_COM_SCI/MIS/Index of MIS.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
     "A02_COM_SCI/MIS/03 Achieving Competitive Advantage with Information Systems.md",
-    "D01_READING/写作点滴.md",
-    "D01_READING/茶花女.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "D01_READING/茶花女[法]小仲马.王振孙译.人民文学出版社(2003).pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/07 Java Loops and logical operators.md",
@@ -264,7 +264,6 @@
     "2026-02-23.md",
     "X_TEMPLATES/Template 库.md",
     "A02_COM_SCI/Computer Languages/语言分类.md",
-    "X_TEMPLATES/Template_公式與代碼.md",
     "A02_COM_SCI/Computer Languages/Programmming/Untitled",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Latex",
     "A02_COM_SCI/Computer Languages/Query Languages/websites.sql",
