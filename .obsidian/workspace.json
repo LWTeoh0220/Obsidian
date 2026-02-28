@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -203,6 +202,7 @@
   },
   "active": "693bf76c225e876b",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "Untitled.canvas",
