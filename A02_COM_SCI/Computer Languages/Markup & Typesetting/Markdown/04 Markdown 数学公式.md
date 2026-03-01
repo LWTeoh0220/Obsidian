@@ -130,7 +130,7 @@
 | $\dbinom{n}{r}$                                                                                 | \dbinom{n}{r}                                                                                               | 二项式系数 |
 | $$\begin{cases} <br>3x + 5y + z \\ <br>7x - 2y + 4z \\<br>-6x + 3y + 2z <br>\end{cases}$$       | \begin{cases} <br>3x + 5y + z \\ <br>7x - 2y + 4z \\<br>-6x + 3y + 2z <br>\end{cases}                       | 方程組   |
 | $$\begin{aligned} <br> x = \begin{bmatrix} a\\ b\\ \vdots \\z \end{bmatrix} <br>\end{aligned}$$ | \begin{aligned} <br> x = \begin{bmatrix} <br> a\\ \<br> vdots \\<br> b <br> \end{bmatrix} <br>\end{aligned} |       |
-| $$\begin{aligned} <br> y = \begin{bmatrix} a & b & \vdots \\z \end{bmatrix} <br>\end{aligned}$$ |                                                                                                             |       |
+| $$\begin{aligned} <br> y = \begin{bmatrix} a & b & \ldots & z \end{bmatrix} <br>\end{aligned}$$ | \begin{aligned} <br> y = \begin{bmatrix} a & b & \ldots & z \end{bmatrix} <br>\end{aligned}                 |       |
 
 #### 其他：
 

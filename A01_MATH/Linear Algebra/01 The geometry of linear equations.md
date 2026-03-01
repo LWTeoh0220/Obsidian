@@ -15,5 +15,18 @@ status:
 - Clumn picture
 - Matrix form
 
+\begin{aligned} 
+\begin{bmatrix} 
 
-## 
+\end{bmatrix} 
+\end{aligned}
+
+## Eg:
+
+$$\begin{aligned} 
+\begin{bmatrix} 
+2 & -1 \\
+-1 & 2
+\end{bmatrix} 
+\end{aligned}$$
+
