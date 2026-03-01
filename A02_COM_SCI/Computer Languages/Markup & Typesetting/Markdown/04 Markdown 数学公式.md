@@ -78,6 +78,8 @@
 | $\to$             | \to             |
 | $\Rightarrow$     | \Rightarrow     |
 | $\Leftrightarrow$ | \Leftrightarrow |
+| $\Downarrow$      | \Downarrow      |
+| $\Uparrow$        | \Uparrow        |
 
 ### 关系
 
@@ -122,6 +124,13 @@
 | $\ddot{x}$ | \ddot{x} |
 | $\vec{x}$  | \vec{x}  |
 
+
+| 符号                                                                                            | 公式                                                                                        |       |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- |
+| $\dbinom{n}{r}$                                                                               | \dbinom{n}{r}                                                                             | 二项式系数 |
+| $$\begin{aligned} <br>3x + 5y + z \\ <br>7x - 2y + 4z \\<br>-6x + 3y + 2z <br>\end{aligned}$$ | \begin{aligned} <br>3x + 5y + z \\ <br>7x - 2y + 4z \\<br>-6x + 3y + 2z <br>\end{aligned} | 方程組   |
+|                                                                                               |                                                                                           |       |
+|                                                                                               |                                                                                           |       |
 
 #### 其他：
 
