@@ -10,12 +10,17 @@ tags:
 ## 💡 核心概念
 #### 静态方法（Static Methods）
 
-| 程式                     | 表示  |
-| ---------------------- | --- |
-| static void xxx(){}    |     |
-| static String xxx(){}  |     |
-| static double xxx(){}  |     |
-| static boolean xxx(){} |     |
+回传值（Return Value）的类型
+
+| 程式                     | 表示           |
+| ---------------------- | ------------ |
+| static void xxx(){}    | 不回传数据        |
+| static String xxx(){}  | 回传文字Str      |
+| static double xxx(){}  | 回传浮点数double  |
+| static boolean xxx(){} | 回传布林值boolean |
+
+
+
 
 ## 💻 程式碼範例
 ```java
