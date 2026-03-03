@@ -8,7 +8,14 @@ tags:
 # Topic：Java method
 
 ## 💡 核心概念
-- 
+#### 静态方法（Static Methods）
+
+| 程式                     | 表示  |
+| ---------------------- | --- |
+| static void xxx(){}    |     |
+| static String xxx(){}  |     |
+| static double xxx(){}  |     |
+| static boolean xxx(){} |     |
 
 ## 💻 程式碼範例
 ```java
