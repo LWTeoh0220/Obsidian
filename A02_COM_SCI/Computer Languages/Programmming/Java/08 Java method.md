@@ -18,7 +18,7 @@ tags:
 | static String xxx(){}  | 回传文字Str      |
 | static double xxx(){}  | 回传浮点数double  |
 | static boolean xxx(){} | 回传布林值boolean |
-
+(String xxx, double xxx, boolean xxx)
 
 
 
