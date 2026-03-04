@@ -24,6 +24,17 @@ tags:
 #### 方法重载 (Method Overloading)
 - 方法名相同
 - 参数列表不同
+- 返回值可以不同
+> 重复相同的参数列表会判定为“重复定义”（Duplicate Method），导致编译失败
+
+the three dimension:
+
+| 变化                                           | 解释   |
+| -------------------------------------------- | ---- |
+| add(int a) vs add(int a, int b)              | 数量不同 |
+| add(int a) vs add(double a)                  | 类型不同 |
+| add(int a, double b) vs add(double a, int b) | 顺序不同 |
+
 
 ## 💻 程式碼範例
 ```java
