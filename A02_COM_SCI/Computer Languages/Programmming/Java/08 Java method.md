@@ -21,7 +21,9 @@ tags:
 | static boolean xxx(){} | 回传布林值boolean |
 (String xxx, double xxx, boolean xxx)
 
-
+#### 方法重载 (Method Overloading)
+- 方法名相同
+- 参数列表不同
 
 ## 💻 程式碼範例
 ```java
