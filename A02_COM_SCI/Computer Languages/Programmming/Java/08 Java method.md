@@ -16,8 +16,8 @@ tags:
 
 | 程式                     | 表示           |
 | ---------------------- | ------------ |
-| static void xxx(){}    | 不回传数据        |
-| static String xxx(){}  | 回传文字Str      |
+| static void xxx(){}    | 不回传数据/值      |
+| static String xxx(){}  | 回传文字/物件Str   |
 | static double xxx(){}  | 回传浮点数double  |
 | static boolean xxx(){} | 回传布林值boolean |
 (String xxx, double xxx, boolean xxx)
