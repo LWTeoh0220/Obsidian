@@ -34,6 +34,30 @@
               "icon": "lucide-file",
               "title": "02 公司目标与代理问题"
             }
+          },
+          {
+            "id": "8658b8be68dbc1d4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Financial Management/V 01單元01-財務管理的範圍與公司目標.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "V 01單元01-財務管理的範圍與公司目標"
+            }
+          },
+          {
+            "id": "196a8d0053abdbd8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Financial Management/V 02_代理問題.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "V 02_代理問題"
+            }
           }
         ],
         "currentTab": 1
@@ -93,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -203,8 +226,12 @@
   },
   "active": "5f12338a38297fea",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/01 财务管理的范围.md",
+    "A03_FIN/Financial Management/V 01單元01-財務管理的範圍與公司目標.pdf",
+    "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
+    "A03_FIN/Financial Management/Financial Management Index.md",
+    "A03_FIN/Financial Management/S Financial Management preview 2nd Week.png",
+    "A03_FIN/Financial Management/01 财务管理的范围.md",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
@@ -217,8 +244,6 @@
     "A03_FIN/Economics/2-2_CHN_Demand Supply and Equilibrium.pdf",
     "A03_FIN/Economics/2-2_ENG_Demand Supply and Equilibrium.pdf",
     "A03_FIN/Economics/2026_Lecture2-2_Dmd Sply and Eqlb.pdf",
-    "A03_FIN/Economics/2026_Lecture2-2_Dmd Sply and Eqlb_ENG.pdf",
-    "A03_FIN/Economics/2-1W1_Answer.docx",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
@@ -238,11 +263,8 @@
     "Untitled.canvas",
     "A01_MATH/Calculus/Chp 1- 6 Review.md",
     "2026-02-23.md",
-    "A03_FIN/Financial Management/Financial Management Index.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/S Financial Management preview 3rd Week.png",
-    "A03_FIN/Financial Management/S Financial Management preview 2nd Week.png",
-    "Notion/科目时长分配.md",
     "A03_FIN/Financial Management/Financial Management preview 2nd Week.png",
     "A03_FIN/Financial Management/Financial Management preview 3rd Week.png",
     "00_Assets/Pasted image 20260227184015.png",
