@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -225,12 +226,12 @@
   },
   "active": "41058492e2cba4a8",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/V 01單元01-財務管理的範圍與公司目標.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
+    "A03_FIN/Financial Management/01 财务管理的范围.md",
+    "A03_FIN/Financial Management/V 01單元01-財務管理的範圍與公司目標.pdf",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "A03_FIN/Financial Management/Financial Management Index.md",
     "A03_FIN/Financial Management/S Financial Management preview 2nd Week.png",
-    "A03_FIN/Financial Management/01 财务管理的范围.md",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
