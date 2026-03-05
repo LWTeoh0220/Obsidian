@@ -88,3 +88,23 @@ focuses on the why and how behind using technology in a business context
 
 
 
+
+#### Key Challenges in MIS
+##### New Tech
+- Cloud computing, Big Data, IoT
+- AI 
+	- data security; how to choose a suitable AI model to include 
+- Mobile platform
+- eg：openclaw
+
+
+
+
+#### Globalization Challenges and Opportunities
+##### internet and global communi reduced the economic and cultural adv. of developted countries
+- competition for anything
+- growing int
+
+
+
+
