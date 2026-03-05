@@ -58,6 +58,20 @@
               "icon": "lucide-file-text",
               "title": "V 02_代理問題"
             }
+          },
+          {
+            "id": "227035fb88ad888d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 认识财务报表 & 自由现金流量分析"
+            }
           }
         ]
       }
@@ -227,8 +241,12 @@
   "active": "41058492e2cba4a8",
   "lastOpenFiles": [
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
+    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
+    "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
+    "00_Assets/Pasted image 20260305140943.png",
     "A03_FIN/Financial Management/V 01單元01-財務管理的範圍與公司目標.pdf",
+    "00_Assets/Pasted image 20260305140813.png",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "A03_FIN/Financial Management/Financial Management Index.md",
     "A03_FIN/Financial Management/S Financial Management preview 2nd Week.png",
@@ -258,20 +276,16 @@
     "A02_COM_SCI/Data Structure/Python 基本资料结构.md",
     "A01_MATH/Linear Algebra/01 The geometry of linear equations.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
-    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "Untitled.canvas",
     "A01_MATH/Calculus/Chp 1- 6 Review.md",
     "2026-02-23.md",
-    "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/S Financial Management preview 3rd Week.png",
     "A03_FIN/Financial Management/Financial Management preview 2nd Week.png",
     "A03_FIN/Financial Management/Financial Management preview 3rd Week.png",
     "00_Assets/Pasted image 20260227184015.png",
     "00_Assets/Pasted image 20260227162301.png",
     "00_Assets/Pasted image 20260227002523.png",
-    "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
-    "A03_FIN/Financial Management/Financial Management preview screenshort 2A.png",
     "Untitled 1.canvas"
   ]
 }
