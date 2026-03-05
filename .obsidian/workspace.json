@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D03_OTHERS/生命教育 Week 2 上课重点与心得.md",
+                "file": "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "生命教育 Week 2 上课重点与心得"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -200,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "693bf76c225e876b",
+  "active": "dc4a2a79acf67ce9",
   "lastOpenFiles": [
+    "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
+    "D03_OTHERS/生命教育",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
-    "D03_OTHERS/生命教育 Week 2 上课重点与心得.md",
     "A03_FIN/Economics/2-1_Answer.docx",
     "A03_FIN/Economics/2-1_Answersheet.pdf",
     "A03_FIN/Economics/3_CHN_Elasticity and its Application.pdf",
@@ -213,7 +214,6 @@
     "A03_FIN/Economics/2026_Lecture2-2_Dmd Sply and Eqlb.pdf",
     "A03_FIN/Economics/2026_Lecture2-2_Dmd Sply and Eqlb_ENG.pdf",
     "A03_FIN/Economics/2-1W1_Answer.docx",
-    "A03_FIN/Economics/2-1W1_Answersheet.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
@@ -246,7 +246,6 @@
     "00_Assets/Pasted image 20260227184015.png",
     "00_Assets/Pasted image 20260227162301.png",
     "00_Assets/Pasted image 20260227002523.png",
-    "A03_FIN/Financial Management/01 财务管理的范围.md",
     "A03_FIN/Financial Management/Financial Management preview screenshort 1.png",
     "A03_FIN/Financial Management/Financial Management preview screenshort 2A.png",
     "Untitled 1.canvas"
