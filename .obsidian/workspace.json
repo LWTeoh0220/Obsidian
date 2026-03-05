@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
+                "file": "D03_OTHERS/生命教育 Week 2 上课重点与心得.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 Java method"
+              "title": "生命教育 Week 2 上课重点与心得"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -203,6 +202,8 @@
   },
   "active": "693bf76c225e876b",
   "lastOpenFiles": [
+    "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
+    "D03_OTHERS/生命教育 Week 2 上课重点与心得.md",
     "A03_FIN/Economics/2-1_Answer.docx",
     "A03_FIN/Economics/2-1_Answersheet.pdf",
     "A03_FIN/Economics/3_CHN_Elasticity and its Application.pdf",
@@ -213,9 +214,7 @@
     "A03_FIN/Economics/2026_Lecture2-2_Dmd Sply and Eqlb_ENG.pdf",
     "A03_FIN/Economics/2-1W1_Answer.docx",
     "A03_FIN/Economics/2-1W1_Answersheet.pdf",
-    "A03_FIN/Economics/E_Lecture2-1_W1_Answersheet.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
