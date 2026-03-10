@@ -46,6 +46,7 @@ $\dbinom{10}{4}\dbinom{6}{3}\dbinom{3}{2}\dbinom{1}{1}$ = $\dfrac{10!}{4!6!}\dfr
 组合 = $\dbinom{n}{n_1}\dbinom{n-n_1}{n_2}\dbinom{n-n_1-n_2}{n_3}\dots \dbinom{n_m}{n_m}$ 
     = $\dfrac{n!}{n_1!n_2!\dots n_m}$   multinomial coefficient
 
-$(x_1 + x_2 + \dots x_m)^n$
+$(x_1 + x_2 + \dots x_m)^n$ =$\sum_{n_1=0}^n \sum_{n_2=0}^{n}\dots \sum_{n_m=0}^{n}\dfrac{n!}{n_1!n_2!\dots n_m!}x_1^{n_1}x_2^{n_2}\dots x_m^{n_m}$
 
 
+![[Pasted image 20260310182427.png]]
