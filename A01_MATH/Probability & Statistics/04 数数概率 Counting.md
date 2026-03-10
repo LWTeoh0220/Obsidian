@@ -37,4 +37,15 @@ $\dfrac{n(n-1)(n-2)\dots (n-(k-1))}{k!}$ = $\dfrac{n!}{(n-k)!k!}$
 
 ##### Multinomial 多项组合
 10次，4次为A，3次为B，2次为C，1次为
-$\dbinom{10}{4}\dbinom{6}{3}\dbinom{3}{2}\dbinom{1}{1}$ = 
+$\dbinom{10}{4}\dbinom{6}{3}\dbinom{3}{2}\dbinom{1}{1}$ = $\dfrac{10!}{4!6!}\dfrac{6!}{3!3!}\dfrac{3!}{2!1!}\dfrac{1!}{1!0!}$
+
+若有m种异物，每次选物从中选一后放回，依序选n次。如果共有$m^n$种实验结果。其中在这$m^n$种实验结果中，
+	第一种出现$n_1$次且
+	第二种出现$n_2$次且......
+	第m种出现$n_m$次
+组合 = $\dbinom{n}{n_1}\dbinom{n-n_1}{n_2}\dbinom{n-n_1-n_2}{n_3}\dots \dbinom{n_m}{n_m}$ 
+    = $\dfrac{n!}{n_1!n_2!\dots n_m}$   multinomial coefficient
+
+$(x_1 + x_2 + \dots x_m)^n$
+
+
