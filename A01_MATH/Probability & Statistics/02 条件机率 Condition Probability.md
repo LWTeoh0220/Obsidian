@@ -39,14 +39,14 @@ P(X|Y) = P($o_1 | Y$) + P($o_2 | Y$) = $\frac{P(o_1)}{P(Y)}$ + $\frac{P(o_2)}{P(
 ## Total Probability 定理
 
 P(A) = P(A|$C_1$)P($C_1$) + P(A|$C_2$)P($C_2$) + $\dots$  + P(A|$C_n$)P($C_n$)
-    =$P(A \cup C_1) + P(A \cup C_2) + \dots + P(A \cup C_n)$
+    =$P(A \cap C_1) + P(A \cap C_2) + \dots + P(A \cap C_n)$
 
-P(A|$C_1$)P($C_1$) = $\frac{}{}
+P(A|$C_1$)P($C_1$) = $\dfrac{P(A \cap C_1)}{P(C_1)} * P(C_1)$
 
 ___
 ## 贝氏定理 Bayes‘ Rule
 $C_1$, $C_2$ $\dots$ , $C_n$ 互斥 且 $C_1 \cup C_2 \cup \dots \cup C_n = S$
 则对任何事件 $A$
 
-P($C_j|A$) = $\dfrac{P(X \cap Y)}{P(Y)}$ 
+P($C_j|A$) = $\dfrac{P(C_j \cap Y)}{P(Y)}$ 
     = $\dfrac{P(A|C_j)(C_j)}{P(A|C_1)P(C_1) + P(A|C_2)P(C_2) + \dots  + P(A|C_n)P(C_n)}$
