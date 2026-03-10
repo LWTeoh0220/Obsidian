@@ -105,6 +105,9 @@
 | $\ni$       | \ni         |
 | $\supset$   | \supset     |
 | $\supseteq$ | \supseteq   |
+|             |             |
+| $\cup$      | \cup        |
+| $\bigcup$   | \bigch      |
 
 ### 微积分
 | 符号                                 | 公式                               |

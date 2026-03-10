@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "A01_MATH/Probability & Statistics/01 机率与统计 基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 机率与统计 基础"
+            }
+          },
+          {
+            "id": "2277e72cc476d492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "04 Markdown 数学公式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -185,8 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b29ba5270f87215d",
+  "active": "2277e72cc476d492",
   "lastOpenFiles": [
+    "A01_MATH/Probability & Statistics/01 机率与统计 基础.md",
+    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
+    "A01_MATH/Probability & Statistics",
+    "A01_MATH/未命名.md",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
@@ -209,7 +229,6 @@
     "A03_FIN/Economics/3_CHN_Elasticity and its Application.pdf",
     "A03_FIN/Economics/3_ENG_Elasticity and its Application.pdf",
     "A03_FIN/Economics/2-2_CHN_Demand Supply and Equilibrium.pdf",
-    "A03_FIN/Economics/2-2_ENG_Demand Supply and Equilibrium.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
@@ -223,11 +242,8 @@
     "B01_AI, FINTECH/Bitcoin Foundations.md",
     "A02_COM_SCI/Data Structure/Python 基本资料结构.md",
     "A01_MATH/Linear Algebra/01 The geometry of linear equations.md",
-    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "Untitled.canvas",
-    "A01_MATH/Calculus/Chp 1- 6 Review.md",
-    "2026-02-23.md",
     "A03_FIN/Financial Management/S Financial Management preview 3rd Week.png",
     "A03_FIN/Financial Management/Financial Management preview 2nd Week.png",
     "A03_FIN/Financial Management/Financial Management preview 3rd Week.png",
