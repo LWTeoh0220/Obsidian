@@ -49,7 +49,8 @@
               "title": "04 Markdown 数学公式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,12 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b29ba5270f87215d",
+  "active": "e59663be6b43aa80",
   "lastOpenFiles": [
-    "00_Assets/Pasted image 20260310182427.png",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
     "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+    "00_Assets/Pasted image 20260310182427.png",
     "A01_MATH/Probability & Statistics/03 机率的独立性.md",
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
     "A01_MATH/Probability & Statistics",
@@ -262,7 +263,6 @@
     "A03_FIN/Financial Management/Financial Management preview 3rd Week.png",
     "00_Assets/Pasted image 20260227184015.png",
     "00_Assets/Pasted image 20260227162301.png",
-    "00_Assets/Pasted image 20260227002523.png",
     "Untitled 1.canvas"
   ]
 }
