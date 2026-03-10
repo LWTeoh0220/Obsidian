@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e59663be6b43aa80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 机率与统计 Basic"
+            }
+          },
+          {
             "id": "2277e72cc476d492",
             "type": "leaf",
             "state": {
@@ -202,9 +216,9 @@
   },
   "active": "b29ba5270f87215d",
   "lastOpenFiles": [
-    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
-    "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
+    "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics",
     "A01_MATH/未命名.md",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
