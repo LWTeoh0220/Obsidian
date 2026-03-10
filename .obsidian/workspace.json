@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "04 Markdown 数学公式"
             }
+          },
+          {
+            "id": "b4a6cf8229b1cf3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -215,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e59663be6b43aa80",
+  "active": "b4a6cf8229b1cf3e",
   "lastOpenFiles": [
-    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
     "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "00_Assets/Pasted image 20260310182427.png",
     "A01_MATH/Probability & Statistics/03 机率的独立性.md",
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
