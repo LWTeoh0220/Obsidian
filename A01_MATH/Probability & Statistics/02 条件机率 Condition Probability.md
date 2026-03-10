@@ -50,3 +50,6 @@ $C_1$, $C_2$ $\dots$ , $C_n$ 互斥 且 $C_1 \cup C_2 \cup \dots \cup C_n = S$
 
 P($C_j|A$) = $\dfrac{P(C_j \cap Y)}{P(Y)}$ 
     = $\dfrac{P(A|C_j)(C_j)}{P(A|C_1)P(C_1) + P(A|C_2)P(C_2) + \dots  + P(A|C_n)P(C_n)}$
+
+---
+
