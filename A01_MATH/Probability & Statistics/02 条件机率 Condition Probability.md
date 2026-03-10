@@ -28,3 +28,4 @@ P($X|Y$) = $\frac{P(X \cap Y)}{P(Y)}$
 >key words:
  "condition on", "Suppose", "if", "Assuming", "given that"
 
+
