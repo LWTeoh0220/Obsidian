@@ -83,31 +83,37 @@
 
 ### 关系
 
-| 符号          | 公式          |
-| ----------- | ----------- |
-| $\exists$   | \exists     |
-| $\forall$   | \forall     |
-|             |             |
-| $=$         | =           |
-| $\equiv$    | \equiv      |
-| $\not=$     | \not=       |
-| $\approx$   | \approx     |
-| $<$         | <           |
-| $\le$       | \le         |
-| $\ll$       | \ll     [L] |
-| $>$         | >           |
-| $\ge$       | \ge         |
-| $\gg$       | \gg         |
-|             |             |
-| $\in$       | \in         |
-| $\subset$   | \subset     |
-| $\subseteq$ | \subseteq   |
-| $\ni$       | \ni         |
-| $\supset$   | \supset     |
-| $\supseteq$ | \supseteq   |
-|             |             |
-| $\cup$      | \cup        |
-| $\bigcup$   | \bigch      |
+| 符号             | 公式           |
+| -------------- | ------------ |
+| $\exists$      | \exists      |
+| $\forall$      | \forall      |
+|                |              |
+| $=$            | =            |
+| $\equiv$       | \equiv       |
+| $\not=$        | \not=        |
+| $\approx$      | \approx      |
+| $<$            | <            |
+| $\le$          | \le          |
+| $\ll$          | \ll     [L]  |
+| $>$            | >            |
+| $\ge$          | \ge          |
+| $\gg$          | \gg          |
+|                |              |
+| $\in$          | \in          |
+| $\subset$      | \subset      |
+| $\subseteq$    | \subseteq    |
+| $\ni$          | \ni          |
+| $\supset$      | \supset      |
+| $\supseteq$    | \supseteq    |
+|                |              |
+| $\cup$         | \cup         |
+| $\bigcup$      | \bigcup      |
+| $\cap$         | \cap         |
+| $\bigcap$      | \bigcap      |
+| $\overline{A}$ | \overline{A} |
+| $A^c$          | \A^c         |
+| $\emptyset$    | \emptyset    |
+|                |              |
 
 ### 微积分
 | 符号                                 | 公式                               |
