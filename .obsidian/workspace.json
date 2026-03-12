@@ -41,26 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
+                "file": "A02_COM_SCI/Coursera/Big Data Analytics-- 課程總覽介紹.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Markdown 数学公式"
-            }
-          },
-          {
-            "id": "b4a6cf8229b1cf3e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Big Data Analytics-- 課程總覽介紹"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -224,8 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4a6cf8229b1cf3e",
+  "active": "2277e72cc476d492",
   "lastOpenFiles": [
+    "A02_COM_SCI/未命名.md",
+    "A02_COM_SCI/Coursera/Big Data Analytics-- 課程總覽介紹.md",
+    "A02_COM_SCI/Coursera",
     "A02_COM_SCI/Data Structure/Challenge01.py",
     "A03_FIN/Economics/2-1_Answersheet.docx",
     "A03_FIN/Economics/2-1_Answer.pdf",
@@ -246,8 +240,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
     "D03_OTHERS/台湾科技发展史",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
-    "A03_FIN/Financial Management/V 02_代理問題.pdf",
-    "A03_FIN/Financial Management/V 01單元01-財務管理的範圍與公司目標.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
@@ -265,7 +257,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/07 Java Loops and logical operators.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
-    "D01_READING/写作点滴.md",
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "Untitled.canvas",
     "A03_FIN/Financial Management/S Financial Management preview 3rd Week.png",
