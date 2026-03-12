@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Coursera/Big Data Analytics-- 課程總覽介紹.md",
+                "file": "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/Big Data Analytics-- 基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Data Analytics-- 課程總覽介紹"
+              "title": "Big Data Analytics-- 基础"
             }
           }
         ],
@@ -217,8 +217,10 @@
   },
   "active": "2277e72cc476d492",
   "lastOpenFiles": [
+    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions",
+    "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/Big Data Analytics-- 基础.md",
     "A02_COM_SCI/未命名.md",
-    "A02_COM_SCI/Coursera/Big Data Analytics-- 課程總覽介紹.md",
     "A02_COM_SCI/Coursera",
     "A02_COM_SCI/Data Structure/Challenge01.py",
     "A03_FIN/Economics/2-1_Answersheet.docx",
@@ -228,7 +230,6 @@
     "A03_FIN/Economics/2-2_Answersheet.docx",
     "A03_FIN/Economics/E_Lecture2-2_W1_Answersheet.docx",
     "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
-    "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "00_Assets/Pasted image 20260310182427.png",
     "A01_MATH/Probability & Statistics/03 机率的独立性.md",
@@ -256,7 +257,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/07 Java Loops and logical operators.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "Untitled.canvas",
     "A03_FIN/Financial Management/S Financial Management preview 3rd Week.png",
