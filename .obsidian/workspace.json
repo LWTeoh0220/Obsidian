@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+                "file": "A03_FIN/Financial Management/02 公司目标与代理问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 条件机率 Condition Probability"
+              "title": "02 公司目标与代理问题"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/Big Data Analytics-- 基础.md",
+                "file": "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Data Analytics-- 基础"
+              "title": "03 金融市場與機構 & 市場效率性"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -215,11 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2277e72cc476d492",
+  "active": "e59663be6b43aa80",
   "lastOpenFiles": [
-    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions",
-    "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+    "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/Big Data Analytics-- 基础.md",
+    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
+    "A01_MATH/Probability & Statistics/02 条件机率 Condition Probability.md",
+    "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
+    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions",
     "A02_COM_SCI/未命名.md",
     "A02_COM_SCI/Coursera",
     "A02_COM_SCI/Data Structure/Challenge01.py",
@@ -229,7 +231,6 @@
     "A03_FIN/Economics/2-2_Answersheet.pdf",
     "A03_FIN/Economics/2-2_Answersheet.docx",
     "A03_FIN/Economics/E_Lecture2-2_W1_Answersheet.docx",
-    "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "00_Assets/Pasted image 20260310182427.png",
     "A01_MATH/Probability & Statistics/03 机率的独立性.md",
@@ -239,9 +240,7 @@
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
-    "D03_OTHERS/台湾科技发展史",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
-    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "00_Assets/Pasted image 20260305140943.png",
@@ -249,7 +248,6 @@
     "A03_FIN/Financial Management/Financial Management Index.md",
     "A03_FIN/Financial Management/S Financial Management preview 2nd Week.png",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
-    "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
