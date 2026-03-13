@@ -2,9 +2,8 @@
 course: MIS
 category:
 tags:
-  - Information_Systems
-  - Management
-latest update: 2026-02-23
-status: 🔴 (Developing/Reviewed)
+latest update: 2026-03-12
+status:
 ---
 # Topic：Global E-business and Collaboration
+
