@@ -50,6 +50,18 @@ status:
 - 隐性知识：分布趋势、决策树、关联性、连续性
 
 #### 分析方法
-- 群集分析 Clustering
-- 分类预测 Classification
-- 关联分析 
+- 群集分析 Clustering —— 客群区分方法
+- 分类预测 Classification —— 分析某个行为、趋势的规则，进行预测
+- 关联规则 Association rules —— 商品间、客户间的分析
+- 连续行为 Sequantial pattern analysis —— 时间标记的连续性时间序列行为分析
+
+
+#### 关联分析
+- 购物车分析 —— 几个商品经常共同出现在一个购物车（一起买）
+	例：buy(milk) -> buy(bread)， buy(iphone) ->高收入、中年 【信心度】
+	捆绑优惠
+- 评估：
+	- 信心度
+	- 支持程度
+	- 提升度
+![[Pasted image 20260314194525.png]]
