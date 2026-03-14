@@ -10,8 +10,7 @@ status:
 - Segmentation 市场区隔
 	辨识消费者
 		Identify Bases for Segmenting the Market
-		Develop Profiles of Resuliting Segments —— Product（产品）、Price（价格）、Place（地点/通路）、Promotion（促销）
-- Targeting 选择目标市场
+		Develop Profiles of Resuliting Segments （4P）
 	选择市场区隔
 		Develop Selection Criteria
 		Select Target Segment(s)
@@ -30,9 +29,27 @@ status:
 ## 行销与零售数据分析的目的
 - 协助进行行销策略
 	- Micromarketing
-	- Cncentrated ji'zhong
-	- Diffenrentiated
-	- Undifferentiated 
+	- Cncentrated 集中
+	- Diffenrentiated 分众
+	- Undifferentiated  大众
 - 协助觉得行销组合4P
+	- Product（产品）
+	- Price（价格）
+	- Place（地点/通路）
+	- Promotion（促销）
 - 做好客户关系管理CRM
+	- 开发客户、发展客户关系、维系旧客
 - 提升行销效果、降低行销成本
+	- 目标行销、提高回应率、成交率
+
+
+
+## 四种资料分析方法
+#### 分析方法说明
+- 大量资料/历史资料中，找出隐性知识
+- 隐性知识：分布趋势、决策树、关联性、连续性
+
+#### 分析方法
+- 群集分析 Clustering
+- 分类预测 Classification
+- 关联分析 
