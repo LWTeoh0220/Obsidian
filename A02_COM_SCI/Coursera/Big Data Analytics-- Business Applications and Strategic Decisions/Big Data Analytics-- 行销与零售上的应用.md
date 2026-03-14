@@ -20,3 +20,19 @@ status:
 		Develop Positioning for Each Target Segment
 		Develop Maketing Mix for Each Target Segment
 
+
+## 行销与零售业者的资料库
+- 客户资料库 —— 个人客户、企业客户
+- 产品或服务资料库 —— 商品种类、价格、单位、规格
+- 交易资料库 —— 购买的时间、通路、数量、付款方式
+
+
+## 行销与零售数据分析的目的
+- 协助进行行销策略
+	- Micromarketing
+	- Cncentrated ji'zhong
+	- Diffenrentiated
+	- Undifferentiated 
+- 协助觉得行销组合4P
+- 做好客户关系管理CRM
+- 提升行销效果、降低行销成本
