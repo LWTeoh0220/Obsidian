@@ -6,7 +6,7 @@ tags:
 latest update: 2026-03-12
 status:
 ---
-# Topic：Big Data Analytics-- 基础 + 财务应用
+# Topic：基础 + 财务应用
 
 
 ## 数据的意义：
