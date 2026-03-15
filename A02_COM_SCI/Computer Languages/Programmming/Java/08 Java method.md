@@ -39,9 +39,14 @@ the three dimension:
 #### 變數範圍 (Scope)
 - Local vs Class
 
-main/method 里面的variable是Local scope
+method 里面的variable是Local scope
 在外面的则是class
 
+| 变量类型  | 声明位置      | 作用范围  | 生命周期    |
+| ----- | --------- | ----- | ------- |
+| Class | 类中，方法外    | 整个类   | 随对象存在   |
+| Local | 方法内部      | 仅该方法  | 方法执行期间  |
+| Block | `{}` 代码块内 | 仅该代码块 | 代码块执行期间 |
 ##### 优先序：
 Local > Class
 method > main
