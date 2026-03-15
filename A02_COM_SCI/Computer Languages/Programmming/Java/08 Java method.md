@@ -24,7 +24,7 @@ tags:
 
 #### 方法重载 (Method Overloading)
 - 方法名相同
-- 参数列表（patameters）不同
+- 参数列表（parameters）不同
 - 返回值可以不同
 > 重复相同的参数列表会判定为“重复定义”（Duplicate Method），导致编译失败
 
@@ -37,7 +37,14 @@ the three dimension:
 | add(int a, double b) vs add(double a, int b) | 顺序不同 |
 
 #### 變數範圍 (Scope)
+- Local vs Class
 
+main/method 里面的variable是Local scope
+在外面的则是class
+
+##### 优先序：
+Local > Class
+method > main
 
 ## 💻 程式碼範例
 ```java
