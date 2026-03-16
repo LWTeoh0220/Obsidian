@@ -1,5 +1,5 @@
 ---
-course: Programming
+course: Data Structure
 category:
 tags:
 latest update: 2026-03-02

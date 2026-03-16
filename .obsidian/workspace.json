@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure 基础.md",
+                "file": "A02_COM_SCI/Data Structure/01 Data Structure 基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Structure 基础"
+              "title": "01 Data Structure 基础"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -187,8 +188,8 @@
   },
   "active": "07850621f2c1105c",
   "lastOpenFiles": [
-    "A02_COM_SCI/Data Structure/Array.md",
-    "A02_COM_SCI/Data Structure/Data Structure 基础.md",
+    "A02_COM_SCI/Data Structure/02 Array.md",
+    "A02_COM_SCI/Data Structure/01 Data Structure 基础.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "A03_FIN/Economics/7_CHN_Monopoly.pdf",
     "A03_FIN/Economics/7_ENG_Monopoly.pdf",
