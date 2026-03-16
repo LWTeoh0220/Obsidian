@@ -3,7 +3,7 @@ course: Data Structure
 category:
 tags:
 latest update: 2026-03-16
-status:
+status: 🧠Understanding / 🧪Testing / 🚀Mastered
 ---
 # Topic：Data Structure 基础
 
@@ -34,13 +34,10 @@ O(n)：空间线性成长 —— arr的资料数大小，会等比例成长
 #### D-RAM 系统记忆体
 - CPU 调用
 - D - dynamic
-
 ###### 特性：
 - 便宜
 - 容量大
 - 扩充容易
-
-
 ###### 用途：
 - 机器学习
 - 增强式学习
@@ -48,7 +45,6 @@ O(n)：空间线性成长 —— arr的资料数大小，会等比例成长
 #### V-RAM 显示卡记忆体
 - GPU 调用
 - V - video
-
 ###### 特性：
 - 适合巨量处理
 - 平行运算
@@ -56,7 +52,6 @@ O(n)：空间线性成长 —— arr的资料数大小，会等比例成长
 ###### 缺点：
 - 价格昂贵
 - 容量小
-
 ###### 用途：
 - 深度学习
 - AI大预言模型
