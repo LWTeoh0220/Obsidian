@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
+                "file": "A02_COM_SCI/Data Structure/Data Structure 基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Java Arrays"
-            }
-          },
-          {
-            "id": "a00f37357c42ea5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 认识财务报表 & 自由现金流量分析"
+              "title": "Data Structure 基础"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a00f37357c42ea5d",
+  "active": "07850621f2c1105c",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/05 财务报表分析.md",
+    "A02_COM_SCI/Data Structure/Array.md",
+    "A02_COM_SCI/Data Structure/Data Structure 基础.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
+    "A03_FIN/Economics/7_CHN_Monopoly.pdf",
+    "A03_FIN/Economics/7_ENG_Monopoly.pdf",
+    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
+    "A03_FIN/Financial Management/05 财务报表分析.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics -- 社群媒体之舆情分析.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics-- 行销与零售上的应用.md",
@@ -211,8 +201,6 @@
     "00_Assets/Pasted image 20260315175530.png",
     "00_Assets/Pasted image 20260315174528.png",
     "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
-    "A03_FIN/Economics/7_ENG_Monopoly.pdf",
-    "A03_FIN/Economics/7_CHN_Monopoly.pdf",
     "A03_FIN/Economics/6_ENG_Firms in Competitive Markets.pdf",
     "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf",
     "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf",
@@ -237,7 +225,6 @@
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
     "A01_MATH/未命名.md",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
-    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "00_Assets/Pasted image 20260305140943.png",
     "00_Assets/Pasted image 20260305140813.png",
     "A03_FIN/Financial Management/Financial Management Index.md",
@@ -245,8 +232,6 @@
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/06 Java Strings.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
