@@ -86,9 +86,21 @@
               "icon": "lucide-file-text",
               "title": "V 04-市場效率性"
             }
+          },
+          {
+            "id": "51bb710e709dbfc2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "V 06_財務報表分析_更新版"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,15 +265,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22cf4e1ce9aa5862",
+  "active": "6070fa9c8de51120",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf",
+    "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
+    "A03_FIN/Financial Management/V 05_財務報表與自由現金流量.pdf",
+    "A03_FIN/Financial Management/05 财务报表分析.md",
+    "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/V 04-市場效率性.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
-    "A03_FIN/Financial Management/05 财务报表分析.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics -- 社群媒体之舆情分析.md",
     "D03_OTHERS/生命教育/生命教育 Week 4 上课重点与心得.md",
     "A02_COM_SCI/Data Structure/01 Data Structure 基础.md",
@@ -270,7 +284,6 @@
     "00_Assets/Pasted image 20260319130940.png",
     "00_Assets/Pasted image 20260319124615.png",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics-- 行销与零售上的应用.md",
-    "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 3 上课重点与心得.md",
     "A02_COM_SCI/Data Structure/02 Array.md",
