@@ -2,7 +2,7 @@
 course: Big Data Analytics
 category:
 tags:
-latest update: 2026-03-15
+latest update: 2026-03-19
 status:
 ---
 # Topic：社群媒体之舆情分析
@@ -65,4 +65,8 @@ ans: 经由切割主要干道的路径
 问题：
 一但一个betweenness被移除，其他的连接点也会一起被移除 （路径在一个连接）
 解：
-移除一个连接后必须更新剩余连接的between'ness
+移除一个连接后必须更新剩余连接的betweenness
+
+![[Pasted image 20260319131409.png]]
+
+![[Pasted image 20260319132131.png]]
