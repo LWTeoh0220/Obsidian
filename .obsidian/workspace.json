@@ -64,19 +64,31 @@
             }
           },
           {
-            "id": "fbf9516c2f0df696",
+            "id": "22cf4e1ce9aa5862",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A03_FIN/Financial Management/V 02_代理問題.pdf"
+                "file": "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "V 02_代理問題"
+              "title": "V 03_金融市場功能與類型&金融機構業務"
+            }
+          },
+          {
+            "id": "7412e1f43bf668ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Financial Management/V 04-市場效率性.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "V 04-市場效率性"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,10 +253,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6070fa9c8de51120",
+  "active": "22cf4e1ce9aa5862",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
+    "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf",
+    "A03_FIN/Financial Management/V 04-市場效率性.pdf",
+    "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
@@ -267,8 +281,6 @@
     "A03_FIN/Economics/3_AnswerSheet.docx",
     "A03_FIN/Economics/E_Lecture3_W1_AnswerSheet.docx",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
-    "A03_FIN/Economics/7_CHN_Monopoly.pdf",
-    "A03_FIN/Economics/7_ENG_Monopoly.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/01 Big Data Analytics-- 基础 + 财务应用.md",
     "00_Assets/Pasted image 20260315175530.png",
