@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
+                "file": "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics -- 社群媒体之舆情分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Global E-business and Collaboration"
+              "title": "03 Big Data Analytics -- 社群媒体之舆情分析"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -230,6 +231,7 @@
   },
   "active": "c119c19634401221",
   "lastOpenFiles": [
+    "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics -- 社群媒体之舆情分析.md",
     "D03_OTHERS/生命教育/生命教育 Week 4 上课重点与心得.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
@@ -265,7 +267,6 @@
     "00_Assets/Pasted image 20260314194525.png",
     "00_Assets/Pasted image 20260314152349.png",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
-    "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
     "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
