@@ -87,4 +87,23 @@ ans: 经由切割主要干道的路径
 	- 确切了解服务的优劣
 	- 更有效的行销
 
-- 假设Social network有follower与follow
+- 假设Social network有follower与followee
+	- 社群好友有互惠的特性 —— 互相follow 【不具有追随的意向】
+
+### PageRank 方法
+- 用于寻找重要的网页，即以提升搜索引擎的效能但后来被运用到不同领域
+
+##### 有影响力的人
+- 有很多的追随者且**追随者也深具影响力**
+
+##### 公式
+$q(u) = \sum_{v=follow(u)}\dfrac{1}{deg(v)}q(v)$
+q(u) 使用者u的影响力
+follow(u) 使用者u的追随者集合
+q(v)  q(u)的追随者的影响力
+deg(v) 使用者v的追随数
+
+如何解决鸡生蛋蛋生鸡问题？ rendom walk
+
+### Random walk
+
