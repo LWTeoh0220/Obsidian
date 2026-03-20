@@ -108,3 +108,12 @@ deg(v) 使用者v的追随数
 ### Random walk
 
 用**转移机率矩阵**P表示
+$P_{ij}$ 表示从 点i出发走到点j的机率
+
+若常常逛到一些特定的点，这些点通常由不少in-link，且in-link也来自于一些常常会逛到的点
+In-link —— 指向该点的连接
+
+![[Pasted image 20260320202920.png]]
+
+
+## Teleport 
