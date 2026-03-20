@@ -120,8 +120,12 @@ In-link —— 指向该点的连接
 除了靠网路上的连接，每个人在任一时间点都有机会teleport到任一点
 -   $\alpha$表示teleport发生的机率，如$alpha=0.3$表示有三成的机率是透过teleport来逛网路七成的机率是透过连结来逛网路
 
-加入teleport后的P为![[Pasted image 20260320204452.png]]
+加入teleport后的P‘’为![[Pasted image 20260320204452.png]]
 结合后可以解决irreducible(无法抵达特定点)的问题
 
 $q(u) = \alpha\dfrac{1}{N}+(1-\alpha)\sum_{v=follow(u)}\dfrac{1}{deg(v)}q(v)$
 
+1. 依照好友连接情况建立矩阵P
+2. 决定好teleport的发生机率$\alpha$，产生P‘’
+3. 令n=0且产生
+4. 
