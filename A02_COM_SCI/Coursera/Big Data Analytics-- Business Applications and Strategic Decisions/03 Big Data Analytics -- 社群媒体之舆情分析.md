@@ -127,5 +127,13 @@ $q(u) = \alpha\dfrac{1}{N}+(1-\alpha)\sum_{v=follow(u)}\dfrac{1}{deg(v)}q(v)$
 
 1. 依照好友连接情况建立矩阵P
 2. 决定好teleport的发生机率$\alpha$，产生P‘’
-3. 令n=0且产生
-4. 
+3. 令n=0且产生随机产生q_0
+4. 计算$q_{n+1} = P''^Tq_n$
+5. n = n + 1
+6. 若$q_{n+1}$等于$q_n$则停止random walk，否则跳到步骤4继续random walk
+
+![[Pasted image 20260320210617.png]]
+
+P''要保持aperiodic与irreducible
+
+
