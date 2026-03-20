@@ -137,3 +137,5 @@ $q(u) = \alpha\dfrac{1}{N}+(1-\alpha)\sum_{v=follow(u)}\dfrac{1}{deg(v)}q(v)$
 P''要保持aperiodic与irreducible
 
 
+如何找出新兴领袖
+- 从近期的互动行为找出近期较为活跃的意见领袖
