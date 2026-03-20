@@ -117,3 +117,5 @@ In-link —— 指向该点的连接
 
 
 ## Teleport 
+除了靠网路上的连接，每个人在任一时间点都有机会teleport到任一点
+-   $\alpha$表示teleport发生的机率，如$alpha=0.3$表示有三成的机率是透过teleport来逛网路七成的机率是透过连结来逛网路
