@@ -11,18 +11,19 @@ tags:
 ## 💡 核心概念
 
 #### Array格式：
-`Data_Type[] name = {......}`
+`Data_Type[] name = {......}`  
 `String[] name = {"abc", "def", "hji"};`
 `double[] name = {1.2, 2.4, 7.9, 0.3};`
 
+> 后面Data_Type简称为 DT
 
-| 特性     | 公式                        |
-| ------ | ------------------------- |
-| 修改单一元素 | `name[index] = "element"` |
-| 获取长度   | `name.length;`            |
-| 排序—升序  | `Arrays.sort(name);`      |
-|        |                           |
-| 最大元素   |                           |
+| 特性     | 公式                                                                                               |
+| ------ | ------------------------------------------------------------------------------------------------ |
+| 修改单一元素 | `name[index] = "element"；`                                                                       |
+| 获取长度   | `name.length;`                                                                                   |
+| 指定长度   | `DT[] name = new DT[len];`                                                                       |
+| 排序—升序  | `Arrays.sort(name);`                                                                             |
+| 排序—逆序  | `Arrays.sort(name, Collections.reverseOrder())`<br>`Arrays.sort(name, (a,b) -> b.compareTo(a));` |
 
 ## 💻 程式碼範例
 ```java
