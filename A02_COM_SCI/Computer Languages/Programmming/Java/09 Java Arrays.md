@@ -1,7 +1,7 @@
 ---
-course:
-date: 2026-02-24
-topic:
+course: Programming
+date: 2026-03-22
+topic: Arrays
 tags:
 ---
 # Topic：Java Arrays
