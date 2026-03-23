@@ -1,11 +1,14 @@
 
 ## Basic Formula
 
-1. $\lim\limits_{x\to0} \dfrac{sinx}{x} =1$
+$1.\lim\limits_{x\to0} \dfrac{sinx}{x} =1$
+$f'(x) = \lim\limits_{h\to0} =\dfrac{f(x+h) +x}{}$
+
+
 ---
 $\Rightarrow f(x) = y \Rightarrow f'(x) = y'$
 
-2. $\dfrac{dy}{dx} = \dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
+$2. \dfrac{dy}{dx} = \dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
 ---
 3. $\dfrac{dy}{dx} = \dfrac{dy}{du}·\dfrac{du}{dx}$
 	
@@ -14,17 +17,19 @@ $\Rightarrow f(x) = y \Rightarrow f'(x) = y'$
 	$\dfrac{d}{dx}f(g(h(x)))) =f'(g(h(x)))·g'(h(x))·h'(x)$
 	
 	Eg: $f(g(h(x))) = \sqrt{1-sin^2x^2}$
-		$$\begin{aligned}  
-....  \\
-.... \
-.... \
-\end{aligned}$$
+	
+	$f(x) = \sqrt{x}$ 
+	$g(x) = 1 - sin^2x$
+	$h(x) = x^2$
+
 ---
 
 
 3. $\dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
 
 	 $\dfrac{d}{dx}f(x)g(x)= f(x)·g'(x) + g(x)·f'(x)$
+	 
+	 Eg: $x^2(x-5)^7 = 2x(x-5)^7 +7x^2(x-5)^6$
 
 4. $\dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
 
