@@ -6,12 +6,12 @@ $1.\lim\limits_{x\to0} \dfrac{sinx}{x} =1$
 		 $= \lim\limits_{a\to b} =\dfrac{f(a) - f(b)}{a-b}$
 
 
----
+
 $\Rightarrow f(x) = y \Rightarrow f'(x) = y'$
 
 $2. \dfrac{dy}{dx} = \dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
 
----
+
  $3. \dfrac{dy}{dx} = \dfrac{dy}{du}·\dfrac{du}{dx}$
 	
 	$\dfrac{d}{dx}f(g(x))) =f'(g(x))·g'(x)$
@@ -24,12 +24,12 @@ $f(x) = \sqrt{x}$
 $g(x) = 1 - sin^2x$
 $h(x) = x^2$
 
----
+
 $4.\dfrac{d}{dx}x^n = nx^{n-1}$
 	
 	$\dfrac{d}{dx}x^{7} = (7x)'x^{7-1} = 7x^{6}$
 	
----
+
 $5.\dfrac{d}{dx}(u \pm v) =\dfrac{du}{dx} \pm \dfrac{dv}{dx}$
 - $\dfrac{d}{dx}(f(x) + g(x)) =f'(x) +g'(x)$
 
@@ -47,7 +47,7 @@ $7. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
 
 
 
----
+
 
 $8.\dfrac{d}{dx}sinx =cosx$
 
@@ -57,7 +57,6 @@ $10.\dfrac{d}{dx}tanx =sec^2x$
 
 $11.\dfrac{d}{dx}secx =sec(x)tan(x)$
 
----
 
 $12.\dfrac{d}{dx}lnx =\dfrac{1}{x}$
 
@@ -120,7 +119,9 @@ $31.\frac{d}{dx} \int_{a}^{f(x)} F(t) \, dt = f'(x)F(f(x))$
 $32. \int_a^bf(x)dx=F(b)-F(a)$
 
 
-
+**Integration by Parts**
+$33.\int u dv = uv - \int v du$
+- $\int f(x)g'(x) \, dx = f(x)g(x) - \int g(x)f'(x) \, dx$
 
 
 
