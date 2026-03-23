@@ -30,16 +30,19 @@ $4.\dfrac{d}{dx}x^n = nx^{n-1}$
 	$\dfrac{d}{dx}x^{7} = (7x)'x^{7-1} = 7x^{6}$
 	
 ---
-$5.\dfrac{d}{dx}(f(x) + g(x)) =f'(x) +g'(x)$
+$5.\dfrac{d}{dx}(u \pm v) =\dfrac{du}{dx} \pm \dfrac{dv}{dx}$
+- $\dfrac{d}{dx}(f(x) + g(x)) =f'(x) +g'(x)$
 
-$7. \dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
+
+
+$6. \dfrac{d}{dx}(uv) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
 
 - $\dfrac{d}{dx}f(x)g(x)= f(x)·g'(x) + g(x)·f'(x)$
 
 Eg: $x^2(x-5)^7 = 2x(x-5)^7 +7x^2(x-5)^6$
 
 
-$8. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
+$7. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
 - $\dfrac{d}{dx}(\dfrac{f(x)}{g(x)}) =\dfrac{g(x)f'(x) - f(x)g'(x)}{g^2(x)}$
 
 
@@ -52,9 +55,9 @@ $8. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
 
 ---
 
-5. $\dfrac{d}{dx}sinx =cosx$
+5. $9.\dfrac{d}{dx}sinx =cosx$
 	
-	$\dfrac{d}{dx}sin2x =2cosx$
+	$\dfrac{d}{dx}sin2x =2cosx$  ——  $f(g(x))$
 	
 
 6. $\dfrac{d}{dx}cosx =-sinx$
