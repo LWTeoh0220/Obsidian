@@ -25,17 +25,24 @@ $g(x) = 1 - sin^2x$
 $h(x) = x^2$
 
 ---
-$3.\dfrac{d}{dx}x^n = nx^{n-1}$
+$4.\dfrac{d}{dx}x^n = nx^{n-1}$
 	
 	$\dfrac{d}{dx}x^{7} = (7x)'x^{7-1} = 7x^{6}$
+	
+---
 
-3. $\dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
+
+$5. \dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
 
 	 $\dfrac{d}{dx}f(x)g(x)= f(x)·g'(x) + g(x)·f'(x)$
 	 
-	 Eg: $x^2(x-5)^7 = 2x(x-5)^7 +7x^2(x-5)^6$
+Eg: $x^2(x-5)^7 = 2x(x-5)^7 +7x^2(x-5)^6$
 
-4. $\dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
+
+$6. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
+	$\dfrac{d}{dx}(\dfrac{f(x)}{g(x)}) =\dfrac{g(x)f'(x) - f(x)g'(x)}{g^2(x)}$
+
+
 
 ---
 
