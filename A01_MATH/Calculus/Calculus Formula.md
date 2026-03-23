@@ -101,7 +101,12 @@ $25. \lim\limits_{x\to 0}f(x) =\lim\limits_{x\to 0}e^{ln(f(x))}$
 $26.  \lim\limits_{x\to 0}\dfrac{f(x)}{g(x)} = \lim\limits_{x\to 0}\dfrac{f'(x)}{g'(x)}$
 
 **Riemann sum**
-$27.S = \sum\Delta x =\dfrac{b-a}{n}$
+$27.S = \lim\limits_{n\rightarrow\infty}\sum\limits_{i=1}^{n}f(x_i^*)\Delta x = \int_a^b f(x) dx$
+$\Delta x =\dfrac{b-a}{n}$
+$28.\int_a^b k dx =k(b-a)$
+
+
+
 
 ## Other Basic Concept
 - $ln1 =0$
