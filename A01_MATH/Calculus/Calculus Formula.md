@@ -72,5 +72,18 @@ $15.\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{1+x^2}$
 
 ## Basic Formula —— Intigration
 
-$\int x^n dx = \dfrac{x^{n+1}}{n+1} +C$
+$16. \int x^n dx = \dfrac{x^{n+1}}{n+1} +C, n\not= -1$
+
+$17. \int cosx dx = sinx +C$
+
+$18. \int sinx dx = -cos +C$
+
+$19. \int \dfrac{1}{x} dx = ln|x| +C$
+
+$20. \int e^x dx = e^x +C$
+
+$21. \int \dfrac{1}{\sqrt{1-x^2}} dx = sin^{-1}x +C$
+
+$22. \int \dfrac{1}{1 + x^2} dx = tan^{-1}x +C$
+
 
