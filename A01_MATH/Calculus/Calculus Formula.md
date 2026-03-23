@@ -3,20 +3,28 @@
 
 1. $\lim\limits_{x\to0} \dfrac{sinx}{x} =1$
 ---
-2. $\dfrac{dy}{dx} = \dfrac{dy}{du}·\dfrac{du}{dx}$
-	
-	$\dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
+$\Rightarrow f(x) = y \Rightarrow f'(x) = y'$
+
+2. $\dfrac{dy}{dx} = \dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
+---
+3. $\dfrac{dy}{dx} = \dfrac{dy}{du}·\dfrac{du}{dx}$
 	
 	$\dfrac{d}{dx}f(g(x))) =f'(g(x))·g'(x)$
 	
 	$\dfrac{d}{dx}f(g(h(x)))) =f'(g(h(x)))·g'(h(x))·h'(x)$
-
+	
+	Eg: $f(g(h(x))) = \sqrt{1-sin^2x^2}$
+		$$\begin{aligned}  
+....  \\
+.... \
+.... \
+\end{aligned}$$
 ---
 
 
 3. $\dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
 
-	 $\dfrac{d}{dx}f(x)g(x)=$
+	 $\dfrac{d}{dx}f(x)g(x)= f(x)·g'(x) + g(x)·f'(x)$
 
 4. $\dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
 
@@ -32,7 +40,7 @@
 
 5. $\dfrac{d}{dx}sinx =cosx$
 	
-	$\dfrac{d}{dx}sin2x =(2x)'cosx = 2cosx$
+	$\dfrac{d}{dx}sin2x =2cosx$
 	
 
 6. $\dfrac{d}{dx}cosx =-sinx$
