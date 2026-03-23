@@ -73,6 +73,8 @@ $15.\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{1+x^2}$
 ## Basic Formula —— Intigration
 
 $16. \int x^n dx = \dfrac{x^{n+1}}{n+1} +C, n\not= -1$
+- $\int f(g(x))dx =$
+
 
 $17. \int cosx dx = sinx +C$
 
@@ -100,14 +102,23 @@ $25. \lim\limits_{x\to 0}f(x) =\lim\limits_{x\to 0}e^{ln(f(x))}$
 **L'Hopital Rule**
 $26.  \lim\limits_{x\to 0}\dfrac{f(x)}{g(x)} = \lim\limits_{x\to 0}\dfrac{f'(x)}{g'(x)}$
 
+
 **Riemann sum**
 $27.S = \lim\limits_{n\rightarrow\infty}\sum\limits_{i=1}^{n}f(x_i^*)\Delta x = \int_a^b f(x) dx$
 $\Delta x =\dfrac{b-a}{n}$
+
 $28.\int_a^b k dx =k(b-a)$
+
 
 $29. \int_a^b f(x)dx =\int_a^cf(x)dx +\int_c^bf(x)dx$
 
-$30.\frac{d}{dx} \int_{a}^{f(x)} F(t) \, dt = f'(x)F(x)$
+
+**The Fundamental Theorem of Calculus, I**
+$30.\frac{d}{dx} \int_{a}^{f(x)} F(t) \, dt = f'(x)F(f(x))$
+
+
+**The Fundamental Theorem of Calculus, II**
+$31. \int_a^bf(x)dx=F(b)-F(a)$
 
 ## Other Basic Concept
 - $ln1 =0$
