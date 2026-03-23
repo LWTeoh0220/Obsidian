@@ -2,28 +2,32 @@
 ## Basic Formula
 
 $1.\lim\limits_{x\to0} \dfrac{sinx}{x} =1$
-$f'(x) = \lim\limits_{h\to0} =\dfrac{f(x+h) +x}{}$
+	$f'(x) = \lim\limits_{h\to0} =\dfrac{f(x+h) -f(x)}{h}$
+		 $= \lim\limits_{a\to b} =\dfrac{f(a) - f(b)}{a-b}$
 
 
 ---
 $\Rightarrow f(x) = y \Rightarrow f'(x) = y'$
 
 $2. \dfrac{dy}{dx} = \dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
+
 ---
-3. $\dfrac{dy}{dx} = \dfrac{dy}{du}·\dfrac{du}{dx}$
+ $3. \dfrac{dy}{dx} = \dfrac{dy}{du}·\dfrac{du}{dx}$
 	
 	$\dfrac{d}{dx}f(g(x))) =f'(g(x))·g'(x)$
 	
 	$\dfrac{d}{dx}f(g(h(x)))) =f'(g(h(x)))·g'(h(x))·h'(x)$
 	
-	Eg: $f(g(h(x))) = \sqrt{1-sin^2x^2}$
-	
-	$f(x) = \sqrt{x}$ 
-	$g(x) = 1 - sin^2x$
-	$h(x) = x^2$
+Eg: $f(g(h(x))) = \sqrt{1-sin^2x^2}$
+
+$f(x) = \sqrt{x}$ 
+$g(x) = 1 - sin^2x$
+$h(x) = x^2$
 
 ---
-
+$3.\dfrac{d}{dx}x^n = nx^{n-1}$
+	
+	$\dfrac{d}{dx}x^{7} = (7x)'x^{7-1} = 7x^{6}$
 
 3. $\dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
 
@@ -35,9 +39,7 @@ $2. \dfrac{dy}{dx} = \dfrac{d}{dx}f(x) = (f(x))'=f'(x)$
 
 ---
 
-4. $\dfrac{d}{dx}x^n = nx^{n-1}$
-	
-	$\dfrac{d}{dx}x^{7} = (7x)'x^{7-1} = 7x^{6}$
+
 
 
 
