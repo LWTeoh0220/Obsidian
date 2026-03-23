@@ -105,8 +105,9 @@ $27.S = \lim\limits_{n\rightarrow\infty}\sum\limits_{i=1}^{n}f(x_i^*)\Delta x = 
 $\Delta x =\dfrac{b-a}{n}$
 $28.\int_a^b k dx =k(b-a)$
 
+$29. \int_a^b f(x)dx =\int_a^cf(x)dx +\int_c^bf(x)dx$
 
-
+$30.\frac{d}{dx} \int_{a}^{f(x)} F(t) \, dt = f'(x)F(x)$
 
 ## Other Basic Concept
 - $ln1 =0$
