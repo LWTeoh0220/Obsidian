@@ -100,7 +100,8 @@ $25. \lim\limits_{x\to 0}f(x) =\lim\limits_{x\to 0}e^{ln(f(x))}$
 **L'Hopital Rule**
 $26.  \lim\limits_{x\to 0}\dfrac{f(x)}{g(x)} = \lim\limits_{x\to 0}\dfrac{f'(x)}{g'(x)}$
 
-
+**Riemann sum**
+$27.S = \sum\Delta x =\dfrac{b-a}{n}$
 
 ## Other Basic Concept
 - $ln1 =0$
