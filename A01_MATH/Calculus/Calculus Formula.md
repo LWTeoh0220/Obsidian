@@ -93,4 +93,12 @@ $22. \int \dfrac{1}{1 + x^2} dx = tan^{-1}x +C$
 
 $23. f^{(n)}(x) =\dfrac{df^{n-1}}{dx} =\dfrac{d^2f^{n-2}}{dx^2} =\dots = \dfrac{d^nf}{dx^n}$
 
-$24.$
+$24.(f^{-1})'(f(a))=\dfrac{1}{f'(b)}, f(b) =a$
+
+
+## Other Basic Concept
+- $ln1 =0$
+- $e^0 =1$
+- $lnx =log_ex$
+- $ln(e) =1$
+- $sin$
