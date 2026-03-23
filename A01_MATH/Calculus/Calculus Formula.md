@@ -1,5 +1,5 @@
 
-## Basic Formula
+## Basic Formula —— Differentiation
 
 $1.\lim\limits_{x\to0} \dfrac{sinx}{x} =1$
 	$f'(x) = \lim\limits_{h\to0} =\dfrac{f(x+h) -f(x)}{h}$
@@ -49,33 +49,28 @@ $7. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
 
 ---
 
+$8.\dfrac{d}{dx}sinx =cosx$
 
+ $9.\dfrac{d}{dx}cosx =-sinx$
 
+$10.\dfrac{d}{dx}tanx =sec^2x$
 
-
----
-
-5. $9.\dfrac{d}{dx}sinx =cosx$
-	
-	$\dfrac{d}{dx}sin2x =2cosx$  ——  $f(g(x))$
-	
-
-6. $\dfrac{d}{dx}cosx =-sinx$
-	
-	$\dfrac{d}{dx}cos5x =-5sin5x$
-	
-
-$\dfrac{d}{dx}tanx =sec^2x$
-
-$\dfrac{d}{dx}secx =sec(x)tan(x)$
+$11.\dfrac{d}{dx}secx =sec(x)tan(x)$
 
 ---
 
+$12.\dfrac{d}{dx}lnx =\dfrac{1}{x}$
 
-$\dfrac{d}{dx}lnx =\dfrac{1}{x}$
+$13.\dfrac{d}{dx}e^x =e^x$
 
-$\dfrac{d}{dx}e^x =e^x$
+$14.\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{\sqrt{1-x^2}}$
 
-$\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{\sqrt{1-x^2}}$
+$15.\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{1+x^2}$
 
-$\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{1+x^2}$
+---
+
+
+## Basic Formula —— Intigration
+
+$\int x^n dx = \dfrac{x^{n+1}}{n+1} +C$
+
