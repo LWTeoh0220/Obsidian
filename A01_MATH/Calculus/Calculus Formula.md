@@ -95,9 +95,10 @@ $23. f^{(n)}(x) =\dfrac{df^{n-1}}{dx} =\dfrac{d^2f^{n-2}}{dx^2} =\dots = \dfrac{
 
 $24.(f^{-1})'(f(a))=\dfrac{1}{f'(b)}, f(b) =a$
 
-$25. $
+$25. \lim\limits_{x\to 0}f(x) =\lim\limits_{x\to 0}e^{ln(f(x))}$
 
-
+**L'Hopital Rule**
+$26.  \lim\limits_{x\to 0}\dfrac{f(x)}{g(x)} = \lim\limits_{x\to 0}\dfrac{f'(x)}{g'(x)}$
 
 
 
