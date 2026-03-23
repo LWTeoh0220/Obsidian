@@ -87,3 +87,10 @@ $21. \int \dfrac{1}{\sqrt{1-x^2}} dx = sin^{-1}x +C$
 $22. \int \dfrac{1}{1 + x^2} dx = tan^{-1}x +C$
 
 
+
+## Intermediate Formula
+
+
+$23. f^{(n)}(x) =\dfrac{df^{n-1}}{dx} =\dfrac{d^2f^{n-2}}{dx^2} =\dots = \dfrac{d^nf}{dx^n}$
+
+$24.$
