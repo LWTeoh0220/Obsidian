@@ -96,9 +96,17 @@ $23. f^{(n)}(x) =\dfrac{df^{n-1}}{dx} =\dfrac{d^2f^{n-2}}{dx^2} =\dots = \dfrac{
 $24.(f^{-1})'(f(a))=\dfrac{1}{f'(b)}, f(b) =a$
 
 
+
+
+
+
+
 ## Other Basic Concept
 - $ln1 =0$
 - $e^0 =1$
 - $lnx =log_ex$
 - $ln(e) =1$
-- $sin$
+- $sin(\dfrac{\pi}{6})=cos(\dfrac{\pi}{3})=\dfrac{1}{2}$
+- $cos(\dfrac{\pi}{6})=sin(\dfrac{\pi}{3})=\dfrac{\sqrt{3}}{2}$
+- $sin(0)=cos(\dfrac{\pi}{2})=0$
+- $cos(0)=sin(\dfrac{\pi}{2})=1$
