@@ -34,13 +34,13 @@ $4.\dfrac{d}{dx}x^n = nx^{n-1}$
 
 $5. \dfrac{d}{dx}(ux) =u\dfrac{dv}{dx} + v\dfrac{du}{dx}$
 
-	 $\dfrac{d}{dx}f(x)g(x)= f(x)·g'(x) + g(x)·f'(x)$
-	 
+- $\dfrac{d}{dx}f(x)g(x)= f(x)·g'(x) + g(x)·f'(x)$
+
 Eg: $x^2(x-5)^7 = 2x(x-5)^7 +7x^2(x-5)^6$
 
 
 $6. \dfrac{d}{dx}(\dfrac{u}{v}) =\dfrac{v\dfrac{du}{dx} - u\dfrac{dv}{dx}}{v^2}$
-	$\dfrac{d}{dx}(\dfrac{f(x)}{g(x)}) =\dfrac{g(x)f'(x) - f(x)g'(x)}{g^2(x)}$
+- $\dfrac{d}{dx}(\dfrac{f(x)}{g(x)}) =\dfrac{g(x)f'(x) - f(x)g'(x)}{g^2(x)}$
 
 
 
