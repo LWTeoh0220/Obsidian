@@ -73,8 +73,6 @@ $15.\dfrac{d}{dx}sin^{-1}x= \dfrac{1}{1+x^2}$
 ## Basic Formula —— Intigration
 
 $16. \int x^n dx = \dfrac{x^{n+1}}{n+1} +C, n\not= -1$
-- $\int f(g(x))dx =$
-
 
 $17. \int cosx dx = sinx +C$
 
@@ -112,13 +110,19 @@ $28.\int_a^b k dx =k(b-a)$
 
 $29. \int_a^b f(x)dx =\int_a^cf(x)dx +\int_c^bf(x)dx$
 
+$\int_{-a}^{a}F(x)dx =2\int_0^aF(x)dx$
 
 **The Fundamental Theorem of Calculus, I**
-$30.\frac{d}{dx} \int_{a}^{f(x)} F(t) \, dt = f'(x)F(f(x))$
+$31.\frac{d}{dx} \int_{a}^{f(x)} F(t) \, dt = f'(x)F(f(x))$
 
 
 **The Fundamental Theorem of Calculus, II**
-$31. \int_a^bf(x)dx=F(b)-F(a)$
+$32. \int_a^bf(x)dx=F(b)-F(a)$
+
+
+
+
+
 
 ## Other Basic Concept
 - $ln1 =0$
