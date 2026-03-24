@@ -14,7 +14,39 @@ status:
 机率是什么?
 	- 对世界了解太少而带来的未知（对A学生，机率是低的，对全知的B而言，机率是100%的）
 	- 有些东西是具有随机性的
-	
+统计是什么
+	如何建立机率模型
+
+
+## 1.2集合论
+P(X) = Y
+
+#### 元素 Element
+- a,b,c,d,e...,z
+#### 集合Set
+A = {a,b,c,d}
+B = {h,x,y,z}
+#### 子集合Sebset
+C = {x,y,z}
+C是B的子集合
+
+#### 于集 Universal Set
+S ={a,b,c,d,...,z}
+- 所有元素
+
+#### 空集合 Empty Set
+$\phi$ = {} 
+- 无
+
+#### 交集 Intersection
+A $\cap$ B =$\phi$
+A $\cap$ C = {x,y,z}
+#### 联级 Union
+A $cup$ B
+
+## 1.3名词定义
+
+
 
 
 ## 公理 （Axioms）
