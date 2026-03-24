@@ -29,23 +29,33 @@ B = {h,x,y,z}
 #### 子集合Sebset
 C = {x,y,z}
 C是B的子集合
-
 #### 于集 Universal Set
 S ={a,b,c,d,...,z}
 - 所有元素
-
 #### 空集合 Empty Set
 $\phi$ = {} 
 - 无
-
 #### 交集 Intersection
 A $\cap$ B =$\phi$
 A $\cap$ C = {x,y,z}
 #### 联级 Union
-A $cup$ B
-
+A $\cup$ B = {a,b,c,d,h,x,y,z}
+#### 补集 Complement
+$A^c$ = {e,f,g,....,z} 
+- A集合意外的元素集
+#### 差集 Difference
+C - B ={h,x,y,z} - {x,y,z} = {h}
+#### 不相交 Disjoint
+A $\cap$ B =$\phi \rightarrow$ A,B 不相交
+#### 互斥 Mutually Exlusive
+一群集合中任选两个集合都不相交
+$X_1,X_2,X_3....$ 任何两个集合都不相交
+#### De Morgan's Law 定理
+$(A\cup B)^c=A^c \cap B^c$
+	
 ## 1.3名词定义
-
+#### 实验 Experiment
+- dui'yu'bu'qu
 
 
 
