@@ -87,3 +87,5 @@ status: 🧠Understanding / 🧪Testing / 🚀Mastered
 	- TF：
 	- IDF：一个字越普及、重要性越低
 	- TF x ICF
+- 链接权重衡量 与 哦i牛排联想网络视觉化
+	- 萃取出来的资源视觉化
