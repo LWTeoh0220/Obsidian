@@ -29,7 +29,7 @@ B = {h,x,y,z}
 #### 子集合Sebset
 C = {x,y,z}
 C是B的子集合
-#### 于集 Universal Set
+#### 宇集 Universal Set
 S ={a,b,c,d,...,z}
 - 所有元素
 #### 空集合 Empty Set
@@ -55,9 +55,18 @@ $(A\cup B)^c=A^c \cap B^c$
 	
 ## 1.3名词定义
 #### 实验 Experiment
-- dui'yu'bu'qu
-
-
+- 对于不确定结果的实作
+1. 步骤 procedures —— 过程 & 规则
+2. 模型 model —— 条件
+3. 观察 observation —— 结果
+#### 样本空间 Sample Space
+- 机率实验所有可能的结果的的集合  被称为$\phi 或\Omega$
+- 在机率问题中，样本空间就是该问题的宇集
+S = [0，1)
+#### 事件 Event
+- 对实验结果的叙述
+- 机率 —— 讲述实验结果符合某事件叙述的机会有多大
+- 事件 ---- 结果的集合，既是样本空间的子集
 
 ## 公理 （Axioms）
 1. 对任何事件A而言，P(A) $\ge$ 0
