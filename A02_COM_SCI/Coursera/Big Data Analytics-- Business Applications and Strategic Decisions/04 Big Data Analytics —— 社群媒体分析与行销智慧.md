@@ -81,4 +81,9 @@ status: 🧠Understanding / 🧪Testing / 🚀Mastered
 	- 词形还原
 
 - 喜好度判定与联想分群
-	- 将具有相同情感极性的形容词+相同名称分群到同意群集 （good与great为同一种）
+	- 将具有相同情感极性的形容词+相同名称分群到同意群集 （good与great为同一种，两者整合到出现频率最高的词性）
+- 联想选择
+	- 针对词频 TF、TF x IDF、TF x ICF
+	- TF：
+	- IDF：一个字越普及、重要性越低
+	- TF x ICF
