@@ -51,3 +51,10 @@ status: 🧠Understanding / 🧪Testing / 🚀Mastered
 	- Girvan-Newman演算法
 	- 视觉化 —— 多维度
 利用不同的资料会出现不同的客群划分 
+
+
+## 品牌联想（形象联想）分析
+- 消费者记忆中对品牌的认知、偏好与选择 
+
+#### 效益：
+- 提升销售活动的xiao
