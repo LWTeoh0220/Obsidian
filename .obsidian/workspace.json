@@ -63,7 +63,8 @@
               "title": "04 数数概率 Counting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf81be77f90d6288",
+  "active": "df61126df65d7488",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
+    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
     "00_Assets/Pasted image 20260325181819.png",
