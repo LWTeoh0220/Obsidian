@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "04 Markdown 数学公式"
             }
+          },
+          {
+            "id": "59c20b86b998bdac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 数数概率 Counting"
+            }
           }
         ]
       }
@@ -216,11 +230,12 @@
   },
   "active": "bf81be77f90d6288",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
+    "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
+    "00_Assets/Pasted image 20260325181819.png",
+    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
-    "A01_MATH/Probability & Statistics/04 数数概率 Counting.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/05 Big Data Analytics —— 大数据的商业应用策略.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/04 Big Data Analytics —— 社群媒体分析与行销智慧.md",
     "00_Assets/Pasted image 20260324134447.png",
@@ -243,7 +258,6 @@
     "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "00_Assets/Pasted image 20260319153350.png",
-    "00_Assets/Pasted image 20260319151456.png",
     "A03_FIN/Financial Management/V 05_財務報表與自由現金流量.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
@@ -261,7 +275,6 @@
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/01 Big Data Analytics-- 基础 + 财务应用.md",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A03_FIN/Financial Management/01 财务管理的范围.md",
-    "A02_COM_SCI/未命名.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
