@@ -24,7 +24,7 @@ status:
 if X(Pass) = 0, X(Fail) = 1,X(Zero) = 2,X(Hundred)=3,....
 $\Rightarrow X=0,X=1,X=2,X=3,....$
 #### 离散RV的值是 
-	1. 有限个
+	1. 有限
 	2. 可数无穷
 
 
@@ -34,7 +34,7 @@ $\Rightarrow X=0,X=1,X=2,X=3,....$
 	2.不可数
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
+对于无穷
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
