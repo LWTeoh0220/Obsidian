@@ -127,7 +127,25 @@ $$P_X(x)=F_X(x^+)-F_X(x^-)$$
 ### Bernoulli机率分布
 - 一次实验两种结果
 X ~ Bernoulli(p) 【另一个结果为 (1-p)】
-$$\begin{cases} p, x=1 \\ 1-p,x \\<br>-6x + 3y + 2z <br>\end{cases}$$
+
+1. PMF
+$$p_X(x) = \begin{cases} 
+p & ,x = 1, \\ 
+1-p & ,x = 0, \\ 
+0 & ,\text{otherwise}. 
+\end{cases}
+$$
+
+2. CDF
+$$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
+$$F_X(x) = \begin{cases} 
+0 & ,x <0, \\ 
+1-p & ,0\le x<1, \\ 
+1 & ,x\ge 1. 
+\end{cases}
+$$
+
+
 Eg:
 	成功率为0.6作一次实验，X表成功次数
 	X ~ Bernoulli(0.6)
@@ -136,12 +154,18 @@ Eg:
 - 多次实验两种结果
 - 若实验成功率为p作n次实验，X表成功次数
 X ~ BIN(n,p)
+1. PMF
 $p_X(x)$
 $=P(X=x$
 = $\dbinom{n}{x}p^x(1-p)^{n-x}$
 
+2. CDF
+$$\begin{aligned}
+F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
+&=\sum\limits_{m=-\infty}^{[x]}\dbinom{n}{m}p^m(1-p)^{n-m}
+\end{aligned}$$
 
-$\dbinom{10}{8}0.6^8(1-0.6)^{10-8}$
+
 Eg:
 	成功率为0.6作10次实验，X表成功次数
 	X ~ Bernoulli(10,0.6)
