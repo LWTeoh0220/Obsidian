@@ -51,10 +51,14 @@
             "id": "a1ea7a2afacd1446",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics-- 行销与零售上的应用.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "02 Big Data Analytics-- 行销与零售上的应用"
             }
           }
         ]
@@ -224,6 +228,8 @@
   "active": "5986bf91d368c46f",
   "lastOpenFiles": [
     "A03_FIN/Financial Management/V 04-市場效率性.pdf",
+    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics-- 行销与零售上的应用.md",
+    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics -- 社群媒体之舆情分析.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf",
     "A03_FIN/Financial Management/05 财务报表分析.md",
@@ -244,7 +250,6 @@
     "00_Assets/Pasted image 20260324125543.png",
     "A02_COM_SCI/Data Structure/01 Data Structure 基础.md",
     "A01_MATH/Calculus/Calculus Formula.md",
-    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics -- 社群媒体之舆情分析.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "Snipaste_2026-03-22_18-47-30.png",
     "A03_FIN/Financial Management/S Financial Management preview 5rd Week.png",
@@ -258,7 +263,6 @@
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
-    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics-- 行销与零售上的应用.md",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "A02_COM_SCI/Data Structure/02 Array.md",
     "A03_FIN/Economics/3_Answer.pdf",
