@@ -91,6 +91,10 @@ $P(3 < X \le 5) = P(-\infty < X \le 5) - P(-\infty < X \le 3)$
 $\dots$
 当 $x \in [n, +\infty)$ 时， $F_X(x) = 1$
 
+### 连续随机变数的CDF
+
+
+
 
 ## 4.3 机率质量函数 PMF
 
