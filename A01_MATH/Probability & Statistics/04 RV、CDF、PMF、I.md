@@ -20,13 +20,18 @@ status:
 通常用大写字母X、Y、Z表示随机变量，用小写字母x、y、z表示其可能的取值
 
 ### 随机变数的种类
-#### 离散随机变数 Discrete R.V.
+#### 1. 离散随机变数 Discrete R.V.
 if X(Pass) = 0, X(Fail) = 1,X(Zero) = 2,X(Hundred)=3,....
 $\Rightarrow X=0,X=1,X=2,X=3,....$
-##### 离散RV的值是 
-	1. 有限
-	2. 
+#### 离散RV的值是 
+	1. 有限个
+	2. 可数无穷
 
+
+### 2. 连续随机变数 Continuous R.V.
+#### 连续R.V.的值是
+	1.无穷多
+	2.不可数
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
