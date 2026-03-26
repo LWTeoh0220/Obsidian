@@ -61,6 +61,7 @@ $$F_X(x) \overset{def}{=} P(X \le x)$$
 	定義域 (Domain) = (-无限, 无限）
 	對應域Range = [0,1]
 
+$P(a < X \le$
 $F_X$为CDF（RV的函数）
 x = 变数
 
