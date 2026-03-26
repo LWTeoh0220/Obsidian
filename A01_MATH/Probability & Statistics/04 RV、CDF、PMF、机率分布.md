@@ -34,11 +34,17 @@ $\Rightarrow X=0,X=1,X=2,X=3,....$
 	2.不可数
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-对于无穷
+对于无穷多的两个集合，两者的数量一样多
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
+	標準是看能否建立**一對一的對應關係**（雙射）
+	集合 A：所有正整數${1,2,3,4,5,6,......}$
+	集合 B：$10^5,10^{10},10^{15},......$
+- $1 \leftrightarrow 10^5$
+- $2 \leftrightarrow 10^{10}$
+- $3 \leftrightarrow 10^{15}$
+-  $\dots$
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
+- $n \leftrightarrow 10^{5n}$
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
@@ -78,3 +84,7 @@ Eg:
 
 
 ## 4.4 离散机率分布 I
+
+
+
+## 4.4 离散机率分布 II
