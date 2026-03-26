@@ -71,8 +71,7 @@
               "title": "SP 範例_台積電FCF計算步驟(20241114)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -236,11 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed317c2b0b3097fc",
+  "active": "5986bf91d368c46f",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "00_Assets/Pasted image 20260326152834.png",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
-    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/SP 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
@@ -273,7 +273,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "Snipaste_2026-03-22_18-47-30.png",
     "A03_FIN/Financial Management/S Financial Management preview 5rd Week.png",
-    "00_Assets/Pasted image 20260320210617.png",
     "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
     "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
