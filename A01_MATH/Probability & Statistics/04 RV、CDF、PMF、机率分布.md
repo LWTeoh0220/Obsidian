@@ -56,9 +56,15 @@ $\Rightarrow X=0,X=1,X=2,X=3,....$
 ## 4.2 累积分布函数 (Cumulative Distribution Function) —— CDF
 #### 对于一个随即变数X，我们定义CDF为函数：
 $$F_X(x) \overset{def}{=} P(X \le x)$$
-$F_X$为
+	隨機變數小於或等於某個值的累積機率
+	[-无限,X] 
+	對應域Range = [0,1]
+
+$F_X$为CDF（RV的函数）
 x = 变数
 
+Eg:
+$F_X(0.5) = P(X \le 0.5) =\frac{1}{2}$
 ## 4.3 机率质量函数 PMF
 
 
