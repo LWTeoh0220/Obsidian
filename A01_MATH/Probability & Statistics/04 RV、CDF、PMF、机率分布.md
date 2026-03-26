@@ -67,7 +67,9 @@ x = 变数
 Eg:
 当Range = (0,1)
 $F_X(0.5) = P(X \le 0.5) =\frac{1}{2}$
-$P(3 < X \le 5) = P(-\infy$
+$P(3 < X \le 5) = P(-\infty < X \le 5) - P(-\infty < X \le 3)$
+		    $= P(X \le 5)-P(X\le 3)$
+		    $=F_X(5) -F_X(3)$
 ## 4.3 机率质量函数 PMF
 
 
