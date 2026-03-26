@@ -91,11 +91,17 @@ $P(3 < X \le 5) = P(-\infty < X \le 5) - P(-\infty < X \le 3)$
 $\dots$
 当 $x \in [n, +\infty)$ 时， $F_X(x) = 1$
 
+因此  $F_X(X^+)=F_X(x)$
+	 $F_X(X^-)=F_X(x)-P(X=x)$
 ### 连续随机变数的CDF
+当 $x \in [0, 1)$ 时，
+$F_X(-0.1) = P(X \le -0.1)=0$
+$F_X(0.1) = P(0 \le X \le 0.1)=0.1$
+$F_X(0.5) = P(0 \le X \le 0.5)=0.5$
+$F_X(1) = P(0 \le X \le 1)=1$
+$F_X(1.7) = P(0 \le X \le 1.7)=1$
 
-
-
-
+因此  $F_X(X^-)=F_X(x)$
 ## 4.3 机率质量函数 PMF
 
 
