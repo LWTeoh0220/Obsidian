@@ -5,7 +5,7 @@ tags:
 latest update: 2026-03-10
 status:
 ---
-# Topic：随机变数、CDF、PMF、I
+# Topic：随机变数、CDF、PMF、机率分布
 
 ## 4.1 随机变数 (Random Variable) —— RV
 #### 什么是 R.V. —— 数字化
@@ -54,8 +54,10 @@ $\Rightarrow X=0,X=1,X=2,X=3,....$
  
 
 ## 4.2 累积分布函数 (Cumulative Distribution Function) —— CDF
-
-
+#### 对于一个随即变数X，我们定义CDF为函数：
+$$F_X(x) \overset{def}{=} P(X \le x)$$
+$F_X$为
+x = 变数
 
 ## 4.3 机率质量函数 PMF
 
