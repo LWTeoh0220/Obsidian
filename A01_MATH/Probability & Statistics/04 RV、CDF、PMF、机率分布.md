@@ -126,9 +126,25 @@ $$P_X(x)=F_X(x^+)-F_X(x^-)$$
 ## 4.4 离散机率分布 I
 ### Bernoulli机率分布
 - 一次实验两种结果
-X ~ Bernoulli(x)
+X ~ Bernoulli(p) 【另一个结果为 (1-p)】
+$$\begin{cases} p, x=1 \\ 1-p,x \\<br>-6x + 3y + 2z <br>\end{cases}$$
 Eg:
 	成功率为0.6作一次实验，X表成功次数
-	X ~ Bernoulli(0.)
+	X ~ Bernoulli(0.6)
 
+### Binomial 机率分布
+- 多次实验两种结果
+- 若实验成功率为p作n次实验，X表成功次数
+X ~ BIN(n,p)
+$p_X(x)$
+$=P(X=x$
+= $\dbinom{n}{x}p^x(1-p)^{n-x}$
+
+
+$\dbinom{10}{8}0.6^8(1-0.6)^{10-8}$
+Eg:
+	成功率为0.6作10次实验，X表成功次数
+	X ~ Bernoulli(10,0.6)
+	= p(X=8)
+	= $\dbinom{10}{8}0.6^8(1-0.6)^{10-8}$
 ## 4.4 离散机率分布 II
