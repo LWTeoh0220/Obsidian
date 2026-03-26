@@ -46,6 +46,16 @@
               "icon": "lucide-file",
               "title": "05 财务报表分析"
             }
+          },
+          {
+            "id": "a1ea7a2afacd1446",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
         ]
       }
