@@ -111,6 +111,16 @@ $$p_X(x) \overset{def}{=} P(X \le x)$$
 - 非负性：所有可能的x机率必须大于或等于0
 - 单位和性质：所有可能结果的机率综合必须精确等于1
 
+#### PMF $\Rightarrow$ CDF
+$$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
+
+#### CDF $\Rightarrow$ PMF
+$$P_X(x)=F_X(x^+)-F_X(x^-)$$
+
+
+### 机率分布 Probability Distribution
+- 任何一个PMF/PDF都是一种机率分布
+
 
 
 ## 4.4 离散机率分布 I
