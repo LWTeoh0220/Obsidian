@@ -61,7 +61,18 @@ $$F_X(x) \overset{def}{=} P(X \le x)$$
 	定義域 (Domain) = (-无限, 无限）
 	對應域Range = [0,1]
 
-$P(a < X \le$
+$P(a < X \le b)$
+$F_X(b) - F_X(a)$
+
+$P(a \le X \le b)$
+$F_X(b) - F_X(a) + P(X=a)$
+
+$P(a < X < b)$
+$F_X(b) - F_X(a) - P(X=b)$
+
+$P(a \le X < b)$
+$F_X(b) - F_X(a) - P(X=b) + P(X=a)$
+
 $F_X$为CDF（RV的函数）
 x = 变数
 
@@ -71,6 +82,8 @@ $F_X(0.5) = P(X \le 0.5) =\frac{1}{2}$
 $P(3 < X \le 5) = P(-\infty < X \le 5) - P(-\infty < X \le 3)$
 		    $= P(X \le 5)-P(X\le 3)$
 		    $=F_X(5) -F_X(3)$
+
+
 ## 4.3 机率质量函数 PMF
 
 
