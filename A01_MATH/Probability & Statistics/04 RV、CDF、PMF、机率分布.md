@@ -102,9 +102,11 @@ $F_X(1) = P(0 \le X \le 1)=1$
 $F_X(1.7) = P(0 \le X \le 1.7)=1$
 
 因此  $F_X(x^-)=F_X(x)=F_X(x^+)$
-## 4.3 机率质量函数 PMF
 
 
+## 4.3 机率质量函数(Probability Mass Funtion) PMF
+对任意整数值的离散随机变数X，我们定义PMF为函数
+$$p_X(x) \overset{def}{=} P(X \le x)$$
 
 ## 4.4 离散机率分布 I
 
