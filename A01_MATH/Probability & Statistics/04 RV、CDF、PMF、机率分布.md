@@ -85,7 +85,12 @@ $P(3 < X \le 5) = P(-\infty < X \le 5) - P(-\infty < X \le 3)$
 
 
 ### 离散随机变数的CDF
-0-1 —— $F_$
+当 $x \in [0, 1)$ 时， $F_X(x) = 0$
+当 $x \in [1, 2)$ 时， $F_X(x) = \frac{1}{n}$
+当 $x \in [2, 3)$ 时， $F_X(x) = \frac{2}{n}$
+$\dots$
+当 $x \in [n, +\infty)$ 时， $F_X(x) = 1$
+
 
 ## 4.3 机率质量函数 PMF
 
