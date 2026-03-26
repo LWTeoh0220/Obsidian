@@ -84,8 +84,21 @@
               "icon": "lucide-file",
               "title": "01 Big Data Analytics-- 基础 + 财务应用"
             }
+          },
+          {
+            "id": "318a4032f6eea4ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "V 03_金融市場功能與類型&金融機構業務"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -249,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5986bf91d368c46f",
+  "active": "318a4032f6eea4ec",
   "lastOpenFiles": [
-    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/01 Big Data Analytics-- 基础 + 财务应用.md",
+    "A03_FIN/Financial Management/V 04-市場效率性.pdf",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
+    "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/01 Big Data Analytics-- 基础 + 财务应用.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "00_Assets/Pasted image 20260326152834.png",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
@@ -260,7 +275,6 @@
     "A03_FIN/Financial Management/S Financial Management preview 4rd Week.png",
     "A03_FIN/Financial Management/S Financial Management preview 2nd Week.png",
     "00_Assets/Pasted image 20260326150431.png",
-    "A03_FIN/Financial Management/V 04-市場效率性.pdf",
     "A03_FIN/Financial Management/V 05_財務報表與自由現金流量.pdf",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics-- 行销与零售上的应用.md",
