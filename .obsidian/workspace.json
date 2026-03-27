@@ -53,14 +53,12 @@
             "id": "4997fafeb80f3b3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
-                "mode": "source",
-                "source": false
+                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
               },
-              "icon": "lucide-file",
-              "title": "生命教育 Week 5 上课重点与心得"
+              "icon": "lucide-file-text",
+              "title": "核能發電與爭科技專家的發言方式與筞略運用"
             }
           }
         ],
@@ -121,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -230,6 +229,7 @@
   },
   "active": "4997fafeb80f3b3d",
   "lastOpenFiles": [
+    "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
     "00_Assets/Pasted image 20260327003633.png",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
@@ -250,7 +250,6 @@
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/02 Big Data Analytics-- 行销与零售上的应用.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/03 Big Data Analytics -- 社群媒体之舆情分析.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/01 Markdown 文本格式.md",
-    "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 4 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 3 上课重点与心得.md",
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
