@@ -48,18 +48,6 @@
               "icon": "lucide-file",
               "title": "04 Markdown 数学公式"
             }
-          },
-          {
-            "id": "4997fafeb80f3b3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "核能發電與爭科技專家的發言方式與筞略運用"
-            }
           }
         ]
       }
@@ -230,10 +218,10 @@
   "lastOpenFiles": [
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
-    "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
-    "00_Assets/Pasted image 20260327003633.png",
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
+    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
+    "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
+    "00_Assets/Pasted image 20260327003633.png",
     "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/01 Big Data Analytics-- 基础 + 财务应用.md",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
