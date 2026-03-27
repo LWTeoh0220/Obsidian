@@ -156,12 +156,12 @@ Eg:
 X ~ BIN(n,p)
 1. PMF
 $p_X(x)$
-$=P(X=x$
+$=P(X=x)$
 = $\dbinom{n}{x}p^x(1-p)^{n-x}$
 
 2. CDF
 $$\begin{aligned}
-F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
+F_X(x) &=\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
 &=\sum\limits_{m=-\infty}^{[x]}\dbinom{n}{m}p^m(1-p)^{n-m}
 \end{aligned}$$
 
@@ -171,4 +171,15 @@ Eg:
 	X ~ Bernoulli(10,0.6)
 	= p(X=8)
 	= $\dbinom{10}{8}0.6^8(1-0.6)^{10-8}$
+
+### Uniform机率分布
+- 1次实验，n种结果，结果机率均等
+如果X等于a, a+1..., b
+X ~ UNIF(x,p)
+![[Pasted image 20260327003633.png]]
+
+为什么需要机率分布
+	事物背后的机率模型是未知的
+	可以经由相似的分布，模拟该事务的运作
+
 ## 4.4 离散机率分布 II
