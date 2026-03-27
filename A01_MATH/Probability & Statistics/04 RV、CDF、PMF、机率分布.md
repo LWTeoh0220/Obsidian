@@ -195,5 +195,11 @@ X ~ UNIF(x,p)
 
 
 ### Geometric 机率分布
-X = x的机率为
-~ Geometric
+
+具有失意性
+
+若试验成功过机率为p，试到成功为止，做了X次尝试
+![[Pasted image 20260327203455.png]]
+
+
+### Pascal机率分布
