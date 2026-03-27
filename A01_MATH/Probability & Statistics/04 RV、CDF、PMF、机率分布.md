@@ -203,3 +203,12 @@ X ~ UNIF(x,p)
 
 
 ### Pascal机率分布
+
+若实验成功机率为p，试到第k次成功为止共作了X次
+![[Pasted image 20260327204316.png]]
+
+### Poisson 机率分布
+![[Pasted image 20260327204907.png]]
+![[Pasted image 20260327205017.png]]
+
+
