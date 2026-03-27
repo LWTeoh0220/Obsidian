@@ -148,6 +148,7 @@ $$
 
 2. CDF
 $$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
+即，累积到`[x]`为止的所有机率之和
 $$F_X(x) = \begin{cases} 
 0 & ,x <0, \\ 
 1-p & ,0\le x<1, \\ 
