@@ -209,6 +209,6 @@ X ~ UNIF(x,p)
 
 ### Poisson 机率分布
 ![[Pasted image 20260327204907.png]]
-![[Pasted image 20260327205017.png]]
+![[Pasted image 20260327205017.png]]z
 
 

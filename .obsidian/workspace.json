@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1573ab539e88be0a",
+        "id": "11492076b0206b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "511ed162e33b4bba",
+            "id": "65685570b510a0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
+                "file": "A02_COM_SCI/Computer Languages/Programmming/Java/10 Java Object-Oriented Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 RV、CDF、PMF、机率分布"
-            }
-          },
-          {
-            "id": "c16a01c6f4c970fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 独立性、图解、数数"
-            }
-          },
-          {
-            "id": "cd3218d2ffb57e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 Markdown 数学公式"
+              "title": "10 Java Object-Oriented Programming"
             }
           }
         ]
@@ -214,16 +186,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "511ed162e33b4bba",
+  "active": "65685570b510a0e6",
   "lastOpenFiles": [
+    "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/10 Java Object-Oriented Programming.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Java/Index of Programming_Java.md",
+    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
+    "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
+    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
     "00_Assets/Pasted image 20260327205017.png",
     "00_Assets/Pasted image 20260327204907.png",
     "00_Assets/Pasted image 20260327204316.png",
     "00_Assets/Pasted image 20260327203455.png",
-    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
-    "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
     "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
     "00_Assets/Pasted image 20260327003633.png",
     "A03_FIN/Financial Management/V 03_金融市場功能與類型&金融機構業務.pdf",
@@ -249,19 +224,15 @@
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/05 Big Data Analytics —— 大数据的商业应用策略.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/04 Big Data Analytics —— 社群媒体分析与行销智慧.md",
-    "00_Assets/Pasted image 20260324134447.png",
     "A02_COM_SCI/Data Structure/01 Data Structure 基础.md",
     "A01_MATH/Calculus/Calculus Formula.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
     "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
     "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A03_FIN/Financial Management/V 02_代理問題.pdf",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
-    "A02_COM_SCI/Data Structure/02 Array.md",
     "A03_FIN/Economics/3_Answer.pdf",
     "A03_FIN/Economics/3_Answer .pdf",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/08 Java method.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
