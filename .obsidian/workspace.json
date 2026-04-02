@@ -71,8 +71,7 @@
               "title": "V 06_財務報表分析_更新版"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,13 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "742ce64e394fffa0",
+  "active": "ce5ac976cff78273",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/V 05_財務報表與自由現金流量.pdf",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
-    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
-    "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
+    "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A02_COM_SCI/Coursera/Big Data Analytics-- Business Applications and Strategic Decisions/05 Big Data Analytics —— 大数据的商业应用策略.md",
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
