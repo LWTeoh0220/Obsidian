@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "851d5deb772d5ac9",
+  "active": "742ce64e394fffa0",
   "lastOpenFiles": [
     "A03_FIN/Financial Management/V 05_財務報表與自由現金流量.pdf",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
