@@ -10,7 +10,6 @@ latest update: 2026-02-23
 ---
 # Topic：Business Information Systems in Your Career
 
-
 ### Learning Objectives
 1. Why are information systems so essential for running and managing a business today
 2. What exactly is an information system? How does it work? What are its people organizational, and technology components?
