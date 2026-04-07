@@ -125,8 +125,8 @@ $P(X=x_i) =p_i, i =1,2,3,\dots,n$
 $(1) 1\le p \le 0$
 $(2)p_1+p_2+p_3+\dots+p_n =1$
 
-$X$ : discrete random variable
-$x_i$ : variable
+$X$ : discrete random variable 离散随机变数
+$x_i$ : variable 随机变量
 $p_i$ : associated probabilities
 
 value of $P(x \le a)$= $P(X=x_1) +P(X=x_2) + \dots +P(X=x_a)$
