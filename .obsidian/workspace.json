@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "04 RV、CDF、PMF、机率分布 的反向連結"
             }
           },
           {
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b2d3d6c368911ea",
+  "active": "20e551d5df79d29f",
   "lastOpenFiles": [
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、机率分布.md",
