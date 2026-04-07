@@ -128,7 +128,7 @@ $(2)p_1+p_2+p_3+\dots+p_n =1$
 
 $X$ : discrete random variable 离散随机变数
 $x_i$ : variable 随机变量
-$p_i$ : associated probabilities
+$p_i/f(x)$ : associated probabilities 各变量发生的机率
 
 value of $P(x \le a)$= $P(X=x_1) +P(X=x_2) + \dots +P(X=x_a)$
 
