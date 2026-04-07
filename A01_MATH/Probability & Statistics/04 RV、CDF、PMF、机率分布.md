@@ -127,6 +127,7 @@ $(2)p_1+p_2+p_3+\dots+p_n =1$
 
 $X$ : discrete random variable
 $x_i$ : variable
+$p_i$ : associated probabilities
 
 
 #### PMF $\Rightarrow$ CDF
