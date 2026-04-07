@@ -129,6 +129,8 @@ $X$ : discrete random variable
 $x_i$ : variable
 $p_i$ : associated probabilities
 
+value of $P(x \le a)$= $P(X=x_1) +P(X=x_2) + \dots +P(X=x_a)$
+
 
 #### PMF $\Rightarrow$ CDF
 $$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
