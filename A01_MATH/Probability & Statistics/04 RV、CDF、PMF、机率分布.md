@@ -120,8 +120,15 @@ $$p_X(x) \overset{def}{=} P(X \le x)$$
 #### 条件：
 - 非负性：所有可能的x机率必须大于或等于0
 - 单位和性质：所有可能结果的机率综合必须精确等于1
+
 $P(X=x_i) =p_i, i =1,2,3,\dots,n$
-	$p_1+p_2+$
+$(1) 1\le p \le 0$
+$(2)p_1+p_2+p_3+\dots+p_n =1$
+
+$X$ : discrete random variable
+$x_i$ : variable
+
+
 #### PMF $\Rightarrow$ CDF
 $$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
 
