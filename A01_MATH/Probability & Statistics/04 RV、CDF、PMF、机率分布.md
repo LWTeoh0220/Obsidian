@@ -115,6 +115,7 @@ $F_X(1.7) = P(0 \le X \le 1.7)=1$
 
 
 ## 4.3 机率质量函数(Probability Mass Funtion) PMF
+PMF为**离散随机变数的机率函数**
 对任意整数值的**离散随机变数**X，我们定义PMF为函数
 $$p_X(x) \overset{def}{=} P(X \le x)$$
 #### 条件：
