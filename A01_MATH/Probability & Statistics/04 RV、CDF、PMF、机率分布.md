@@ -148,7 +148,7 @@ $$P_X(x)=F_X(x^+)-F_X(x^-)$$
 ## 4.4 离散机率分布 I
 ### Bernoulli机率分布
 - 一次实验两种结果
-X ~ Bernoulli(p) 【另一个结果为 (1-p)】
+X ~ Bernoulli(p) 
 
 1. PMF
 $$p_X(x) = \begin{cases} 
@@ -175,8 +175,9 @@ Eg:
 
 ### Binomial 机率分布
 - 多次实验两种结果
-- 若实验成功率为p作n次实验，X表成功次数
+- 若实验成功率为p, 作n次实验，X表成功次数
 X ~ BIN(n,p)
+
 1. PMF
 $p_X(x)$
 $=P(X=x)$
@@ -255,3 +256,18 @@ eg:
 #### 特性：
 期望值等於變異數 : 平均發生次數（$\lambda$）越高，波動（離散程度）就越大
 	如果一個路口平均一年才 1 次車禍，發生 0 次或 2 次都很正常（波動小）；但如果平均一年 100 次，實際發生 80 次或 120 次都很常見（波動大）
+
+
+
+
+
+
+continuous rv
+
+CDF:
+$F_X(x) =\int_{-\infty}^xf_x(u)du$
+$$\begin{cases} 
+0 & , x\le a, \\
+\dfrac{x-a}{b-a} & ,a< x\le b, \\ 
+1 & ,x > b. 
+\end{cases}$$
