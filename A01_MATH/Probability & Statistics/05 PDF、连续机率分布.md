@@ -42,7 +42,8 @@ PDF可以大于1
 
 
 #### Exponential 机率分布
-- 具有失意性(memoryless)
+- 具有失意性(memoryless) —— 
+- 与期望值相关
 ![[Pasted image 20260408170212.png]]
 
 
