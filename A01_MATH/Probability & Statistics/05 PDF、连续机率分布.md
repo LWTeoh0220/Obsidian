@@ -90,4 +90,5 @@ $\Phi(z) = \int_{-\infty}^Z \frac{1}{\sqrt{2\pi}}e^{-\frac{z^2}{2}} du$
 
 
 
-![[Pasted image 20260408225804.png]]
+![[Pasted image 20260408225804.png]]![[Pasted image 20260408230018.png]]
+
