@@ -45,7 +45,7 @@ $\Rightarrow X=0,X=1,X=2,X=3,....$
 	1.无穷多
 	2.不可数
 
-
+可数： 可以被一个个数的
 ### 无穷多
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 对于无穷多的两个集合，两者的数量一样多
