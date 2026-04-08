@@ -102,8 +102,8 @@ $P(3 < X \le 5) = P(-\infty < X \le 5) - P(-\infty < X \le 3)$
 $\dots$
 当 $x \in [n, +\infty)$ 时， $F_X(x) = 1$
 
-因此  $F_X(X^+)=F_X(x)$
-	 $F_X(X^-)=F_X(x)-P(X=x)$
+因此  $F_X(x^+)=F_X(x)$
+	 $F_X(x^-)=F_X(x)-P(X=x)$
 ### 连续随机变数的CDF
 当 $x \in [0, 1)$ 时，
 $F_X(-0.1) = P(X \le -0.1)=0$
@@ -112,6 +112,7 @@ $F_X(0.5) = P(0 \le X \le 0.5)=0.5$
 $F_X(1) = P(0 \le X \le 1)=1$
 $F_X(1.7) = P(0 \le X \le 1.7)=1$
 
+$P(0 \le X < 0.7) =F(0.7^-) = 0.7$ 
 因此  $F_X(x^-)=F_X(x)=F_X(x^+)$
 
 
@@ -133,6 +134,9 @@ $p_i/f(x)$ : associated probabilities 各变量发生的机率
 
 value of $P(x \le a)$= $P(X=x_1) +P(X=x_2) + \dots +P(X=x_a)$
 
+eg:
+$F_X(2.5) = P(X \le 2.5) = P(X= 2) +P(X=1)+P(X=0)+P(X=-1)+\dots$
+$p_X(2.5) = P(X = 2.5) = F_X(2.5^+) -F_X(2.5^-)$
 
 #### PMF $\Rightarrow$ CDF
 $$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
