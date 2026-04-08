@@ -183,7 +183,7 @@ Eg:
 - 若实验成功率为p, 作n次实验，X表成功次数
 X ~ BIN(n,p)
 
-1. PDF
+1. PMF
 $p_X(x)$
 $=P(X=x)$
 = $\dbinom{n}{x}p^x(1-p)^{n-x}$

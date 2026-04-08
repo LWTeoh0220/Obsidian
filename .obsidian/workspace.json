@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+                "file": "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "05 PDF、连续机率分布 的反向連結"
+              "title": "04 RV、CDF、PMF、离散机率分布 的反向連結"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+                "file": "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "05 PDF、连续机率分布 的對外連結"
+              "title": "04 RV、CDF、PMF、离散机率分布 的對外連結"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+                "file": "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05 PDF、连续机率分布 的大綱"
+              "title": "04 RV、CDF、PMF、离散机率分布 的大綱"
             }
           }
         ],
@@ -216,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b2d3d6c368911ea",
+  "active": "34345852ad23fcc3",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "00_Assets/Pasted image 20260408170519.png",
     "00_Assets/Pasted image 20260408170447.png",
     "00_Assets/Pasted image 20260408170212.png",
