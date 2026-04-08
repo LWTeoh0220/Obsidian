@@ -21,4 +21,11 @@ $= F'_X(x)$
 
 $CDF F_X(x) \rightarrow PDF f_X(x)$—— $\frac{d}{dx}$
 $PDF f_X(x)\rightarrow  CDF F_X(x)$—— $\int_{-\infty}^x$
+
+$P(a < X \le b) = F_X(b) -F_X(a)$
+$\int_{-\infty}^bf_X(x)dx-\int_{-\infty}^af_X(x)dx$
+$\int_a^bf_X(x)dx$
+
+
+
 ## 5-2 连续机率分布
