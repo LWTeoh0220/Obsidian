@@ -71,6 +71,7 @@ $$F_X(x) \overset{def}{=} P(X \le x)$$
 	定義域 (Domain) = (-无限, 无限）
 	對應域Range = [0,1]
 
+#### 用途： 计算X落在某范围内地机率
 $P(a < X \le b)$
 $F_X(b) - F_X(a)$
 
