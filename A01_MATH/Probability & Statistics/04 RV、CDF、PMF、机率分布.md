@@ -200,6 +200,22 @@ eg: 如果籤筒裡有 10 支籤，每支被抽中的機率都是0.1
 
 - 1次实验，n种结果，结果机率均等
 如果X等于a, a+1..., b
+PDF:
+$$f_X(x) = \begin{cases} 
+\dfrac{1}{b-a} & ,a\le x\le b, \\ 
+0 & ,otherwise 
+\end{cases}$$
+
+CDF:
+$F_X(x) =\int_{-\infty}^xf_x(u)du$
+$$\begin{cases} 
+0 & , x\le a, \\
+\dfrac{x-a}{b-a} & ,a< x\le b, \\ 
+1 & ,x > b. 
+\end{cases}$$
+
+
+
 
 ![[Pasted image 20260327003633.png]]
 a (下界)：變數X可能出現的最小值
