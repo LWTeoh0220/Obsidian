@@ -142,7 +142,7 @@ $p_X(2.5) = P(X = 2.5)， p_X(3) = F_X(2) - F_X(2^-)$
 $$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
 
 #### CDF $\Rightarrow$ PMF
-$$P_X(x)=F_X(x^+)-F_X(x^-)$$
+$$p_X(x)=F_X(x^+)-F_X(x^-)$$
 
 
 ### 机率分布 Probability Distribution
