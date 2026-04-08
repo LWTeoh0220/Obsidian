@@ -77,11 +77,17 @@ CDF:
 
 
 
-#####  Standard Normal Distribution 标准常态分布
+#####  Standard Normal Distribution 标准常态分布 （特殊的值）
 Z ~ N(0,1)
 PDF:
 $F_Z(z) =\frac{1}{\sqrt{2\pi}}e^{-\frac{z^2}{2}}$
 
 CDF:
 $\Phi(z) = \int_{-\infty}^Z \frac{1}{\sqrt{2\pi}}e^{-\frac{z^2}{2}} du$
-![[Pasted image 20260408224849.png]]
+![[Pasted image 20260408224849.png]]![[Pasted image 20260408225256.png]
+
+![[Pasted image 20260408225708.png]]
+
+
+
+![[Pasted image 20260408225804.png]]
