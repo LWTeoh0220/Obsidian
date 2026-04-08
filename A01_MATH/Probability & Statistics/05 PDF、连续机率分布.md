@@ -37,7 +37,15 @@ PDF可以大于1
 ## 5-2 连续机率分布
 
 #### Uniform 机率分布
+在一個指定的範圍內（從a到b），每一個點發生的機會（機率密度）完全一樣
 ![[Pasted image 20260408165355.png]]
 
 
 #### Exponential 机率分布
+- 具有失意性(memoryless)
+![[Pasted image 20260408170212.png]]
+
+
+#### Erlang机率分布
+![[Pasted image 20260408170447.png]]
+![[Pasted image 20260408170519.png]]
