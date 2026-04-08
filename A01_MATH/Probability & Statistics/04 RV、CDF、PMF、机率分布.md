@@ -178,43 +178,18 @@ Eg:
 - 若实验成功率为p, 作n次实验，X表成功次数
 X ~ BIN(n,p)
 
-1. PMF
-$p_X(x)$
-$=P(X=x)$
-= $\dbinom{n}{x}p^x(1-p)^{n-x}$
-
-2. CDF
-$$\begin{aligned}
-F_X(x) &=\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
-&=\sum\limits_{m=-\infty}^{[x]}\dbinom{n}{m}p^m(1-p)^{n-m}
-\end{aligned}$$
-
-
 Eg:
 	成功率为0.6作10次实验，X表成功次数
 	X ~ Bernoulli(10,0.6)
 	= p(X=8)
 	= $\dbinom{10}{8}0.6^8(1-0.6)^{10-8}$
 
+
 ### Uniform机率分布
 eg: 如果籤筒裡有 10 支籤，每支被抽中的機率都是0.1
 
 - 1次实验，n种结果，结果机率均等
 如果X等于a, a+1..., b
-PDF:
-$$f_X(x) = \begin{cases} 
-\dfrac{1}{b-a} & ,a\le x\le b, \\ 
-0 & ,otherwise 
-\end{cases}$$
-
-CDF:
-$F_X(x) =\int_{-\infty}^xf_x(u)du$
-$$\begin{cases} 
-0 & , x\le a, \\
-\dfrac{x-a}{b-a} & ,a< x\le b, \\ 
-1 & ,x > b. 
-\end{cases}$$
-
 
 
 
@@ -243,6 +218,8 @@ eg：抽到第a张卡牌的机率
 若实验成功机率为p，试到第k次成功为止共作了X次
 ![[Pasted image 20260327204316.png]]
 
+
+
 ### Poisson 机率分布
 eg: 
 时间维度 —— 一小時內，便利商店進進出出的**客入人數**
@@ -264,10 +241,14 @@ eg:
 
 continuous rv
 
-CDF:
-$F_X(x) =\int_{-\infty}^xf_x(u)du$
-$$\begin{cases} 
-0 & , x\le a, \\
-\dfrac{x-a}{b-a} & ,a< x\le b, \\ 
-1 & ,x > b. 
-\end{cases}$$
+1. PMF
+$p_X(x)$
+$=P(X=x)$
+= $\dbinom{n}{x}p^x(1-p)^{n-x}$
+
+2. CDF
+$$\begin{aligned}
+F_X(x) &=\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
+&=\sum\limits_{m=-\infty}^{[x]}\dbinom{n}{m}p^m(1-p)^{n-m}
+\end{aligned}$$
+
