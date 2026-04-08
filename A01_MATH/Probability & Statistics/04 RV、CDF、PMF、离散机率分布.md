@@ -3,9 +3,9 @@ course: P & S
 category:
 tags:
 latest update: 2026-03-10
-status:
+status: 🧠Understanding / 🧪Testing / 🚀Mastered
 ---
-# Topic：随机变数、CDF、PMF、机率分布
+# Topic：随机变数、CDF、PMF、离散机率分布
 
 ## 4.1 随机变数 (Random Variable) —— RV
 #### 什么是 R.V. —— 数字化
