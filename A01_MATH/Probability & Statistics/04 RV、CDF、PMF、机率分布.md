@@ -136,7 +136,7 @@ value of $P(x \le a)$= $P(X=x_1) +P(X=x_2) + \dots +P(X=x_a)$
 
 eg:
 $F_X(2.5) = P(X \le 2.5) = P(X= 2) +P(X=1)+P(X=0)+P(X=-1)+\dots$
-$p_X(2.5) = P(X = 2.5)， p$
+$p_X(2.5) = P(X = 2.5)， p_X(3) = F_X(2) - F_X(2^-)$
  
 #### PMF $\Rightarrow$ CDF
 $$F_X(x) =\sum\limits_{n=-\infty}^{[x]}p_X(x)$$
