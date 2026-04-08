@@ -42,11 +42,16 @@ PDF可以大于1
 
 
 #### Exponential 机率分布
-- 具有失意性(memoryless) —— 
+- 具有失意性(memoryless) —— 已经发生的事情不会影响未来的概率
 - 与期望值相关
 ![[Pasted image 20260408170212.png]]
 
 
 #### Erlang机率分布
+用来modal一件有多个关卡事情的总时间，而每个关卡所需时间都是随机的
+
 ![[Pasted image 20260408170447.png]]
 ![[Pasted image 20260408170519.png]]
+
+当n为1，Erlang将变成Exponential
+每一个关卡是独立的Exponential lambda随机变数的整合
