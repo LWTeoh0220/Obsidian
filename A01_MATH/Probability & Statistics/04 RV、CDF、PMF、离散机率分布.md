@@ -183,6 +183,17 @@ Eg:
 - 若实验成功率为p, 作n次实验，X表成功次数
 X ~ BIN(n,p)
 
+1. PDF
+$p_X(x)$
+$=P(X=x)$
+= $\dbinom{n}{x}p^x(1-p)^{n-x}$
+
+2. CDF
+$$\begin{aligned}
+F_X(x) &=\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
+&=\sum\limits_{m=-\infty}^{[x]}\dbinom{n}{m}p^m(1-p)^{n-m}
+\end{aligned}$$
+
 Eg:
 	成功率为0.6作10次实验，X表成功次数
 	X ~ Bernoulli(10,0.6)
@@ -243,16 +254,5 @@ eg:
 
 
 
-continuous rv
 
-1. PMF
-$p_X(x)$
-$=P(X=x)$
-= $\dbinom{n}{x}p^x(1-p)^{n-x}$
-
-2. CDF
-$$\begin{aligned}
-F_X(x) &=\sum\limits_{n=-\infty}^{[x]}p_X(x)\\
-&=\sum\limits_{m=-\infty}^{[x]}\dbinom{n}{m}p^m(1-p)^{n-m}
-\end{aligned}$$
 

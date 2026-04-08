@@ -12,7 +12,7 @@ status: 🧠Understanding / 🧪Testing / 🚀Mastered
 机率分布不均等，对于**连续的随机变数**，我们用PDF了解某个数字发生的机率大小
 
 - 范围内（样本空间）具有无限个数字，因此
-$PMF:p_X(a) = p = 0$。a为任意数，因此找PMF无意义
+$PMF:p_X(a) = p = 0$。连续RV每点发生机率为0，因此找PMF无意义
 
 连续的东西用密度，机率密度：
 $PDF:f_X(x) = \lim\limits_{\Delta x\to 0}\frac{P(x\le X\le x+ \Delta x)}{\Delta x}$
@@ -35,3 +35,9 @@ PDF可以大于1
 
 
 ## 5-2 连续机率分布
+
+#### Uniform 机率分布
+![[Pasted image 20260408165355.png]]
+
+
+#### Exponential 机率分布
