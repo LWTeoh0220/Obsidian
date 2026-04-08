@@ -59,4 +59,15 @@ PDF可以大于1
 
 
 
-#### Normal 机率分布（常态分布）
+#### Normal 机率分布（常态分布）/ Gaussian高斯机率分布
+常被用作 很多随机量的总和
+
+X ~ Gaussian($\mu,\sigma$)
+X ~ N（$\mu,\sigma^2$)
+
+PDF:
+$f_X(x) =\frac{1}{\sqrt{2\pi\sigma}}$
+
+PDF是一个对称的钟形，对称于$\mu$，宽窄取决于$\sigma$
+$\sigma$ 大则宽，小则窄
+
