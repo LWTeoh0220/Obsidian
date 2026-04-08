@@ -55,3 +55,8 @@ PDF可以大于1
 
 当n为1，Erlang将变成Exponential
 每一个关卡是独立的Exponential lambda随机变数的整合
+
+
+
+
+#### Normal 机率分布（常态分布）
