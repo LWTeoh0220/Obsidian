@@ -14,7 +14,11 @@ status: 🧠Understanding / 🧪Testing / 🚀Mastered
 - 范围内（样本空间）具有无限个数字，因此
 $PMF:p_X(a) = p = 0$。a为任意数，因此找PMF无意义
 
+连续的东西用密度，机率密度：
+$PDF:f_X(x) = \lim\limits_{\Delta x\to 0}\frac{P(x\le X\le x+ \Delta x)}{\Delta x}$
+$= \lim\limits_{\Delta \to0}\frac{F_X(x+\Delta x) - F_X(x)}{\Delta x}$
+$= F'_X(x)$
 
-
-
+$CDF F_X(x) \rightarrow PDF f_X(x)$—— $\frac{d}{dx}$
+$PDF f_X(x)\rightarrow  CDF F_X(x)$—— $\int_{-\infty}^x$
 ## 5-2 连续机率分布
