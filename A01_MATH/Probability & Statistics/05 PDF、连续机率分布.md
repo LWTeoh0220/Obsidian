@@ -23,9 +23,15 @@ $CDF F_X(x) \rightarrow PDF f_X(x)$—— $\frac{d}{dx}$
 $PDF f_X(x)\rightarrow  CDF F_X(x)$—— $\int_{-\infty}^x$
 
 $P(a < X \le b) = F_X(b) -F_X(a)$
-$\int_{-\infty}^bf_X(x)dx-\int_{-\infty}^af_X(x)dx$
-$\int_a^bf_X(x)dx$
+$=\int_{-\infty}^bf_X(x)dx-\int_{-\infty}^af_X(x)dx$
+$=\int_a^bf_X(x)dx$
 
+PDF为CDF的微分
+- $f_X(x) =F'_X(x)$ 
+- $F_X(x) =\int_a^bf_X(x)dx$ 
+- $\int_{-\infty}^{\infty}f_X(x) = 0$
+- $f_X(x) \ge 0$
+PDF可以大于1
 
 
 ## 5-2 连续机率分布
