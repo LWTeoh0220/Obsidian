@@ -60,8 +60,8 @@ $\lambda$速率参数(rate parameter)：单位时间（或单位距离）内事�
 
 当n为1，Erlang将变成Exponential
 每一个关卡是独立的Exponential lambda随机变数的整合
-
-
+k越大越往右移，且形状越来越对称(趋近常态分布)
+$\lambda$
 
 
 #### Normal 机率分布（常态分布）/ Gaussian高斯机率分布
