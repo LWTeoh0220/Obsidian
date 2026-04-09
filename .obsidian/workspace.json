@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
+                "file": "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "06 财务决策、货币的时间价值 的反向連結"
+              "title": "V 07_貨幣時間價值與現金流量 的反向連結"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
+                "file": "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "06 财务决策、货币的时间价值 的對外連結"
+              "title": "V 07_貨幣時間價值與現金流量 的對外連結"
             }
           },
           {
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
+                "file": "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "06 财务决策、货币的时间价值 的大綱"
+              "title": "V 07_貨幣時間價值與現金流量 的大綱"
             }
           }
         ],
@@ -241,12 +241,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5366b441d38cf09",
+  "active": "3e328a90d5ed09b2",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
-    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A03_FIN/Financial Management/財管第5-6章(貨幣時間價值與現金流量).pdf",
     "D03_OTHERS/生命教育/生命教育 Week 7 上课重点与心得.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
