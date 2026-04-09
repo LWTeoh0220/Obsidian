@@ -29,7 +29,7 @@ $=\int_a^bf_X(x)dx$
 PDF为CDF的微分
 - $f_X(x) =F'_X(x)$ 
 - $F_X(x) =\int_a^bf_X(x)dx$ 
-- $\int_{-\infty}^{\infty}f_X(x) = 0$
+- $\int_{-\infty}^{\infty}f_X(x) = 1$
 - $f_X(x) \ge 0$
 PDF可以大于1
 
