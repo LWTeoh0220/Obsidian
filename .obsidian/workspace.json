@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -215,14 +216,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff83cde8bcb14f34",
+  "active": "feeb993994b19a51",
   "lastOpenFiles": [
+    "A01_MATH/Probability & Statistics/6 期望值.md",
     "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
     "D03_OTHERS/台湾科技发展史/~$WM69b33f5323c01.xlsx",
     "D03_OTHERS/发声.md",
     "D03_OTHERS/台湾科技发展史/WM69b33f5323c01.xlsx",
-    "A01_MATH/Probability & Statistics/6 期望值.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "00_Assets/Pasted image 20260410014300.png",
     "00_Assets/Pasted image 20260410013410.png",
@@ -262,7 +263,6 @@
     "A03_FIN/Financial Management/03 金融市場與機構 & 市場效率性.md",
     "A03_FIN/Financial Management/02 公司目标与代理问题.md",
     "A01_MATH/Calculus/U1b Calculus/5th_week_4.pdf",
-    "A01_MATH/Calculus/U1b Calculus/4th_week_4.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
