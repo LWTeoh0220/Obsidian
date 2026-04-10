@@ -48,33 +48,9 @@
               "icon": "lucide-file",
               "title": "6 期望值"
             }
-          },
-          {
-            "id": "868f677800458cfc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "課程進度 —— 台灣科技發展史"
-            }
-          },
-          {
-            "id": "180a4d8a4a43bb69",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "核能發電與爭科技專家的發言方式與筞略運用"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,11 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "180a4d8a4a43bb69",
+  "active": "ff83cde8bcb14f34",
   "lastOpenFiles": [
     "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
-    "D03_OTHERS/台湾科技发展史/~$WM69b33f5323c01.xlsx",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
+    "D03_OTHERS/台湾科技发展史/~$WM69b33f5323c01.xlsx",
     "D03_OTHERS/发声.md",
     "D03_OTHERS/台湾科技发展史/WM69b33f5323c01.xlsx",
     "A01_MATH/Probability & Statistics/6 期望值.md",
