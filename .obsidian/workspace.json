@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ea66e25cf11784c",
+  "active": "ff83cde8bcb14f34",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
+    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
     "00_Assets/Pasted image 20260411161138.png",
     "A03_FIN/Economics/Midterm_Answersheet.docx",
