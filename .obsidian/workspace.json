@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "05 PDF、连续机率分布"
             }
+          },
+          {
+            "id": "f5b0fbd97167b30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 财务决策、货币的时间价值"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -230,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff83cde8bcb14f34",
+  "active": "f5b0fbd97167b30d",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
+    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
     "00_Assets/Pasted image 20260411161138.png",
     "A03_FIN/Economics/Midterm_Answersheet.docx",
