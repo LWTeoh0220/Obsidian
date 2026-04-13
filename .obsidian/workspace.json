@@ -22,31 +22,21 @@
             }
           },
           {
-            "id": "50b1cf5fab29368e",
+            "id": "4dfc86ae76a49965",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure w6.pdf"
+                "file": "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Data Structure w6"
-            }
-          },
-          {
-            "id": "25ccfd812f44cd30",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure w8.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Data Structure w8"
+              "icon": "lucide-file",
+              "title": "04 RV、CDF、PMF、离散机率分布"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,16 +201,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25ccfd812f44cd30",
+  "active": "4dfc86ae76a49965",
   "lastOpenFiles": [
-    "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w8.pdf~RF116e4bc7.TMP",
-    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
-    "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
-    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+    "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
+    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
+    "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w8.pdf~RF116e4bc7.TMP",
+    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A02_COM_SCI/Data Structure/Data Structure w5.pdf",
     "A02_COM_SCI/Data Structure/Data Structure w4.pdf",
@@ -231,7 +221,6 @@
     "A03_FIN/Economics/Midterm_Answersheet.docx",
     "A03_FIN/Economics/Midterm_Answer.pdf",
     "A03_FIN/Economics/MidtermExercise20260408_Answersheet.docx",
-    "A03_FIN/Economics/MidtermExercise20260408_Answersheet.pdf",
     "00_Assets/Pasted image 20260411150744.png",
     "00_Assets/Pasted image 20260411150439.png",
     "00_Assets/Pasted image 20260411143537.png",
