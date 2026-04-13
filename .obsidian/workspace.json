@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "6-7 期望值、随机变数之函数、条件机率分布与失意性"
             }
+          },
+          {
+            "id": "66390e4c63f849ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 公理与条件机率"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dfc86ae76a49965",
+  "active": "66390e4c63f849ef",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
+    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
