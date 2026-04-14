@@ -86,6 +86,18 @@
               "icon": "lucide-file-text",
               "title": "Week_5_繁空"
             }
+          },
+          {
+            "id": "7ff1315b10297747",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A01_MATH/Probability & Statistics/Week_6_繁空.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week_6_繁空"
+            }
           }
         ],
         "currentTab": 5
@@ -255,12 +267,12 @@
   },
   "active": "6623385a68c1779d",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/Week_4_繁空.pdf",
+    "A01_MATH/Probability & Statistics/Week_6_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_5_繁空.pdf",
+    "A01_MATH/Probability & Statistics/Week_4_繁空.pdf",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
     "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
-    "A01_MATH/Probability & Statistics/Week_6_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_2_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_1_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_7_繁空.pdf",
