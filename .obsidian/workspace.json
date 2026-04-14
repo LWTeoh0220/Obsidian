@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "66390e4c63f849ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 PDF、连续机率分布"
+            }
+          },
+          {
             "id": "040cb78d33e91cdc",
             "type": "leaf",
             "state": {
@@ -47,20 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "6-7 期望值、随机变数之函数、条件机率分布与失意性"
-            }
-          },
-          {
-            "id": "66390e4c63f849ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 公理与条件机率"
             }
           }
         ],
@@ -231,12 +231,12 @@
   },
   "active": "4dfc86ae76a49965",
   "lastOpenFiles": [
-    "00_Assets/Pasted image 20260414111341.png",
-    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
-    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
-    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
+    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
+    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
+    "00_Assets/Pasted image 20260414111341.png",
+    "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
     "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
     "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
@@ -268,7 +268,6 @@
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "00_Assets/Pasted image 20260408230018.png",
     "00_Assets/Pasted image 20260408225804.png",
-    "00_Assets/Pasted image 20260408225708.png",
     "A01_MATH/Linear Algebra/01 The geometry of linear equations.md",
     "A01_MATH/Formula_Sheet.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/未命名.md",
