@@ -75,7 +75,7 @@ X ~ Gaussian($\mu,\sigma$)
 X ~ N($\mu,\sigma^2$)
 
 PDF:
-$f_X(x) =\dfrac{1}{\sqrt{2\pi\sigma}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
+$f_X(x) =\dfrac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
 
 PDF是一个对称的钟形，对称于$\mu$，宽窄取决于$\sigma$
 $\sigma$ 大则宽，小则窄
