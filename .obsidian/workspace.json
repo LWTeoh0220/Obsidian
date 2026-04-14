@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "6-7 期望值、随机变数之函数、条件机率分布与失意性"
             }
+          },
+          {
+            "id": "524c26b5fe0bcf57",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A01_MATH/Probability & Statistics/Week_2_繁空.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week_2_繁空"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,11 +241,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "040cb78d33e91cdc",
+  "active": "524c26b5fe0bcf57",
   "lastOpenFiles": [
+    "A01_MATH/Probability & Statistics/Week_1_繁空.pdf",
+    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A01_MATH/Probability & Statistics/Week_7_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_5_繁空.pdf",
-    "A01_MATH/Probability & Statistics/Week_1_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_2_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_3_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_4_繁空.pdf",
@@ -242,7 +255,6 @@
     "A01_MATH/Probability & Statistics/Week_7_繁空10603.pdf",
     "00_Assets/Pasted image 20260414144931.png",
     "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
-    "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "00_Assets/Pasted image 20260414144047.png",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
@@ -250,7 +262,6 @@
     "00_Assets/Pasted image 20260414111341.png",
     "A01_MATH/Probability & Statistics/03 独立性、图解、数数.md",
     "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "00_Assets/Pasted image 20260411161138.png",
     "00_Assets/Pasted image 20260411150744.png",
