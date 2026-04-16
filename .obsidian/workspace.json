@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -289,13 +289,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "040cb78d33e91cdc",
+  "active": "3853eb99c6475248",
   "lastOpenFiles": [
-    "A01_MATH/Probability & Statistics/Week_7_繁空.pdf",
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
-    "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
     "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
+    "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
+    "A01_MATH/Probability & Statistics/Week_7_繁空.pdf",
     "A01_MATH/Probability & Statistics/改頭換面定理.pdf",
+    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "A01_MATH/Probability & Statistics/Week_6_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_4_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_5_繁空.pdf",
