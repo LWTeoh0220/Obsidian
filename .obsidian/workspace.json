@@ -11,10 +11,12 @@
             "id": "001cdaac86340add",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "pdf",
+              "state": {
+                "file": "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "課程進度 —— 台灣科技發展史"
             }
           }
         ]
@@ -184,6 +186,8 @@
   },
   "active": "001cdaac86340add",
   "lastOpenFiles": [
+    "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
+    "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A01_MATH/Probability & Statistics/Week_3_繁空.pdf",
     "A01_MATH/Probability & Statistics/Week_2_繁空.pdf",
@@ -221,7 +225,6 @@
     "D03_OTHERS/生命教育/生命教育 Week 6 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 5 上课重点与心得.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
-    "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A01_MATH/Linear Algebra/01 The geometry of linear equations.md",
     "A01_MATH/Formula_Sheet.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/未命名.md",
