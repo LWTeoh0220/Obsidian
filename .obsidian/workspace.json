@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf"
+                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "課程進度 —— 台灣科技發展史"
+              "title": "核能發電與爭科技專家的發言方式與筞略運用"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -186,6 +187,7 @@
   },
   "active": "001cdaac86340add",
   "lastOpenFiles": [
+    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
@@ -205,7 +207,6 @@
     "A01_MATH/Probability & Statistics/Week_5_繁空.pdf",
     "00_Assets/Pasted image 20260415010814.png",
     "A01_MATH/Probability & Statistics/Week_5_繁空10601.pdf",
-    "A01_MATH/Probability & Statistics/Week_7_繁空10603.pdf",
     "00_Assets/Pasted image 20260414144931.png",
     "00_Assets/Pasted image 20260414144047.png",
     "00_Assets/Pasted image 20260414111341.png",
