@@ -13,13 +13,50 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
+                "file": "A02_COM_SCI/Data Structure/Data Structure w4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "核能發電與爭科技專家的發言方式與筞略運用"
+              "title": "Data Structure w4"
+            }
+          },
+          {
+            "id": "38bb9a1cb7ed9c7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A02_COM_SCI/Data Structure/Data Structure w5.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Structure w5"
+            }
+          },
+          {
+            "id": "32b6a54a94b58c36",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A02_COM_SCI/Data Structure/Data Structure w6.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Structure w6"
+            }
+          },
+          {
+            "id": "be91b8de9cf4a152",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A02_COM_SCI/Data Structure/Data Structure w8.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Data Structure w8"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,10 +222,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "001cdaac86340add",
+  "active": "be91b8de9cf4a152",
   "lastOpenFiles": [
-    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w5.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w4.pdf",
+    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
+    "A02_COM_SCI/Coursera/Renewable Energy Futures",
+    "Snipaste_2026-03-22_18-47-30.png",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
+    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A01_MATH/Probability & Statistics/Week_3_繁空.pdf",
@@ -201,16 +245,10 @@
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "A01_MATH/Probability & Statistics/Week_4_繁空.pdf",
-    "A01_MATH/Probability & Statistics/改頭換面定理.pdf",
-    "A01_MATH/Probability & Statistics/Week_7_繁空.pdf",
-    "A01_MATH/Probability & Statistics/Week_6_繁空.pdf",
-    "A01_MATH/Probability & Statistics/Week_5_繁空.pdf",
     "00_Assets/Pasted image 20260415010814.png",
-    "A01_MATH/Probability & Statistics/Week_5_繁空10601.pdf",
     "00_Assets/Pasted image 20260414144931.png",
     "00_Assets/Pasted image 20260414144047.png",
     "00_Assets/Pasted image 20260414111341.png",
-    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "00_Assets/Pasted image 20260411161138.png",
     "00_Assets/Pasted image 20260411150744.png",
     "00_Assets/Pasted image 20260411150439.png",
@@ -218,7 +256,6 @@
     "C03_LANGUAGE/Chinese/分组报告 —— 看见大翅鲸.md",
     "D03_OTHERS/阿卡贝拉社/发声.md",
     "00_Assets/Pasted image 20260410014300.png",
-    "00_Assets/Pasted image 20260410013410.png",
     "D03_OTHERS/生命教育/生命教育 Week 7 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 3 上课重点与心得.md",
