@@ -1,283 +1,52 @@
-<!DOCTYPE html>
-<html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Two-Stack Queue 視覺化</title>
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #12121c;
-            color: #ffffff;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-height: 100vh;
-            padding-top: 50px;
-        }
-
-        h1 {
-            font-size: 2.5rem;
-            margin-bottom: 10px;
-            text-shadow: 0 0 10px rgba(79, 172, 254, 0.8);
-        }
-
-        .log-panel {
-            background: #1e1e2f;
-            padding: 10px 20px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            min-width: 300px;
-            text-align: center;
-            font-size: 1.2rem;
-            color: #00f2fe;
-            border: 1px solid #333;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-            height: 45px;
-        }
-
-        .container {
-            display: flex;
-            gap: 80px;
-            margin-bottom: 40px;
-        }
-
-        .stack-wrapper {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-
-        .stack-title {
-            margin-bottom: 15px;
-            font-size: 1.2rem;
-            color: #a1a1aa;
-        }
-
-        /* Stack 容器：使用 border-bottom, border-left, border-right 畫出一個Ｕ型槽 */
-        .stack {
-            width: 140px;
-            height: 350px;
-            border: 4px solid #3b82f6;
-            border-top: none;
-            border-radius: 0 0 15px 15px;
-            background: rgba(59, 130, 246, 0.05);
-            display: flex;
-            flex-direction: column-reverse; /* 讓 appendChild 視覺上從底部往上疊 */
-            align-items: center;
-            padding: 10px;
-            position: relative;
-            box-shadow: inset 0 -10px 20px rgba(59, 130, 246, 0.2), 0 10px 20px rgba(0,0,0,0.5);
-        }
-
-        /* Stack 2 用不同顏色區分 */
-        #stack2 {
-            border-color: #ec4899;
-            background: rgba(236, 72, 153, 0.05);
-            box-shadow: inset 0 -10px 20px rgba(236, 72, 153, 0.2), 0 10px 20px rgba(0,0,0,0.5);
-        }
-
-        .block {
-            width: 100px;
-            height: 45px;
-            margin-top: 5px;
-            border-radius: 8px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-weight: bold;
-            font-size: 1.5rem;
-            color: white;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-            animation: dropIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
-        }
-
-        .block.blue {
-            background: linear-gradient(135deg, #3b82f6 0%, #2dd4bf 100%);
-        }
-
-        .block.pink {
-            background: linear-gradient(135deg, #ec4899 0%, #f43f5e 100%);
-        }
-
-        @keyframes dropIn {
-            from { transform: translateY(-300px); opacity: 0; }
-            to { transform: translateY(0); opacity: 1; }
-        }
-
-        @keyframes popOut {
-            from { transform: translateY(0); opacity: 1; }
-            to { transform: translateY(-300px) scale(0.5); opacity: 0; }
-        }
-
-        .controls {
-            display: flex;
-            gap: 20px;
-        }
-
-        button {
-            padding: 15px 40px;
-            font-size: 1.2rem;
-            font-weight: bold;
-            color: white;
-            border: none;
-            border-radius: 50px;
-            cursor: pointer;
-            transition: all 0.2s;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
-
-        button:active {
-            transform: scale(0.95);
-        }
-
-        button:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        #btn-push {
-            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-            box-shadow: 0 5px 15px rgba(16, 185, 129, 0.4);
-        }
-
-        #btn-push:hover:not(:disabled) { box-shadow: 0 5px 25px rgba(16, 185, 129, 0.7); }
-
-        #btn-pop {
-            background: linear-gradient(135deg, #f43f5e 0%, #e11d48 100%);
-            box-shadow: 0 5px 15px rgba(244, 63, 94, 0.4);
-        }
-
-        #btn-pop:hover:not(:disabled) { box-shadow: 0 5px 25px rgba(244, 63, 94, 0.7); }
-
-    </style>
-</head>
-<body>
-
-    <h1>Two-Stack 演算法視覺化</h1>
-    <div class="log-panel" id="log">等待操作...</div>
-
-    <div class="container">
-        <div class="stack-wrapper">
-            <div class="stack-title">Stack 1 (進件區)</div>
-            <div class="stack" id="stack1"></div>
-        </div>
-
-        <div class="stack-wrapper">
-            <div class="stack-title">Stack 2 (出件區)</div>
-            <div class="stack" id="stack2"></div>
-        </div>
-    </div>
-
-    <div class="controls">
-        <button id="btn-push">PUSH (入隊)</button>
-        <button id="btn-pop">POP (出隊)</button>
-    </div>
-
-    <script>
-        const stack1 = document.getElementById('stack1');
-        const stack2 = document.getElementById('stack2');
-        const logPanel = document.getElementById('log');
-        const btnPush = document.getElementById('btn-push');
-        const btnPop = document.getElementById('btn-pop');
-        
-        let isAnimating = false; // 用來防止動畫進行時被連續點擊破壞狀態
-
-        // 輔助函數：暫停時間以產生動畫延遲效果
-        const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
-
-        function setButtonsState(disabled) {
-            btnPush.disabled = disabled;
-            btnPop.disabled = disabled;
-            isAnimating = disabled;
-        }
-
-        function updateLog(message) {
-            logPanel.innerText = message;
-        }
-
-        // PUSH 操作：永遠只放入 Stack 1
-        btnPush.addEventListener('click', async () => {
-            if (isAnimating) return;
+def analyze_server_log(file_path):
+    stack = []
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
             
-            // 限制一下高度避免超出畫面
-            if (stack1.childElementCount >= 6) {
-                updateLog("⚠️ Stack 1 已經滿了！");
-                return;
-            }
-
-            // 產生 1~99 的隨機數字
-            const num = Math.floor(Math.random() * 99) + 1;
-            
-            const block = document.createElement('div');
-            block.className = 'block blue';
-            block.innerText = num;
-            
-            stack1.appendChild(block);
-            updateLog(`📥 PUSH: 新增元素 [ ${num} ] 到 Stack 1`);
-        });
-
-        // POP 操作：
-        btnPop.addEventListener('click', async () => {
-            if (isAnimating) return;
-
-            // 規則 C: 兩個都是空的
-            if (stack1.childElementCount === 0 && stack2.childElementCount === 0) {
-                updateLog("❌ Queue 為空 (Warehouse Empty)！");
-                return;
-            }
-
-            setButtonsState(true); // 鎖定按鈕
-
-            // 規則 A: 如果 Stack 2 是空的，必須先把 Stack 1 倒過來
-            if (stack2.childElementCount === 0) {
-                updateLog("🔄 Stack 2 為空，開始將 Stack 1 逐一搬移至 Stack 2...");
-                await sleep(800);
-
-                while (stack1.childElementCount > 0) {
-                    // 取 Stack 1 最上面的元素 (在 column-reverse 中是 lastElementChild)
-                    const topBlock = stack1.lastElementChild;
-                    const val = topBlock.innerText;
-
-                    // 讓 Stack 1 的元素播放飛走動畫
-                    topBlock.style.animation = 'popOut 0.3s forwards';
-                    await sleep(300); // 等待飛走動畫
-                    stack1.removeChild(topBlock);
-
-                    // 在 Stack 2 產生相同的元素並播放掉落動畫
-                    const newBlock = document.createElement('div');
-                    newBlock.className = 'block pink';
-                    newBlock.innerText = val;
-                    stack2.appendChild(newBlock);
-                    
-                    updateLog(`🔄 搬移元素 [ ${val} ] -> Stack 2`);
-                    await sleep(400); // 稍微等待讓視覺上有依序倒件的感覺
-                }
+        for line_num, line in enumerate(lines, 1):
+            line = line.strip()
+            if not line: 
+                continue
                 
-                updateLog("✅ 搬移完成！準備執行出貨 (POP)");
-                await sleep(800);
-            }
-
-            // 規則 B: 只要 Stack 2 有東西，直接從 Stack 2 拿
-            const itemToPop = stack2.lastElementChild;
-            const popVal = itemToPop.innerText;
+            # 將 "[START] api_name" 切割成 action 和 api_name
+            parts = line.split(" ", 1)
+            if len(parts) != 2:
+                continue
+                
+            action, api_name = parts[0], parts[1]
             
-            updateLog(`🚀 POP: 成功從 Stack 2 彈出元素 [ ${popVal} ]`);
-            
-            itemToPop.style.animation = 'popOut 0.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) forwards';
-            await sleep(500); // 等待飛走動畫播完
-            stack2.removeChild(itemToPop);
+            # 遇到 [START] 就 push 進 Stack
+            if action == "[START]":
+                stack.append(api_name)
+                
+            # 遇到 [END] 就檢查 Stack 最上方
+            elif action == "[END]":
+                # 防呆：如果 Stack 已經空了卻還有 END
+                if not stack:
+                    print(f"❌ 行號 {line_num} 異常：遇到 [END] {api_name}，但根本沒有 START 過！")
+                    return
+                
+                # Pop 出最上面的 API
+                top_api = stack.pop()
+                
+                # 檢查是否匹配
+                if top_api != api_name:
+                    print(f"⚠️ 發現異常！發生在第 {line_num} 行：")
+                    print(f"👉 系統預期要結束的 API 是：【{top_api}】 (因為它最後執行)")
+                    print(f"👉 但實際卻提早結束了：【{api_name}】")
+                    print(f"🎯 結論：卡住/發生 Deadlock 的 API 是 【{top_api}】")
+                    return # 題目說找出「第一個」異常，所以找到就可以結束了
 
-            setButtonsState(false); // 解鎖按鈕
-        });
-    </script>
-</body>
-</html>
+        # 如果跑完日誌，Stack 裡面還有東西，代表有人沒 END
+        if stack:
+            print(f"⚠️ 日誌結束，但有 API 尚未完成 (缺少 END)：{stack}")
+        else:
+            print("✅ 伺服器日誌一切正常，沒有異常。")
+            
+    except FileNotFoundError:
+        print(f"找不到檔案：{file_path}，請確認檔名與路徑。")
+
+# 執行分析
+analyze_server_log("Q7_server_log.txt")
