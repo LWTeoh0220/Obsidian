@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "94711316a287e24c",
+        "id": "0102cb3201c172b4",
         "type": "tabs",
         "children": [
           {
-            "id": "001cdaac86340add",
+            "id": "8426527fa5b9e7ae",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure w4.pdf"
+                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Data Structure w4"
-            }
-          },
-          {
-            "id": "38bb9a1cb7ed9c7f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure w5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Data Structure w5"
-            }
-          },
-          {
-            "id": "32b6a54a94b58c36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure w6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Data Structure w6"
-            }
-          },
-          {
-            "id": "be91b8de9cf4a152",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A02_COM_SCI/Data Structure/Data Structure w8.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Data Structure w8"
+              "title": "核能發電與爭科技專家的發言方式與筞略運用"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158792eceb8f6393",
+  "active": "8426527fa5b9e7ae",
   "lastOpenFiles": [
+    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
+    "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
+    "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
+    "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
+    "A02_COM_SCI/Data Structure/Data Structure w5.pdf",
     "A02_COM_SCI/Data Structure/Midterm/index.html",
     "A02_COM_SCI/Data Structure/Midterm/新增 Text Document.txt",
     "A02_COM_SCI/Data Structure/Midterm/新增資料夾",
@@ -238,14 +207,8 @@
     "A02_COM_SCI/Data Structure/Midterm/Q2.png",
     "A02_COM_SCI/Data Structure/Midterm/Q1.png",
     "A02_COM_SCI/Data Structure/Midterm",
-    "A02_COM_SCI/Data Structure/新增資料夾",
-    "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w5.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w4.pdf",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "Snipaste_2026-03-22_18-47-30.png",
-    "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
