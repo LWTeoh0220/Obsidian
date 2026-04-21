@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0102cb3201c172b4",
+        "id": "75d8f15ce486ccf2",
         "type": "tabs",
         "children": [
           {
-            "id": "8426527fa5b9e7ae",
+            "id": "db8ee9080d21f926",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "核能發電與爭科技專家的發言方式與筞略運用"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -184,10 +182,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8426527fa5b9e7ae",
+  "active": "158792eceb8f6393",
   "lastOpenFiles": [
-    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
+    "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
+    "D03_OTHERS/阿卡贝拉社/发声.md",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
+    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
     "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
@@ -206,7 +206,6 @@
     "A02_COM_SCI/Data Structure/Midterm/Q3.png",
     "A02_COM_SCI/Data Structure/Midterm/Q2.png",
     "A02_COM_SCI/Data Structure/Midterm/Q1.png",
-    "A02_COM_SCI/Data Structure/Midterm",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "Snipaste_2026-03-22_18-47-30.png",
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
@@ -217,7 +216,6 @@
     "A01_MATH/Probability & Statistics/01 机率与统计 Basic.md",
     "A02_COM_SCI/Computer Languages/Markup & Typesetting/Markdown/04 Markdown 数学公式.md",
     "C03_LANGUAGE/Chinese/分组报告 —— 看见大翅鲸.md",
-    "D03_OTHERS/阿卡贝拉社/发声.md",
     "D03_OTHERS/生命教育/生命教育 Week 7 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 2 上课重点与心得.md",
     "D03_OTHERS/生命教育/生命教育 Week 3 上课重点与心得.md",
