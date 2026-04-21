@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "04 Java if statement"
             }
+          },
+          {
+            "id": "703e40f1727f4825",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
           }
         ]
       }
@@ -188,9 +198,9 @@
   },
   "active": "db8ee9080d21f926",
   "lastOpenFiles": [
+    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
