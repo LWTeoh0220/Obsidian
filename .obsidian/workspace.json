@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "cef13563ea063f20",
+        "id": "6fdbd8c429129b80",
         "type": "tabs",
         "children": [
           {
-            "id": "ee9d18922b03f84b",
+            "id": "5b7e5db03a576adc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf"
+                "file": "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5_CHN_Theory of production and the analysis of cost"
+              "title": "6_CHN_Firms in Competitive Markets"
             }
           }
         ]
       },
       {
-        "id": "55acf86adebba579",
+        "id": "e3a2acff3e21d52d",
         "type": "tabs",
         "children": [
           {
-            "id": "2887389d318e7743",
+            "id": "53c1ca8e4903bb96",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf"
+                "file": "A03_FIN/Economics/6_ENG_Firms in Competitive Markets.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "5_ENG_Theory of production and the analysis of cost"
+              "title": "6_ENG_Firms in Competitive Markets"
             }
           }
         ]
@@ -203,19 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee9d18922b03f84b",
+  "active": "53c1ca8e4903bb96",
   "lastOpenFiles": [
+    "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf.~tmp",
+    "A03_FIN/Economics/7_ENG_Monopoly.pdf",
+    "A03_FIN/Economics/7_CHN_Monopoly.pdf",
+    "A03_FIN/Economics/6_ENG_Firms in Competitive Markets.pdf",
+    "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf",
     "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf",
     "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf",
     "A03_FIN/Economics/4_W1_AnswerSheet.docx",
     "A03_FIN/Economics/4_W1_Answer.pdf",
     "A03_FIN/Economics/E_Lecture4_W1_AnswerSheet.pdf",
     "A03_FIN/Economics/~$Lecture4_W1_AnswerSheet.docx",
-    "A03_FIN/Economics/4_CHN_The Theory of Consumer Choice.pdf",
-    "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf",
-    "A03_FIN/Economics/4_ENG_The Theory of Consumer Choice.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
-    "A03_FIN/Economics/E_Lecture4_W1_AnswerSheet.docx",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/03 Java Maths.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
@@ -224,7 +225,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/10 Java Object-Oriented Programming.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/Index of Programming_Java.md",
     "A02_COM_SCI/MIS/01 Business Information Systems in Your Career.md",
-    "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf.~tmp",
     "A02_COM_SCI/MIS/02 Global E-business and Collaboration.md",
     "D03_OTHERS/阿卡贝拉社/发声.md",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
