@@ -11,10 +11,24 @@
             "id": "ee9d18922b03f84b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5_CHN_Theory of production and the analysis of cost"
+            }
+          },
+          {
+            "id": "2887389d318e7743",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5_ENG_Theory of production and the analysis of cost"
             }
           }
         ]
@@ -184,6 +198,11 @@
   },
   "active": "ee9d18922b03f84b",
   "lastOpenFiles": [
+    "A03_FIN/Economics/4_CHN_The Theory of Consumer Choice.pdf",
+    "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf",
+    "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf",
+    "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf",
+    "A03_FIN/Economics/4_ENG_The Theory of Consumer Choice.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/04 Java if statement.md",
     "A03_FIN/Economics/E_Lecture4_W1_AnswerSheet.docx",
     "A02_COM_SCI/Computer Languages/Programmming/Java/05 Java Printf.md",
@@ -202,10 +221,6 @@
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A02_COM_SCI/Data Structure/Data Structure w8.pdf",
     "A02_COM_SCI/Data Structure/Data Structure w6.pdf",
-    "A02_COM_SCI/Data Structure/Data Structure w5.pdf",
-    "A02_COM_SCI/Data Structure/Midterm/index.html",
-    "A02_COM_SCI/Data Structure/Midterm/新增 Text Document.txt",
-    "A02_COM_SCI/Data Structure/Midterm/新增資料夾",
     "A02_COM_SCI/Data Structure/Midterm/Q8.png",
     "A02_COM_SCI/Data Structure/Midterm/Q7.png",
     "A02_COM_SCI/Data Structure/Midterm/Q6_2.png",
