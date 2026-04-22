@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdbd8c429129b80",
+        "id": "cd3e69bd82a9b225",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7e5db03a576adc",
+            "id": "30824e5cb0166642",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf"
+                "file": "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "6_CHN_Firms in Competitive Markets"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e3a2acff3e21d52d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53c1ca8e4903bb96",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A03_FIN/Economics/6_ENG_Firms in Competitive Markets.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "6_ENG_Firms in Competitive Markets"
+              "title": "課程進度 —— 台灣科技發展史"
             }
           }
         ]
@@ -94,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -203,16 +184,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c1ca8e4903bb96",
+  "active": "30824e5cb0166642",
   "lastOpenFiles": [
+    "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf",
+    "A03_FIN/Economics/6_ENG_Firms in Competitive Markets.pdf",
     "D03_OTHERS/台湾科技发展史/核能發電與爭議 .pdf",
     "D03_OTHERS/台湾科技发展史/~$小組報告-戰後電力系統的技術與人才.pptx",
     "D03_OTHERS/台湾科技发展史/小組報告-戰後電力系統的技術與人才.pptx",
     "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf.~tmp",
     "A03_FIN/Economics/7_ENG_Monopoly.pdf",
     "A03_FIN/Economics/7_CHN_Monopoly.pdf",
-    "A03_FIN/Economics/6_ENG_Firms in Competitive Markets.pdf",
-    "A03_FIN/Economics/6_CHN_Firms in Competitive Markets.pdf",
     "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf",
     "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf",
     "A03_FIN/Economics/4_W1_AnswerSheet.docx",
