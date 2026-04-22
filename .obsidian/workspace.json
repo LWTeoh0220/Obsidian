@@ -18,7 +18,13 @@
               "icon": "lucide-file-text",
               "title": "5_CHN_Theory of production and the analysis of cost"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "55acf86adebba579",
+        "type": "tabs",
+        "children": [
           {
             "id": "2887389d318e7743",
             "type": "leaf",
@@ -88,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e28f9f290538ad7",
