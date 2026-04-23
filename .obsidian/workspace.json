@@ -84,9 +84,21 @@
               "icon": "lucide-file-text",
               "title": "財管第7章(利率與債券定價)"
             }
+          },
+          {
+            "id": "b78859d888c08639",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "課程進度 —— 台灣科技發展史"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,10 +263,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52785d65c0796cc9",
+  "active": "b78859d888c08639",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
     "A03_FIN/Financial Management/財管第7章(利率與債券定價).pdf",
+    "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
     "A03_FIN/Financial Management/自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
