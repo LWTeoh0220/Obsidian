@@ -23,12 +23,14 @@
             "id": "6809cafd6742d76a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf"
+                "file": "A03_FIN/Financial Management/王甡 期中 期末考.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "王甡 02_利率與債券定價"
+              "icon": "lucide-file",
+              "title": "王甡 期中 期末考"
             }
           }
         ]
@@ -198,11 +200,11 @@
   },
   "active": "b78859d888c08639",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
-    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
-    "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
+    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
+    "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
+    "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
     "D03_OTHERS/台湾科技发展史/讲稿.md",
     "A03_FIN/Financial Management/台大 自由现金流量ppt.pdf",
     "A03_FIN/Financial Management/尚未確認的 319341.crdownload",
