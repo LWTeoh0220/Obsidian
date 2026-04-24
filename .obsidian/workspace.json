@@ -39,13 +39,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf"
+                "file": "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "核能發電與爭科技專家的發言方式與筞略運用"
+              "title": "SP 王甡 財務管理Syllabus"
+            }
+          },
+          {
+            "id": "5dc7d5f3056c42b6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b78859d888c08639",
+  "active": "6809cafd6742d76a",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
     "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
     "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
@@ -219,7 +231,6 @@
     "A03_FIN/Financial Management/SP 林淑玲 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/北科大資財系 財務管理課程簡介與授課大綱.pdf",
-    "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
     "A03_FIN/Financial Management/SP 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/財管第7章(利率與債券定價).pdf",
