@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf"
+                "file": "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "課程進度 —— 台灣科技發展史"
+              "title": "V 07_貨幣時間價值與現金流量"
             }
           },
           {
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -213,6 +212,11 @@
   },
   "active": "b78859d888c08639",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
+    "A03_FIN/Financial Management/SP 財務管理Syllabus.pdf",
+    "A03_FIN/Financial Management/自由現金流量結構圖與名詞定義.pptx.pdf",
+    "A03_FIN/Financial Management/財管第7章(利率與債券定價).pdf",
+    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
     "D03_OTHERS/台湾科技发展史/~$WM69b33f5323c01.xlsx",
     "D03_OTHERS/台湾科技发展史/~$小組報告-戰後電力系統的技術與人才.pptx",
     "D03_OTHERS/台湾科技发展史/~$台灣科技發展史 核能發電與爭議.pptx",
@@ -220,12 +224,7 @@
     "D03_OTHERS/台湾科技发展史/台灣科技發展史 核能發電與爭議.pdf",
     "D03_OTHERS/台湾科技发展史/核能發電與爭議  科技專家的發言方式與筞略運用.pdf",
     "D03_OTHERS/台湾科技发展史/讲稿.md",
-    "D03_OTHERS/台湾科技发展史/核能發電與爭科技專家的發言方式與筞略運用.pdf",
-    "D03_OTHERS/台湾科技发展史/課程進度 —— 台灣科技發展史.pdf",
-    "D03_OTHERS/台湾科技发展史/核能發電與爭議 .pdf",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
-    "A03_FIN/Financial Management/財管第7章(利率與債券定價).pdf",
-    "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
