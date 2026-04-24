@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "6809cafd6742d76a",
+            "id": "2be1109bb8253599",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "A03_FIN/Financial Management/王甡 期中 期末考.md",
-                "mode": "source",
-                "source": false
+                "file": "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf"
               },
-              "icon": "lucide-file",
-              "title": "王甡 期中 期末考"
+              "icon": "lucide-file-text",
+              "title": "王甡 01_貨幣時間價值與現金流量"
             }
           }
         ]
@@ -202,8 +200,9 @@
   },
   "active": "b78859d888c08639",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
+    "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
+    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
     "D03_OTHERS/未命名",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
@@ -214,7 +213,6 @@
     "A03_FIN/Financial Management/尚未確認的 319341.crdownload",
     "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
     "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
-    "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
