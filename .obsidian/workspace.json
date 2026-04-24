@@ -11,12 +11,14 @@
             "id": "b78859d888c08639",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf"
+                "file": "C02_UNIVERSITY/Semester Planning/未来计划.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SP 王甡 財務管理Syllabus"
+              "icon": "lucide-file",
+              "title": "未来计划"
             }
           },
           {
@@ -200,9 +202,11 @@
   },
   "active": "b78859d888c08639",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
+    "C02_UNIVERSITY/Semester Planning/未来计划.md",
+    "D03_OTHERS/未命名",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
-    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/SP 範例_台積電FCF計算步驟(20241114).pdf",
     "D03_OTHERS/台湾科技发展史/讲稿.md",
@@ -211,7 +215,6 @@
     "A03_FIN/Financial Management/V 06_財務報表分析_更新版.pdf",
     "A03_FIN/Financial Management/V 07_貨幣時間價值與現金流量.pdf",
     "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf",
-    "A03_FIN/Financial Management/SP 林淑玲 財務管理Syllabus.pdf",
     "D03_OTHERS/台湾科技发展史/台湾科技发展史 Week 3.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
@@ -244,7 +247,6 @@
     "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "A01_MATH/Probability & Statistics/6-7 期望值、随机变数之函数、条件机率分布与失意性.md",
     "A01_MATH/Probability & Statistics/05 PDF、连续机率分布.md",
-    "A01_MATH/Probability & Statistics/04 RV、CDF、PMF、离散机率分布.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
