@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2be1109bb8253599",
+  "active": "031d5e69c1a6cfd7",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf",
+    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/大老二.md",
     "00_Assets/Pasted image 20260426194102.png",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
