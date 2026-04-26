@@ -47,7 +47,8 @@
               "title": "06 财务决策、货币的时间价值"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b78859d888c08639",
+  "active": "2be1109bb8253599",
   "lastOpenFiles": [
-    "C02_UNIVERSITY/Semester Planning/未来计划.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/大老二.md",
+    "C02_UNIVERSITY/Semester Planning/未来计划.md",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf",
