@@ -53,16 +53,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C03_LANGUAGE/Chinese/作业/超人啊A.md",
+                "file": "C03_LANGUAGE/Chinese/分组报告 —— 看见大翅鲸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "超人啊A"
+              "title": "分组报告 —— 看见大翅鲸"
+            }
+          },
+          {
+            "id": "e5d9237219469570",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C03_LANGUAGE/Chinese/参考/“臺灣海洋文學”的成立及其作家作品.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "“臺灣海洋文學”的成立及其作家作品"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,10 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5db6c9658ebee13",
+  "active": "e5d9237219469570",
   "lastOpenFiles": [
     "C03_LANGUAGE/Chinese/分组报告 —— 看见大翅鲸.md",
+    "C03_LANGUAGE/Chinese/看見大翅鯨.pdf",
     "C03_LANGUAGE/Chinese/作业/超人啊A.md",
+    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "C03_LANGUAGE/Chinese/作业",
     "C03_LANGUAGE/Chinese/参考/廖鴻基海洋書寫研究(1995-2007)_doi.pdf",
     "C03_LANGUAGE/Chinese/参考/tku-96-694000034-1.pdf",
@@ -240,8 +254,6 @@
     "C03_LANGUAGE/Chinese/参考/01.pdf",
     "C03_LANGUAGE/Chinese/参考/廖鴻基的生命腳跡及其著作.pdf",
     "C03_LANGUAGE/Chinese/参考/廖鴻基筆下的海洋民俗.pdf",
-    "C03_LANGUAGE/Chinese/参考/一座《漂島》－論廖鴻基的海洋追尋.pdf",
-    "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/大老二.md",
     "00_Assets/Pasted image 20260426194102.png",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
@@ -274,7 +286,6 @@
     "A02_COM_SCI/Data Structure/Midterm/Q3.png",
     "A02_COM_SCI/Data Structure/Midterm/Q2.png",
     "A02_COM_SCI/Data Structure/Midterm/Q1.png",
-    "A01_MATH/Probability & Statistics/02 公理与条件机率.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
