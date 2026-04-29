@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2be1109bb8253599",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "王甡 01_貨幣時間價值與現金流量"
-            }
-          },
-          {
             "id": "031d5e69c1a6cfd7",
             "type": "leaf",
             "state": {
@@ -239,13 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d13d5681f70d292c",
+  "active": "dc785588a4a86d72",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A03_FIN/Financial Management/王甡 01_貨幣時間價值與現金流量.pdf",
-    "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A02_COM_SCI/Computer Languages/Programmming/Java/大老二.md",
     "C03_LANGUAGE/Chinese/分组报告 —— 看见大翅鲸.md",
     "C03_LANGUAGE/Chinese/参考/“臺灣海洋文學”的成立及其作家作品.pdf",
