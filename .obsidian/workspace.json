@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C02_UNIVERSITY/Semester Planning/未来计划.md",
+                "file": "C02_UNIVERSITY/Semester Planning/分数计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未来计划"
+              "title": "分数计算"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -204,6 +203,10 @@
   },
   "active": "04ae2e0f98462e14",
   "lastOpenFiles": [
+    "C02_UNIVERSITY/Semester Planning/未来计划.md",
+    "C02_UNIVERSITY/Semester Planning/分数计算.md",
+    "A03_FIN/Economics/5_W1_Answer.pdf",
+    "A03_FIN/Economics/5_W1_AnswerSheet.pdf",
     "A03_FIN/Economics/5_W1_AnswerSheet.docx",
     "A03_FIN/Economics/E_Lecture5_W1_AnswerSheet.docx",
     "A02_COM_SCI/MIS/上次扫描时间：2026年5月5日 下午2_09_35.pdf",
@@ -212,9 +215,6 @@
     "A02_COM_SCI/MIS/MIS Chp3.pdf",
     "A02_COM_SCI/MIS/MIS Chp4_2.pdf",
     "A02_COM_SCI/MIS/MIS Chp5_2.pdf",
-    "A02_COM_SCI/MIS/MIS Chp4_1.pdf",
-    "A02_COM_SCI/MIS/MIS Chp5_1.pdf",
-    "A02_COM_SCI/MIS/MIS Chp3_1.pdf",
     "A01_MATH/Calculus/Desmos Project/样本.jpeg",
     "A01_MATH/Calculus/Desmos Project/蓝图.jpeg",
     "A01_MATH/Calculus/Desmos Project/WhatsApp Image 2026-05-02 at 1.27.55 AM.jpeg",
@@ -222,7 +222,6 @@
     "C03_LANGUAGE/Chinese/分组报告 —— 看见大翅鲸.md",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
-    "C02_UNIVERSITY/Semester Planning/未来计划.md",
     "A03_FIN/Financial Management/04 认识财务报表 & 自由现金流量分析.md",
     "A03_FIN/Financial Management/05 财务报表分析.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/大老二.md",
