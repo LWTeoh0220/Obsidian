@@ -53,14 +53,22 @@
             "id": "e412c7cd30b0d3cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "A03_FIN/Financial Management/07 利率與債券定價.md",
-                "mode": "source",
-                "source": false
+                "file": "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf"
               },
+              "icon": "lucide-file-text",
+              "title": "王甡 02_利率與債券定價"
+            }
+          },
+          {
+            "id": "20b6cc87e142a372",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "07 利率與債券定價"
+              "title": "新分頁"
             }
           }
         ],
@@ -231,13 +239,13 @@
   },
   "active": "e412c7cd30b0d3cd",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
+    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
+    "A03_FIN/Financial Management/07 利率與債券定價.md",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
     "A03_FIN/Financial Management/台大 自由现金流量ppt.pdf",
     "A03_FIN/Financial Management/SP 林淑玲 財務管理Syllabus.pdf",
-    "A03_FIN/Financial Management/07 利率與債券定價.md",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
     "C02_UNIVERSITY/Semester Planning/分数计算.md",
     "A01_MATH/Calculus/House model.jpeg",
@@ -248,7 +256,6 @@
     "A03_FIN/Economics/5_W1_AnswerSheet.docx",
     "A03_FIN/Economics/E_Lecture5_W1_AnswerSheet.docx",
     "A02_COM_SCI/MIS/上次扫描时间：2026年5月5日 下午2_09_35.pdf",
-    "A02_COM_SCI/MIS/MIS Chp5.pdf",
     "A01_MATH/Calculus/Desmos Project/样本.jpeg",
     "A01_MATH/Calculus/Desmos Project/蓝图.jpeg",
     "A01_MATH/Calculus/Desmos Project/WhatsApp Image 2026-05-02 at 1.27.55 AM.jpeg",
