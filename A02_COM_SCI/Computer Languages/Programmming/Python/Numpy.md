@@ -21,10 +21,10 @@ b = `np.array([[1,2,3],[4,5,6],[7,8,9]])`
 | `name.shape`             | 每个维度的元素数量 | `len(name.shape) == name.ndim`, `a = (2,3), b = (3,3)` |
 | `name.size`              | 总元素数      | `a = 6, b = 9`                                         |
 |                          |           |                                                        |
-| `np.zeros(1d,2d,3d)`     | 充满0的数组    |                                                        |
+| `np.zeros(1d,2d,3d)`     | 充满0的数组    | `np.zeros(4) -> array([0.,0.,0.,0.])`                  |
 | `np.ones(1d,2d,3d)`      | 充满1的数组    |                                                        |
 | `np.empty(1d,2d,3d)`     | 随机数字      |                                                        |
-| `np.arange(起始，终值+1, 增值)` | 元素fan     |                                                        |
+| `np.arange(起始，终值+1, 增值)` | 元素范围的数组   |                                                        |
 | `np.linspace()`          |           |                                                        |
 
 
