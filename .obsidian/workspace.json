@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C02_UNIVERSITY/Semester Planning/分数计算.md",
+                "file": "C02_UNIVERSITY/Semester Planning/未来计划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分数计算"
+              "title": "未来计划"
             }
           },
           {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -242,11 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20b6cc87e142a372",
+  "active": "04ae2e0f98462e14",
   "lastOpenFiles": [
+    "C02_UNIVERSITY/Semester Planning/分数计算.md",
+    "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
     "A02_COM_SCI/Computer Languages/Programmming/Learning Goal About Computer Languages (1-2).md",
-    "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
     "A03_FIN/Financial Management/07 利率與債券定價.md",
     "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
@@ -255,7 +254,6 @@
     "A03_FIN/Financial Management/台大 自由现金流量ppt.pdf",
     "A03_FIN/Financial Management/SP 林淑玲 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
-    "C02_UNIVERSITY/Semester Planning/分数计算.md",
     "A01_MATH/Calculus/House model.jpeg",
     "A01_MATH/Calculus/WhatsApp Image 2026-05-06 at 4.24.20 PM.jpeg",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
