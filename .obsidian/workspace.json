@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "Numpy"
             }
+          },
+          {
+            "id": "ad0bfb10c75dedee",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "SP 王甡 財務管理Syllabus"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,11 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20b6cc87e142a372",
+  "active": "ad0bfb10c75dedee",
   "lastOpenFiles": [
+    "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
     "C02_UNIVERSITY/Semester Planning/分数计算.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
     "A02_COM_SCI/Computer Languages/Programmming/Learning Goal About Computer Languages (1-2).md",
     "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
     "A03_FIN/Financial Management/07 利率與債券定價.md",
