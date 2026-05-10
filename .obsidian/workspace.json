@@ -79,12 +79,14 @@
             "id": "ad0bfb10c75dedee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf"
+                "file": "C03_LANGUAGE/Chinese/作业/转山 — 因为我怀疑.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "SP 王甡 財務管理Syllabus"
+              "icon": "lucide-file",
+              "title": "转山 — 因为我怀疑"
             }
           }
         ],
@@ -145,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e28f9f290538ad7",
@@ -256,6 +257,8 @@
   },
   "active": "ad0bfb10c75dedee",
   "lastOpenFiles": [
+    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
+    "C03_LANGUAGE/Chinese/作业/转山 — 因为我怀疑.md",
     "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
     "C02_UNIVERSITY/Semester Planning/未来计划.md",
     "C02_UNIVERSITY/Semester Planning/分数计算.md",
@@ -264,7 +267,6 @@
     "A03_FIN/Financial Management/07 利率與債券定價.md",
     "A03_FIN/Financial Management/王甡 补充_自由現金流量結構圖與名詞定義.pptx.pdf",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
-    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/台大 自由现金流量ppt.pdf",
     "A03_FIN/Financial Management/SP 林淑玲 財務管理Syllabus.pdf",
     "A03_FIN/Financial Management/06 财务决策、货币的时间价值.md",
@@ -297,7 +299,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/02 Java User Input.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Computer Languages/Programmming/Java/09 Java Arrays.md",
-    "A02_COM_SCI/Computer Languages/Programmming/Java/10 Java Object-Oriented Programming.md",
     "A02_COM_SCI/Data Structure/Midterm/Q8.png",
     "A02_COM_SCI/Data Structure/Midterm/Q7.png",
     "A02_COM_SCI/Data Structure/Midterm/Q6_2.png",
