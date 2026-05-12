@@ -37,10 +37,14 @@
             "id": "320832eb06137a82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C03_LANGUAGE/Chinese/作业/旅行提案企划书心得.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "旅行提案企划书心得"
             }
           }
         ],
@@ -209,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158792eceb8f6393",
+  "active": "320832eb06137a82",
   "lastOpenFiles": [
+    "C03_LANGUAGE/Chinese/作业/旅行提案企划书心得.md",
     "C02_UNIVERSITY/115Calendar.pdf",
     "C02_UNIVERSITY/尚未確認的 964095.crdownload",
     "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
@@ -226,7 +231,6 @@
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書",
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書.zip",
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验",
-    "C02_UNIVERSITY/Activity/新增資料夾",
     "C02_UNIVERSITY/Semester Planning/分数计算.md",
     "A02_COM_SCI/Computer Languages/Programmming/Learning Goal About Computer Languages (1-2).md",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
