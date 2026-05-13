@@ -58,21 +58,9 @@
               "icon": "lucide-file-text",
               "title": "5_CHN_Theory of production and the analysis of cost"
             }
-          },
-          {
-            "id": "8aa053f1f44e2b23",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "SP 王甡 財務管理Syllabus"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,10 +225,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aa053f1f44e2b23",
+  "active": "320832eb06137a82",
   "lastOpenFiles": [
-    "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
+    "C03_LANGUAGE/Chinese/企划书要求.jpeg",
+    "C03_LANGUAGE/Chinese/WhatsApp Image 2026-05-13 at 5.16.52 PM.jpeg",
     "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf",
+    "A03_FIN/Financial Management/SP 王甡 財務管理Syllabus.pdf",
+    "A03_FIN/Financial Management/王甡 02_利率與債券定價.pdf",
     "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf",
     "C03_LANGUAGE/Chinese/作业/旅行提案企划书心得.md",
     "A03_FIN/Economics/5_W2_AnswerSheet.docx",
@@ -255,8 +246,6 @@
     "A03_FIN/Financial Management/07 利率與債券定價.md",
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書/115新生營-社團體驗企劃書範例.pdf",
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書/115新生營-社團體驗企劃書模板.docx",
-    "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書/115新生營-社團體驗企劃書公版.pdf",
-    "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書",
     "C02_UNIVERSITY/Semester Planning/分数计算.md",
     "A02_COM_SCI/Computer Languages/Programmming/Learning Goal About Computer Languages (1-2).md",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
@@ -284,7 +273,6 @@
     "A02_COM_SCI/Computer Languages/Programmming/Java/01 Java Variables.md",
     "A02_COM_SCI/Data Structure/Midterm/Q8.png",
     "A02_COM_SCI/Data Structure/Midterm/Q7.png",
-    "A02_COM_SCI/Data Structure/Midterm/Q6_2.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
