@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "旅行提案企划书心得"
             }
+          },
+          {
+            "id": "dbdcc399d621cb99",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "5_CHN_Theory of production and the analysis of cost"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,13 +225,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "320832eb06137a82",
+  "active": "dbdcc399d621cb99",
   "lastOpenFiles": [
+    "A03_FIN/Economics/5_ENG_Theory of production and the analysis of cost.pdf",
+    "A03_FIN/Economics/5_CHN_Theory of production and the analysis of cost.pdf",
+    "C03_LANGUAGE/Chinese/作业/旅行提案企划书心得.md",
     "A03_FIN/Economics/5_W2_AnswerSheet.docx",
     "A03_FIN/Economics/E_Lecture5_W2_AnswerSheet.docx",
     "C03_LANGUAGE/Chinese/作业/超人阿A.md",
     "C03_LANGUAGE/Chinese/作业/转山 — 因为我怀疑.md",
-    "C03_LANGUAGE/Chinese/作业/旅行提案企划书心得.md",
     "C02_UNIVERSITY/115Calendar.pdf",
     "C02_UNIVERSITY/尚未確認的 964095.crdownload",
     "A02_COM_SCI/Computer Languages/Programmming/Python/Numpy.md",
@@ -231,8 +245,6 @@
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書/115新生營-社團體驗企劃書模板.docx",
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書/115新生營-社團體驗企劃書公版.pdf",
     "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書/社團體驗企畫書",
-    "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書",
-    "C02_UNIVERSITY/Activity/阿卡贝拉 新生社团体验/社團體驗企畫書.zip",
     "C02_UNIVERSITY/Semester Planning/分数计算.md",
     "A02_COM_SCI/Computer Languages/Programmming/Learning Goal About Computer Languages (1-2).md",
     "A03_FIN/Financial Management/王甡 期中 期末考.md",
